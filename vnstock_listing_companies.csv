@@ -1,0 +1,1156 @@
+ticker,exchange,shortName,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,outstandingShare,issueShare,companyType,monthlyRecords
+CMV,HOSE,Thương nghiệp Cà Mau,Bán lẻ,Retail,1980.0,666.0,583.0,0.002,http://www.tncm.com.vn,2.8,18.2,18.2,CT,CMV.csv
+COM,HOSE,Vật tư Xăng dầu,Bán lẻ,Retail,2000.0,0.0,395.0,0.003,http://comeco.vn,2.6,14.1,14.1,CT,COM.csv
+DHT,HNX,Dược phẩm Hà Tây,Bán lẻ,Retail,2001.0,795.0,749.0,0.271,http://www.hataphar.com.vn,2.8,26.4,26.4,CT,DHT.csv
+DGW,HOSE,Thế Giới Số,Bán lẻ,Retail,2003.0,612.0,1228.0,0.259,https://digiworld.com.vn,2.9,163.1,163.2,CT,DGW.csv
+TTH,HNX,TM và DV Tiến Thành,Bán lẻ,Retail,2003.0,21.0,1452.0,0.003,http://www.tienthanhjsc.vn,,37.4,37.4,CT,TTH.csv
+MWG,HOSE,Thế giới di động,Bán lẻ,Retail,2004.0,40756.0,20628.0,0.49,http://www.mwg.vn,2.9,1463.6,1463.9,CT,MWG.csv
+HTM,UPCOM,Thương mại Hà Nội - Hapro,Bán lẻ,Retail,2004.0,536.0,0.0,0.0,http://www.haprogroup.vn,2.3,220.0,220.0,CT,HTM.csv
+PIT,HOSE,XNK PETROLIMEX,Bán lẻ,Retail,2004.0,215.0,1607.0,0.008,http://www.pitco.com.vn,2.2,14.2,15.2,CT,PIT.csv
+BTT,HOSE,TM - DV Bến Thành,Bán lẻ,Retail,2004.0,175.0,473.0,0.049,http://www.benthanhtsc.com,2.6,13.5,13.5,CT,BTT.csv
+THS,HNX,Thanh Hoa Sông Đà,Bán lẻ,Retail,2004.0,62.0,240.0,0.001,http://www.thanhhoasongda.com.vn,,2.7,3.0,CT,THS.csv
+ABS,HOSE,DV Nông nghiệp Bình Thuận,Bán lẻ,Retail,2004.0,54.0,7471.0,0.0,http://www.bitagco.com,2.5,80.0,80.0,CT,ABS.csv
+PET,HOSE,PETROSETCO,Bán lẻ,Retail,2005.0,2739.0,6272.0,0.015,http://www.petrosetco.com.vn,2.5,89.8,90.5,CT,PET.csv
+KGM,UPCOM,XNK Kiên Giang,Bán lẻ,Retail,2005.0,280.0,0.0,0.0,http://www.kigimex.com.vn,,25.4,25.4,CT,KGM.csv
+AGX,UPCOM,Nông sản Xuất khẩu Sài Gòn,Bán lẻ,Retail,2006.0,832.0,238.0,0.017,http://www.agrexsaigon.com.vn,3.0,10.8,10.8,CT,AGX.csv
+PSD,HNX,Phân phối Tổng hợp Dầu khí,Bán lẻ,Retail,2007.0,313.0,1045.0,0.01,http://www.psd.com.vn,2.7,30.7,30.7,CT,PSD.csv
+SBV,HOSE,Siam Brothers Việt Nam,Bán lẻ,Retail,2008.0,531.0,481.0,0.148,http://www.siambrothersvn.com,3.1,27.3,27.4,CT,SBV.csv
+TV6,UPCOM,TM ĐT xây lắp điện Thịnh Vượng,Bán lẻ,Retail,2008.0,0.0,0.0,0.49,http://www.thinhvuongvn.com,2.1,3.0,3.0,CT,TV6.csv
+AFX,UPCOM,XNK Nông sản An Giang,Bán lẻ,Retail,2011.0,239.0,751.0,0.0,http://www.afiex.com.vn,2.4,35.0,35.0,CT,AFX.csv
+FRT,HOSE,Bán lẻ FPT,Bán lẻ,Retail,2012.0,10078.0,8981.0,0.243,http://frt.vn,2.7,118.5,118.5,CT,FRT.csv
+SAS,UPCOM,DV Hàng không sân bay TSN,Bán lẻ,Retail,2015.0,857.0,1112.0,0.004,http://www.sasco.com.vn/vi/trang-chu/,2.4,133.5,133.5,CT,SAS.csv
+AST,HOSE,Dịch vụ Hàng không Taseco,Bán lẻ,Retail,2015.0,453.0,505.0,0.445,http://www.tasecoairs.vn,2.5,45.0,45.0,CT,AST.csv
+CEN,UPCOM,CENCON Việt Nam,Bán lẻ,Retail,2015.0,19.0,443.0,0.0,http://www.cencon.vn,,21.7,21.7,CT,CEN.csv
+PGI,HOSE,Bảo hiểm PJICO,Bảo hiểm,Insurance,1995.0,1497.0,0.0,0.206,http://www.pjico.com.vn,2.7,110.9,110.9,BH,PGI.csv
+PTI,HNX,Bảo hiểm Bưu điện,Bảo hiểm,Insurance,1998.0,2539.0,9896.0,0.383,https://www.pti.com.vn/,2.4,80.4,80.4,BH,PTI.csv
+BIC,HOSE,Bảo hiểm BIDV,Bảo hiểm,Insurance,1999.0,1170.0,1598.0,0.468,http://www.bic.vn,2.8,117.3,117.3,BH,BIC.csv
+BMI,HOSE,Bảo hiểm Bảo Minh,Bảo hiểm,Insurance,2004.0,1678.0,0.0,0.323,http://www.baominh.com.vn,2.5,109.6,109.6,BH,BMI.csv
+VNR,HNX,Tái bảo hiểm Quốc gia,Bảo hiểm,Insurance,2004.0,101.0,84.0,0.271,http://www.vinare.com.vn,2.7,150.7,150.7,BH,VNR.csv
+PVI,HNX,Bảo hiểm PVI,Bảo hiểm,Insurance,2006.0,2500.0,0.0,0.588,http://www.pvi.com.vn,2.7,234.2,234.2,BH,PVI.csv
+ABI,UPCOM,BH NH Nông Nghiệp,Bảo hiểm,Insurance,2006.0,748.0,0.0,0.092,http://www.abic.com.vn,2.6,50.4,43.2,BH,ABI.csv
+BVH,HOSE,Tập đoàn Bảo Việt,Bảo hiểm,Insurance,2007.0,0.0,8682.0,0.265,https://www.baoviet.com.vn,2.6,742.3,742.3,BH,BVH.csv
+MIG,HOSE,Bảo hiểm Quân đội,Bảo hiểm,Insurance,2012.0,1957.0,0.0,0.089,https://www.mic.vn,2.5,164.5,164.5,BH,MIG.csv
+AIC,UPCOM,Bảo hiểm Hàng không,Bảo hiểm,Insurance,2012.0,1647.0,0.0,0.001,http://www.vna-insurance.com,2.6,100.0,100.0,BH,AIC.csv
+BLI,UPCOM,Bảo hiểm Nhà Rồng,Bảo hiểm,Insurance,2012.0,978.0,1275.0,0.008,http://www.baohiembaolong.vn,2.8,60.0,60.0,BH,BLI.csv
+PRE,HNX,Tái bảo hiểm PVI,Bảo hiểm,Insurance,2013.0,42.0,106.0,0.004,http://www.pvire.com.vn,2.2,72.8,72.8,BH,PRE.csv
+TIX,HOSE,TANIMEX,Bất động sản,Real Estate,1981.0,113.0,436.0,0.005,http://www.tanimex.com.vn,3.1,30.0,30.0,CT,TIX.csv
+TDH,HOSE,Thủ Đức House,Bất động sản,Real Estate,1990.0,310.0,0.0,0.023,http://www.thuduchouse.com,2.2,112.7,112.7,CT,TDH.csv
+NVL,HOSE,Đầu tư Địa ốc No Va (Novaland),Bất động sản,Real Estate,1992.0,2248.0,11113.0,0.053,http://www.novaland.com.vn,2.7,1949.8,1949.8,CT,NVL.csv
+NDN,HNX,PT Nhà Đà Nẵng,Bất động sản,Real Estate,1992.0,19.0,202.0,0.019,http://www.ndn.com.vn,2.9,71.7,71.7,CT,NDN.csv
+FDC,HOSE,FIDECO,Bất động sản,Real Estate,1993.0,174.0,0.0,0.0,http://www.fidecovn.com,2.2,38.6,38.6,CT,FDC.csv
+QCG,HOSE,Quốc Cường Gia Lai,Bất động sản,Real Estate,1994.0,112.0,0.0,0.006,http://www.quoccuonggialai.com.vn,2.4,275.1,275.1,CT,QCG.csv
+C21,UPCOM,Thế kỷ 21,Bất động sản,Real Estate,1997.0,123.0,619.0,0.004,http://www.c21.com.vn,2.7,18.1,19.3,CT,C21.csv
+SGR,HOSE,Địa ốc Sài Gòn,Bất động sản,Real Estate,1999.0,222.0,2228.0,0.0,http://www.saigonres.com.vn,3.0,60.0,60.0,CT,SGR.csv
+VPH,HOSE,Vạn Phát Hưng,Bất động sản,Real Estate,1999.0,97.0,7365.0,0.008,http://www.vanphathung.com,2.9,95.4,95.4,CT,VPH.csv
+ITC,HOSE,Đầu tư kinh doanh Nhà,Bất động sản,Real Estate,2000.0,172.0,0.0,0.003,http://www.intresco.com.vn,3.1,95.9,96.4,CT,ITC.csv
+CRE,HOSE,Bất động sản Thế Kỷ,Bất động sản,Real Estate,2001.0,1533.0,397.0,0.012,http://www.cenland.vn,3.0,463.7,201.6,CT,CRE.csv
+TIG,HNX,Tập đoàn Đầu tư Thăng Long,Bất động sản,Real Estate,2001.0,705.0,4727.0,0.099,http://www.tig.vn,3.1,176.0,160.0,CT,TIG.csv
+HDC,HOSE,Phát triển Nhà BR-VT,Bất động sản,Real Estate,2001.0,105.0,0.0,0.009,http://www.hodeco.vn,2.8,108.1,108.1,CT,HDC.csv
+LGL,HOSE,Long Giang Land,Bất động sản,Real Estate,2001.0,46.0,1394.0,0.018,http://www.longgiangland.com.vn,2.4,51.5,51.5,CT,LGL.csv
+VIC,HOSE,VinGroup,Bất động sản,Real Estate,2002.0,65325.0,32650.0,0.121,http://www.vingroup.net,2.3,3813.9,3813.9,CT,VIC.csv
+ITA,HOSE,Đầu tư CN Tân Tạo,Bất động sản,Real Estate,2002.0,593.0,65023.0,0.016,http://www.itaexpress.com.vn,2.8,938.3,938.5,CT,ITA.csv
+TDC,HOSE,Becamex TDC,Bất động sản,Real Estate,2002.0,364.0,2877.0,0.017,http://www.becamextdc.com.vn,2.8,100.0,100.0,CT,TDC.csv
+KBC,HOSE,TCT Đô thị Kinh Bắc,Bất động sản,Real Estate,2002.0,198.0,26083.0,0.17,http://www.kinhbaccity.vn/news/vi,2.8,767.6,767.6,CT,KBC.csv
+VC3,HNX,Tập đoàn Nam Mê Kông,Bất động sản,Real Estate,2002.0,132.0,1281.0,0.0,http://www.nammekong.net,2.3,100.2,100.2,CT,VC3.csv
+TIP,HOSE,PT KCN Tín Nghĩa,Bất động sản,Real Estate,2002.0,58.0,1046.0,0.162,http://www.tinnghiaip.com.vn,2.9,65.0,65.0,CT,TIP.csv
+SJS,HOSE,SUDICO,Bất động sản,Real Estate,2003.0,374.0,3111.0,0.009,https://sudicosd.com,2.3,113.9,114.9,CT,SJS.csv
+SZL,HOSE,Sonadezi Long Thành,Bất động sản,Real Estate,2003.0,111.0,863.0,0.172,http://www.szl.com.vn,3.1,18.2,20.0,CT,SZL.csv
+HPX,HOSE,Đầu tư Hải Phát,Bất động sản,Real Estate,2003.0,100.0,1727.0,0.119,http://www.haiphat.com.vn,2.4,304.2,304.2,CT,HPX.csv
+IDV,HNX,PT Hạ tầng Vĩnh Phúc,Bất động sản,Real Estate,2003.0,83.0,611.0,0.196,http://www.vpid.vn,3.1,25.2,25.2,CT,IDV.csv
+DTA,HOSE,BĐS Đệ Tam,Bất động sản,Real Estate,2003.0,39.0,141.0,0.001,http://www.detamland.com,2.5,18.1,18.1,CT,DTA.csv
+RCL,HNX,Địa Ốc Chợ Lớn,Bất động sản,Real Estate,2003.0,30.0,411.0,0.01,http://www.cholonres.com.vn,2.6,13.9,13.9,CT,RCL.csv
+PDR,HOSE,BĐS Phát Đạt,Bất động sản,Real Estate,2004.0,420.0,1373.0,0.03,https://www.phatdat.com.vn,3.0,671.6,671.6,CT,PDR.csv
+SCR,HOSE,Sacomreal,Bất động sản,Real Estate,2004.0,168.0,41608.0,0.011,http://www.sacomreal.com.vn,2.4,395.7,366.4,CT,SCR.csv
+D11,HNX,Địa ốc 11,Bất động sản,Real Estate,2004.0,137.0,0.0,0.001,http://www.diaoc11.com.vn,,7.3,6.6,CT,D11.csv
+NTL,HOSE,Đô thị Từ Liêm,Bất động sản,Real Estate,2004.0,103.0,8476.0,0.122,http://www.lideco.vn,3.1,61.0,61.0,CT,NTL.csv
+TBR,UPCOM,Địa ốc Tân Bình,Bất động sản,Real Estate,2004.0,58.0,206.0,0.0,http://www.tanbinhres.com,,8.1,8.1,CT,TBR.csv
+HD2,UPCOM,Đầu tư phát triển nhà HUD 2,Bất động sản,Real Estate,2004.0,49.0,0.0,0.001,http://www.hud2.com.vn,,9.0,9.0,CT,HD2.csv
+NLG,HOSE,BĐS Nam Long,Bất động sản,Real Estate,2005.0,1661.0,30248.0,0.416,http://www.namlongvn.com,2.7,384.1,384.1,CT,NLG.csv
+HDG,HOSE,Tập đoàn Hà Đô,Bất động sản,Real Estate,2005.0,1583.0,1695.0,0.185,http://www.hado.com.vn,2.9,244.6,244.6,CT,HDG.csv
+V21,HNX,Vinaconex 21,Bất động sản,Real Estate,2005.0,312.0,249.0,0.0,http://www.vinaconex21.vn,,12.0,12.0,CT,V21.csv
+HD6,UPCOM,Phát triển nhà số 6 Hà Nội,Bất động sản,Real Estate,2005.0,151.0,1072.0,0.0,http://www.handico6.com.vn,,14.4,14.4,CT,HD6.csv
+NTC,UPCOM,KCN Nam Tân Uyên,Bất động sản,Real Estate,2005.0,146.0,202.0,0.035,http://www.namtanuyen.com.vn,3.3,24.0,24.0,CT,NTC.csv
+NBB,HOSE,577 CORP,Bất động sản,Real Estate,2005.0,141.0,9658.0,0.014,http://nbb.com.vn,2.3,100.2,100.5,CT,NBB.csv
+PLA,UPCOM,Đầu tư và Dịch vụ hạ tầng Xăng dầu (PLAND),Bất động sản,Real Estate,2005.0,47.0,0.0,0.0,http://www.pland.petrolimex.com.vn,,10.0,10.0,CT,PLA.csv
+VRC,HOSE,Bất động sản và Đầu tư VRC,Bất động sản,Real Estate,2005.0,18.0,3064.0,0.005,http://www.vrc.com.vn,2.0,50.0,50.0,CT,VRC.csv
+BCM,HOSE,Becamex IDC,Bất động sản,Real Estate,2006.0,2398.0,1347.0,0.03,http://www.becamex.com.vn,2.4,1035.0,1035.0,CT,BCM.csv
+NVT,HOSE,Ninh Vân Bay,Bất động sản,Real Estate,2006.0,445.0,1147.0,0.001,http://www.ninhvanbay.vn,2.4,90.5,90.5,CT,NVT.csv
+API,HNX,APEC INVESTMENT,Bất động sản,Real Estate,2006.0,232.0,2495.0,0.001,https://apeci.com.vn,2.8,84.1,84.1,CT,API.csv
+LHG,HOSE,KCN Long Hậu,Bất động sản,Real Estate,2006.0,135.0,0.0,0.125,http://www.longhau.com.vn,3.1,50.0,50.0,CT,LHG.csv
+D2D,HOSE,Phát triển Đô thị số 2,Bất động sản,Real Estate,2006.0,86.0,3550.0,0.037,http://www.d2d.com.vn,2.9,30.3,30.3,CT,D2D.csv
+DRH,HOSE,DRH Holdings,Bất động sản,Real Estate,2006.0,62.0,0.0,0.012,http://www.drh.vn,2.0,123.7,124.4,CT,DRH.csv
+PTL,HOSE,Victory Capital,Bất động sản,Real Estate,2006.0,44.0,2188.0,0.001,http://victorycapital.com.vn/,2.7,98.9,100.0,CT,PTL.csv
+PWA,UPCOM,Bất động sản dầu khí,Bất động sản,Real Estate,2006.0,28.0,589.0,0.028,http://www.petrowaco.vn,,10.0,10.0,CT,PWA.csv
+CEO,HNX,Tập đoàn CEO,Bất động sản,Real Estate,2007.0,1883.0,26434.0,0.002,http://www.ceogroup.com.vn,2.5,257.3,257.3,CT,CEO.csv
+DXG,HOSE,Địa ốc Đất Xanh,Bất động sản,Real Estate,2007.0,418.0,39626.0,0.273,http://www.datxanh.com.vn,2.9,610.0,609.3,CT,DXG.csv
+SIP,UPCOM,Đầu tư Sài Gòn VRG,Bất động sản,Real Estate,2007.0,306.0,105.0,0.006,http://www.saigonvrg.com,3.2,90.9,92.9,CT,SIP.csv
+KDH,HOSE,Nhà Khang Điền,Bất động sản,Real Estate,2007.0,292.0,10737.0,0.346,http://www.khangdien.com.vn,2.6,716.8,716.8,CT,KDH.csv
+IJC,HOSE,Becamex IJC,Bất động sản,Real Estate,2007.0,266.0,6982.0,0.065,https://becamexijc.com,3.0,217.1,217.1,CT,IJC.csv
+SZC,HOSE,Sonadezi Châu Đức,Bất động sản,Real Estate,2007.0,244.0,6036.0,0.027,https://sonadezichauduc.com.vn,2.5,100.0,100.0,CT,SZC.csv
+IDJ,HNX,Đầu tư IDJ Việt Nam,Bất động sản,Real Estate,2007.0,154.0,7593.0,0.006,http://www.idjf.vn,2.7,173.5,173.5,CT,IDJ.csv
+LEC,HOSE,BĐS Điện lực Miền Trung,Bất động sản,Real Estate,2007.0,123.0,26286.0,0.0,http://www.lec.com.vn,2.3,26.1,26.1,CT,LEC.csv
+HQC,HOSE,Địa ốc Hoàng Quân,Bất động sản,Real Estate,2007.0,104.0,43657.0,0.014,http://www.hoangquan.com.vn,2.1,476.6,476.6,CT,HQC.csv
+SID,UPCOM,Đầu tư PT Sài Gòn Co.op,Bất động sản,Real Estate,2007.0,97.0,955.0,0.002,http://www.scid-jsc.com,2.3,100.0,100.0,CT,SID.csv
+TCH,HOSE,ĐT DV Tài chính Hoàng Huy,Bất động sản,Real Estate,2007.0,94.0,309.0,0.025,http://www.hoanghuy.vn,2.9,668.2,668.2,CT,TCH.csv
+HAR,HOSE,BĐS An Dương Thảo Điền,Bất động sản,Real Estate,2007.0,74.0,9423.0,0.002,http://www.adtdgroup.com,2.6,95.7,101.4,CT,HAR.csv
+CCL,HOSE,Đầu tư và Phát triển Đô thị Dầu khí Cửu Long,Bất động sản,Real Estate,2007.0,73.0,5598.0,0.009,http://www.pvcl.com.vn,3.2,53.2,53.2,CT,CCL.csv
+MH3,UPCOM,KCN Cao su Bình Long,Bất động sản,Real Estate,2007.0,67.0,202.0,0.028,http://www.blip.vn,2.7,24.0,12.0,CT,MH3.csv
+VHD,UPCOM,PT Nhà và Đô thị Vinaconex,Bất động sản,Real Estate,2007.0,50.0,0.0,0.0,http://vinahud.com.vn,2.3,38.0,38.0,CT,VHD.csv
+HLD,HNX,Bất động sản HUDLAND,Bất động sản,Real Estate,2007.0,46.0,130.0,0.052,http://www.hudland.com.vn,2.6,20.0,20.0,CT,HLD.csv
+PXL,UPCOM,KCN Dầu khí Long Sơn,Bất động sản,Real Estate,2007.0,24.0,0.0,0.001,http://www.longsonpic.vn,2.2,82.6,82.7,CT,PXL.csv
+HD8,UPCOM,PT Nhà và Đô thị HUD8,Bất động sản,Real Estate,2007.0,23.0,214.0,0.001,http://hud8.vn/,,10.0,10.0,CT,HD8.csv
+PVL,HNX,Đầu tư Nhà Đất Việt,Bất động sản,Real Estate,2007.0,20.0,2187.0,0.007,http://www.vpr.com.vn,2.8,50.0,50.0,CT,PVL.csv
+PV2,HNX,Đầu tư PV2,Bất động sản,Real Estate,2007.0,10.0,1553.0,0.001,http://www.pv2.com.vn,,36.9,37.4,CT,PV2.csv
+LSG,UPCOM,BĐS Sài Gòn Vina,Bất động sản,Real Estate,2007.0,0.0,33053.0,0.0,http://www.landsaigon.vn,2.5,90.0,90.0,CT,LSG.csv
+VHM,HOSE,Vinhomes,Bất động sản,Real Estate,2008.0,7701.0,43710.0,0.233,https://vinhomes.vn/vi,3.0,4354.4,4354.4,CT,VHM.csv
+DIG,HOSE,DIC Corp,Bất động sản,Real Estate,2008.0,866.0,48279.0,0.043,http://www.dic.vn,3.0,609.9,609.9,CT,DIG.csv
+VPI,HOSE,Đầu tư Văn Phú - Invest,Bất động sản,Real Estate,2008.0,157.0,348.0,0.009,http://www.vanphu.vn,2.6,242.0,242.0,CT,VPI.csv
+KOS,HOSE,Công ty KOSY,Bất động sản,Real Estate,2008.0,67.0,0.0,0.0,http://www.kosy.vn,2.3,216.5,216.5,CT,KOS.csv
+BVL,UPCOM,BV Land,Bất động sản,Real Estate,2008.0,46.0,175.0,0.0,http://bvland.vn,1.5,57.3,57.3,CT,BVL.csv
+VCR,UPCOM,Vinaconex - ITC,Bất động sản,Real Estate,2008.0,19.0,2796.0,0.0,https://vinaconexitc.com.vn/,2.1,210.0,210.0,CT,VCR.csv
+BII,HNX,Louis Land,Bất động sản,Real Estate,2008.0,12.0,108.0,0.001,https://louisholdings.vn,2.7,57.7,57.7,CT,BII.csv
+KHG,HOSE,Tập đoàn Khải Hoàn Land,Bất động sản,Real Estate,2009.0,144.0,568.0,0.008,https://khaihoanland.vn,2.7,449.4,443.2,CT,KHG.csv
+TLD,HOSE,ĐT XD và PT Đô thị Thăng Long,Bất động sản,Real Estate,2009.0,125.0,5758.0,0.006,http://www.thanglongdeco.com,3.0,74.8,74.8,CT,TLD.csv
+VGV,UPCOM,Tư vấn Xây dựng Việt Nam,Bất động sản,Real Estate,2010.0,3556.0,409.0,0.0,http://www.vncc.vn,2.7,35.8,35.8,CT,VGV.csv
+IDC,HNX,IDICO,Bất động sản,Real Estate,2010.0,1450.0,3799.0,0.044,http://www.idico.com.vn,3.0,330.0,330.0,CT,IDC.csv
+HTN,HOSE,Hưng Thịnh Incons,Bất động sản,Real Estate,2010.0,686.0,2858.0,0.008,http://www.hungthinhincons.com.vn,2.4,89.1,89.1,CT,HTN.csv
+LDG,HOSE,Đầu tư LDG,Bất động sản,Real Estate,2010.0,202.0,309.0,0.009,https://www.ldginvestment.vn,2.5,239.4,240.2,CT,LDG.csv
+PTN,UPCOM,Phát triển Nhà Khánh Hòa,Bất động sản,Real Estate,2010.0,49.0,37.0,0.0,http://www.phattriennhakh.vn,,5.8,5.8,CT,PTN.csv
+AAV,HNX,Việt Tiên Sơn Địa ốc,Bất động sản,Real Estate,2010.0,39.0,7892.0,0.0,http://www.viettienson.com,2.4,69.0,69.0,CT,AAV.csv
+FID,HNX,Đầu tư và PT doanh nghiệp VN,Bất động sản,Real Estate,2010.0,6.0,164.0,0.0,http://www.vndi.vn,,24.7,24.7,CT,FID.csv
+DXS,HOSE,Dịch vụ BĐS Đất Xanh,Bất động sản,Real Estate,2011.0,7191.0,1653.0,0.211,https://datxanhservices.vn,2.7,453.1,453.1,CT,DXS.csv
+THD,HNX,Công ty Thaiholdings,Bất động sản,Real Estate,2011.0,442.0,0.0,0.012,http://www.thaiholdings.com.vn,2.0,350.0,350.0,CT,THD.csv
+TEG,HOSE,TECGROUP,Bất động sản,Real Estate,2011.0,99.0,506.0,0.001,https://tecgroup.com.vn/vn,3.0,65.6,65.6,CT,TEG.csv
+VRE,HOSE,Vincom Retail,Bất động sản,Real Estate,2012.0,1981.0,34058.0,0.32,http://www.vincom.com.vn,2.7,2272.3,2328.8,CT,VRE.csv
+AGG,HOSE,Bất động sản An Gia,Bất động sản,Real Estate,2012.0,207.0,4895.0,0.049,https://angia.com.vn/,2.8,111.7,111.7,CT,AGG.csv
+VRG,UPCOM,PT Đô thị và KCN Cao su VN,Bất động sản,Real Estate,2012.0,38.0,0.0,0.0,https://vrg-vn.com/,2.8,25.9,25.9,CT,VRG.csv
+LMH,UPCOM,Quoc te Holding,Bất động sản,Real Estate,2012.0,7.0,0.0,0.0,https://quocteholding.vn/vi/home,,25.6,25.6,CT,LMH.csv
+CKG,HOSE,Xây dựng Kiên Giang,Bất động sản,Real Estate,2013.0,270.0,10601.0,0.0,http://www.cickg.com,2.8,95.3,86.6,CT,CKG.csv
+XDH,UPCOM,Đầu tư XD Dân dụng Hà Nội,Bất động sản,Real Estate,2013.0,202.0,165.0,0.0,http://www.hcci.com.vn,2.9,24.6,24.6,CT,XDH.csv
+SZB,HNX,Sonadezi Long Bình,Bất động sản,Real Estate,2013.0,94.0,315.0,0.069,http://www.szb.com.vn,2.9,30.0,30.0,CT,SZB.csv
+MGR,UPCOM,Tập đoàn MGROUP,Bất động sản,Real Estate,2013.0,0.0,119.0,0.0,https://www.mgroup.vn,,20.0,20.0,CT,MGR.csv
+TN1,HOSE,TNS Holdings,Bất động sản,Real Estate,2014.0,2579.0,660.0,0.001,http://www.tnsholdings.vn,2.8,43.2,43.2,CT,TN1.csv
+NRC,HNX,Tập đoàn Danh Khôi,Bất động sản,Real Estate,2014.0,791.0,3744.0,0.049,http://www.netland.com.vn,3.1,92.6,88.2,CT,NRC.csv
+FIR,HOSE,Địa ốc First Real,Bất động sản,Real Estate,2014.0,36.0,415.0,0.01,https://fir.vn/,3.2,44.6,44.6,CT,FIR.csv
+HU6,UPCOM,PT Nhà và Đô thị HUD6,Bất động sản,Real Estate,2014.0,29.0,297.0,0.0,http://www.hud6.vn,,7.5,7.5,CT,HU6.csv
+TID,UPCOM,Tổng Công ty Tín Nghĩa,Bất động sản,Real Estate,2015.0,1034.0,2433.0,0.0,http://www.tinnghiacorp.com.vn,2.4,200.0,200.0,CT,TID.csv
+KSF,HNX,Tập đoàn KSFinance,Bất động sản,Real Estate,2015.0,402.0,421.0,0.0,https://ksf.vn,2.3,300.0,300.0,CT,KSF.csv
+SSH,UPCOM,Phát triển Sunshine Homes,Bất động sản,Real Estate,2015.0,0.0,243.0,0.0,https://ssh.vn,2.0,375.0,375.0,CT,SSH.csv
+SZG,UPCOM,Sonadezi Giang Điền,Bất động sản,Real Estate,2017.0,83.0,129.0,0.0,http://www.sonadezi-giangdien.vn,2.7,54.9,54.9,CT,SZG.csv
+BIG,UPCOM,BIG Invest Group,Bất động sản,Real Estate,2017.0,0.0,140.0,0.001,https://biginvestgroup.vn,,5.0,5.0,CT,BIG.csv
+PMT,UPCOM,Telvina Việt Nam,Công nghệ Thông tin,Technology,1970.0,167.0,0.0,0.001,http://www.telvina.vn,,4.9,5.0,CT,PMT.csv
+VIE,UPCOM,CN Viễn thông VI TE CO,Công nghệ Thông tin,Technology,1991.0,23.0,0.0,0.006,http://www.viteco.vn,,2.1,2.1,CT,VIE.csv
+UNI,HNX,Viễn Liên,Công nghệ Thông tin,Technology,1993.0,16.0,0.0,0.016,http://www.vienlien.com.vn,1.7,15.6,15.6,CT,UNI.csv
+ST8,HOSE,Thiết bị Siêu Thanh,Công nghệ Thông tin,Technology,1994.0,563.0,882.0,0.49,http://www.st8.vn,3.4,25.7,25.7,CT,ST8.csv
+ITD,HOSE,Công nghệ Tiên Phong,Công nghệ Thông tin,Technology,1994.0,301.0,0.0,0.016,http://www.itd.com.vn,3.0,21.3,21.3,CT,ITD.csv
+HIG,UPCOM,Tập Đoàn HIPT,Công nghệ Thông tin,Technology,1994.0,101.0,911.0,0.002,http://www.hipt.com.vn,,22.6,22.6,CT,HIG.csv
+HPT,UPCOM,DV Công nghệ Tin học HPT,Công nghệ Thông tin,Technology,1995.0,329.0,471.0,0.036,http://www.hpt.vn,,8.1,8.3,CT,HPT.csv
+SAM,HOSE,SAM Holdings,Công nghệ Thông tin,Technology,1998.0,753.0,23270.0,0.007,http://www.samholdings.com.vn,2.5,380.0,365.4,CT,SAM.csv
+VTC,HNX,Viễn thông VTC,Công nghệ Thông tin,Technology,1999.0,148.0,1805.0,0.127,http://www.vtctelecom.com.vn,,4.5,4.5,CT,VTC.csv
+ICT,HOSE,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin,Technology,2001.0,484.0,639.0,0.005,http://www.ctin.vn,2.5,32.2,32.2,CT,ICT.csv
+ONE,HNX,Truyền thông Số 1,Công nghệ Thông tin,Technology,2001.0,79.0,0.0,0.122,http://www.one.com.vn,,7.9,8.0,CT,ONE.csv
+FPT,HOSE,FPT Corp,Công nghệ Thông tin,Technology,2002.0,37882.0,48598.0,0.49,https://www.fpt.com.vn/vi,2.7,1097.0,1097.0,CT,FPT.csv
+SGT,HOSE,Sài Gòn Telecom,Công nghệ Thông tin,Technology,2002.0,262.0,1645.0,0.111,http://www.saigontel.vn,2.2,148.0,74.0,CT,SGT.csv
+ELC,HOSE,ELCOM,Công nghệ Thông tin,Technology,2003.0,223.0,208.0,0.043,http://www.elcom.com.vn,2.5,58.8,50.9,CT,ELC.csv
+SRB,UPCOM,SARA,Công nghệ Thông tin,Technology,2003.0,120.0,0.0,0.008,http://www.srb.vn,,8.5,8.5,CT,SRB.csv
+CMT,UPCOM,CN mạng và Truyền thông,Công nghệ Thông tin,Technology,2003.0,61.0,0.0,0.048,http://www.infonet.com.vn,,7.3,8.0,CT,CMT.csv
+POT,HNX,Thiết bị Bưu điện Postef,Công nghệ Thông tin,Technology,2004.0,358.0,2292.0,0.001,http://postef.com.vn,2.7,19.4,19.4,CT,POT.csv
+SBD,UPCOM,Công nghệ Sao Bắc Đẩu,Công nghệ Thông tin,Technology,2004.0,194.0,0.0,0.005,http://www.saobacdau.vn,,11.5,11.5,CT,SBD.csv
+SRA,HNX,SARA Việt Nam,Công nghệ Thông tin,Technology,2004.0,25.0,4850.0,0.005,http://www.sara.com.vn,3.3,43.2,43.2,CT,SRA.csv
+CKV,HNX,CokyVina,Công nghệ Thông tin,Technology,2005.0,2218.0,372.0,0.002,http://www.cokyvina.com.vn,,4.0,4.1,CT,CKV.csv
+SMT,HNX,SAMETEL,Công nghệ Thông tin,Technology,2006.0,169.0,1240.0,0.002,http://www.sametel.com.vn,,5.5,5.5,CT,SMT.csv
+VEC,UPCOM,Điện tử và Tin học VN,Công nghệ Thông tin,Technology,2007.0,66.0,518.0,0.0,http://www.veic.com.vn,2.8,43.8,43.8,CT,VEC.csv
+VLA,HNX,PT Công nghệ Văn Lang,Công nghệ Thông tin,Technology,2007.0,21.0,69.0,0.0,http://www.vla.vn,,2.0,2.0,CT,VLA.csv
+CMG,HOSE,Tập đoàn Công nghệ CMC,Công nghệ Thông tin,Technology,2009.0,2365.0,1130.0,0.421,http://www.cmc.com.vn,2.5,150.0,150.0,CT,CMG.csv
+KST,HNX,KASATI,Công nghệ Thông tin,Technology,2009.0,93.0,0.0,0.007,http://www.kasati.com.vn,,6.0,6.0,CT,KST.csv
+MAS,HNX,Sân bay Đà Nẵng,Du lịch và Giải trí,Travel & Leisure,1991.0,675.0,562.0,0.156,http://www.masco.com.vn,,4.3,4.3,CT,MAS.csv
+DTI,UPCOM,Đầu tư Đức Trung,Du lịch và Giải trí,Travel & Leisure,1994.0,12.0,152.0,0.0,http://www.ductrung.vn,,12.1,12.1,CT,DTI.csv
+VNS,HOSE,Ánh Dương Việt Nam,Du lịch và Giải trí,Travel & Leisure,1995.0,3813.0,1124.0,0.196,http://www.vinasuncorp.com,2.7,67.9,67.9,CT,VNS.csv
+SGH,HNX,Khách sạn Sài Gòn,Du lịch và Giải trí,Travel & Leisure,1997.0,87.0,237.0,0.003,http://www.saigonhotel.com.vn,2.4,12.4,12.4,CT,SGH.csv
+ATS,HNX,"ATESCO.,JSC",Du lịch và Giải trí,Travel & Leisure,1998.0,103.0,109.0,0.0,http://www.atesco.vn,,3.5,3.5,CT,ATS.csv
+HHG,HNX,Vận tải Hoàng Hà,Du lịch và Giải trí,Travel & Leisure,2001.0,371.0,246.0,0.004,http://www.hoanghaco.com.vn,,34.9,34.9,CT,HHG.csv
+TCT,HOSE,Cáp treo Tây Ninh,Du lịch và Giải trí,Travel & Leisure,2001.0,34.0,906.0,0.203,http://www.catour.com.vn,3.1,12.8,12.8,CT,TCT.csv
+SRT,UPCOM,Vận tải Đường sắt Sài Gòn,Du lịch và Giải trí,Travel & Leisure,2002.0,1735.0,1706.0,0.001,http://saigonrailway.com.vn,2.0,50.3,50.3,CT,SRT.csv
+HRT,UPCOM,Vận tải đường sắt Hà Nội,Du lịch và Giải trí,Travel & Leisure,2003.0,3622.0,4090.0,0.0,http://www.vantaiduongsathanoi.vn,2.6,80.1,80.1,CT,HRT.csv
+DSN,HOSE,Công viên nước Đầm Sen,Du lịch và Giải trí,Travel & Leisure,2003.0,153.0,339.0,0.22,http://www.damsenwaterpark.com.vn,3.2,12.1,12.1,CT,DSN.csv
+DAH,HOSE,Tập đoàn Khách sạn Đông Á,Du lịch và Giải trí,Travel & Leisure,2003.0,12.0,327.0,0.001,https://www.mayplazahotel.com,2.7,84.2,84.2,CT,DAH.csv
+CTC,HNX,Tập đoàn Hoàng Kim Tây Nguyên,Du lịch và Giải trí,Travel & Leisure,2004.0,165.0,411.0,0.018,http://gialaitourist.com.vn,,15.8,15.8,CT,CTC.csv
+RIC,UPCOM,Quốc tế Hoàng Gia,Du lịch và Giải trí,Travel & Leisure,2005.0,813.0,0.0,0.314,http://www.royalhalonghotel.com,2.1,70.4,28.7,CT,RIC.csv
+BTV,UPCOM,DV Du lịch Bến Thành,Du lịch và Giải trí,Travel & Leisure,2005.0,328.0,188.0,0.0,https://benthanhtourist.com,2.4,25.0,25.0,CT,BTV.csv
+VNG,HOSE,DL Thành Thành Công,Du lịch và Giải trí,Travel & Leisure,2006.0,947.0,2407.0,0.005,https://ttchospitality.vn,1.9,97.3,97.3,CT,VNG.csv
+BSG,UPCOM,Xe khách Sài Gòn,Du lịch và Giải trí,Travel & Leisure,2006.0,477.0,508.0,0.0,http://www.saigonbus.com.vn/,2.6,60.0,60.0,CT,BSG.csv
+DSP,UPCOM,Dịch vụ Du lịch Phú Thọ,Du lịch và Giải trí,Travel & Leisure,2006.0,388.0,614.0,0.0,http://www.phuthotourist.com.vn,2.9,118.7,118.7,CT,DSP.csv
+HOT,HOSE,Du lịch - DV Hội An,Du lịch và Giải trí,Travel & Leisure,2006.0,122.0,216.0,0.001,http://www.hoiantourist.com,2.5,8.0,8.0,CT,HOT.csv
+DXL,UPCOM,Du lịch và Xuất nhập khẩu Lạng Sơn,Du lịch và Giải trí,Travel & Leisure,2006.0,56.0,84.0,0.019,http://tocolimexlangson.com,,4.0,4.0,CT,DXL.csv
+VJC,HOSE,Vietjet Air,Du lịch và Giải trí,Travel & Leisure,2007.0,5842.0,5333.0,0.165,http://www.vietjetair.com,2.1,541.6,541.6,CT,VJC.csv
+SKG,HOSE,Tàu Cao tốc Superdong,Du lịch và Giải trí,Travel & Leisure,2007.0,377.0,2893.0,0.367,http://www.superdong.com.vn,2.5,63.3,63.3,CT,SKG.csv
+TTT,HNX,Du lịch - Thương Mại Tây Ninh,Du lịch và Giải trí,Travel & Leisure,2007.0,110.0,137.0,0.025,http://www.tanitour.com.vn,,4.6,4.6,CT,TTT.csv
+EIN,UPCOM,Đầu tư - TM - DV Điện lực,Du lịch và Giải trí,Travel & Leisure,2007.0,100.0,0.0,0.0,http://www.ecinvest.vn,2.0,45.4,45.4,CT,EIN.csv
+PGT,HNX,PGT Holdings,Du lịch và Giải trí,Travel & Leisure,2007.0,29.0,0.0,0.543,http://www.pgt-holdings.com,,9.2,9.2,CT,PGT.csv
+SCS,HOSE,DV Hàng hóa Sài Gòn,Du lịch và Giải trí,Travel & Leisure,2008.0,501.0,1847.0,0.287,http://www.scsc.vn,2.8,93.9,93.9,CT,SCS.csv
+PDC,UPCOM,Dầu khí Phương Đông,Du lịch và Giải trí,Travel & Leisure,2008.0,134.0,474.0,0.001,http://www.phuongdongpv.com.vn,,15.0,15.0,CT,PDC.csv
+HVN,HOSE,Vietnam Airlines,Du lịch và Giải trí,Travel & Leisure,2010.0,18250.0,41554.0,0.059,https://www.vietnamairlines.com/vn/vi/home,2.1,2214.4,2214.4,CT,HVN.csv
+VTD,UPCOM,Du lịch Vietourist,Du lịch và Giải trí,Travel & Leisure,2011.0,118.0,148.0,0.0,http://www.vietourist.com.vn,,12.0,12.0,CT,VTD.csv
+VTR,UPCOM,Du lịch Vietravel,Du lịch và Giải trí,Travel & Leisure,2015.0,1361.0,859.0,0.0,http://www.vietravel.com,2.2,16.7,17.3,CT,VTR.csv
+PLX,HOSE,Petrolimex,Dầu khí,Oil & Gas,1995.0,25801.0,15165.0,0.173,https://www.petrolimex.com.vn,2.2,1270.6,1293.9,CT,PLX.csv
+PVC,HNX,Hóa chất và Dịch vụ Dầu khí,Dầu khí,Oil & Gas,2005.0,348.0,0.0,0.005,http://www.pvchem.com.vn,2.7,50.0,50.0,CT,PVC.csv
+PVS,HNX,DVKT Dầu khí PTSC,Dầu khí,Oil & Gas,2006.0,7538.0,0.0,0.161,http://www.ptsc.com.vn,2.9,478.0,478.0,CT,PVS.csv
+PVD,HOSE,Khoan Dầu khí PVDrilling,Dầu khí,Oil & Gas,2006.0,1958.0,0.0,0.166,http://www.pvdrilling.com.vn,2.6,555.9,556.3,CT,PVD.csv
+POS,UPCOM,Bảo dưỡng công trình DK biển,Dầu khí,Oil & Gas,2007.0,521.0,339.0,0.002,http://pos.ptsc.com.vn,2.9,40.0,40.0,CT,POS.csv
+PVB,HNX,Bọc ống Dầu khí Việt Nam,Dầu khí,Oil & Gas,2007.0,158.0,2557.0,0.004,http://www.pvcoating.vn,2.6,21.6,21.6,CT,PVB.csv
+BSR,UPCOM,Lọc - Hóa dầu Bình Sơn,Dầu khí,Oil & Gas,2008.0,1502.0,42624.0,0.003,http://www.bsr.com.vn,3.1,3100.5,244.1,CT,BSR.csv
+OIL,UPCOM,PV Oil,Dầu khí,Oil & Gas,2008.0,711.0,16932.0,0.061,http://www.pvoil.com.vn,2.5,1034.2,201.4,CT,OIL.csv
+PTV,UPCOM,Thương mại dầu khí,Dầu khí,Oil & Gas,2008.0,152.0,3691.0,0.0,http://www.petechim.com.vn,,20.0,20.0,CT,PTV.csv
+TOS,UPCOM,Dịch vụ biển Tân Cảng,Dầu khí,Oil & Gas,2012.0,663.0,160.0,0.0,https://tancangoffshore.com,2.6,31.0,31.0,CT,TOS.csv
+BVS,HNX,Chứng khoán Bảo Việt,Dịch vụ tài chính,Financial Services,1999.0,506.0,4227.0,0.072,http://www.bvsc.com.vn,3.2,72.2,72.2,CK,BVS.csv
+SSI,HOSE,Chứng khoán SSI,Dịch vụ tài chính,Financial Services,2000.0,1026.0,21151.0,0.369,http://www.ssi.com.vn,2.8,1489.1,1491.1,CK,SSI.csv
+MBS,HNX,Chứng khoán MB,Dịch vụ tài chính,Financial Services,2000.0,671.0,16050.0,0.007,http://www.mbs.com.vn,2.8,380.6,267.6,CK,MBS.csv
+BSI,HOSE,Chứng khoán BIDV,Dịch vụ tài chính,Financial Services,2000.0,223.0,6148.0,0.373,http://www.bsc.com.vn,3.1,187.3,187.8,CK,BSI.csv
+CTS,HOSE,Chứng khoán Vietinbank,Dịch vụ tài chính,Financial Services,2000.0,175.0,4031.0,0.019,http://www.cts.vn,2.7,148.7,148.7,CK,CTS.csv
+AGR,HOSE,Agriseco,Dịch vụ tài chính,Financial Services,2000.0,137.0,3968.0,0.003,https://www.agriseco.com.vn/,2.5,212.0,212.0,CK,AGR.csv
+HCM,HOSE,Chứng khoán TP.HCM,Dịch vụ tài chính,Financial Services,2003.0,637.0,29835.0,0.407,http://www.hsc.com.vn,2.6,457.2,458.1,CK,HCM.csv
+VND,HOSE,Chứng khoán VNDIRECT,Dịch vụ tài chính,Financial Services,2006.0,931.0,27772.0,0.177,http://www.vndirect.com.vn,2.9,1217.8,1217.8,CK,VND.csv
+PHS,UPCOM,Chứng khoán Phú Hưng,Dịch vụ tài chính,Financial Services,2006.0,355.0,390.0,0.831,https://www.phs.vn,2.2,150.0,150.0,CK,PHS.csv
+VDS,HOSE,Chứng khoán Rồng Việt,Dịch vụ tài chính,Financial Services,2006.0,330.0,6083.0,0.016,http://www.vdsc.com.vn,2.6,210.0,210.0,CK,VDS.csv
+EVS,HNX,Chứng khoán Everest,Dịch vụ tài chính,Financial Services,2006.0,152.0,201.0,0.0,http://www.eves.com.vn,2.8,103.0,103.0,CK,EVS.csv
+PSI,HNX,Chứng khoán Dầu khí,Dịch vụ tài chính,Financial Services,2006.0,137.0,0.0,0.151,http://www.psi.vn,2.9,59.8,59.8,CK,PSI.csv
+SBS,UPCOM,Chứng khoán Sacombank,Dịch vụ tài chính,Financial Services,2006.0,71.0,28119.0,0.005,http://www.sbsc.com.vn,2.2,146.6,146.6,CK,SBS.csv
+TVS,HOSE,Chứng khoán Thiên Việt,Dịch vụ tài chính,Financial Services,2006.0,67.0,978.0,0.294,http://www.tvs.vn,2.6,107.1,107.1,CK,TVS.csv
+TVB,HOSE,Chứng khoán Trí Việt,Dịch vụ tài chính,Financial Services,2006.0,55.0,365.0,0.025,http://www.tvsc.vn,3.2,112.1,112.1,CK,TVB.csv
+APS,HNX,CK Châu Á - TBD,Dịch vụ tài chính,Financial Services,2006.0,45.0,1837.0,0.008,https://apec.com.vn/,2.9,83.0,83.0,CK,APS.csv
+AAS,UPCOM,Chứng khoán SmartInvest,Dịch vụ tài chính,Financial Services,2006.0,43.0,5447.0,0.012,http://www.sisi.com.vn,3.0,80.0,80.0,CK,AAS.csv
+DSC,UPCOM,Chứng khoán DSC,Dịch vụ tài chính,Financial Services,2006.0,23.0,167.0,0.0,https://www.dsc.com.vn,2.8,100.0,100.0,CK,DSC.csv
+ORS,HOSE,Chứng khoán Tiên Phong,Dịch vụ tài chính,Financial Services,2006.0,18.0,18317.0,0.014,http://www.tpbs.com.vn,2.6,200.0,200.0,CK,ORS.csv
+FIT,HOSE,Tập đoàn F.I.T,Dịch vụ tài chính,Financial Services,2007.0,2122.0,8731.0,0.0,http://www.fitgroup.com.vn,2.4,339.9,339.9,CT,FIT.csv
+OGC,HOSE,Tập đoàn Đại Dương,Dịch vụ tài chính,Financial Services,2007.0,1662.0,10113.0,0.002,http://www.oceangroup.vn,2.4,300.0,300.0,CT,OGC.csv
+FTS,HOSE,Chứng khoán FPT,Dịch vụ tài chính,Financial Services,2007.0,453.0,2199.0,0.264,http://www.fpts.com.vn,3.2,195.1,195.1,CK,FTS.csv
+SHS,HNX,Chứng khoán SG - HN,Dịch vụ tài chính,Financial Services,2007.0,235.0,32712.0,0.057,http://www.shs.com.vn,2.9,813.2,813.2,CK,SHS.csv
+VCI,HOSE,Chứng khoán Bản Việt,Dịch vụ tài chính,Financial Services,2007.0,189.0,13657.0,0.181,http://www.vcsc.com.vn,2.8,435.5,435.5,CK,VCI.csv
+IVS,HNX,Chứng khoán Goutai Junan (Việt Nam),Dịch vụ tài chính,Financial Services,2007.0,60.0,0.0,0.722,https://gtjai.com.vn,2.9,69.4,69.4,CK,IVS.csv
+VIX,HOSE,Chứng khoán VIX,Dịch vụ tài chính,Financial Services,2007.0,50.0,1703.0,0.045,https://www.vixs.vn,3.2,582.1,582.1,CK,VIX.csv
+WSS,HNX,Chứng khoán Phố Wall,Dịch vụ tài chính,Financial Services,2007.0,43.0,1837.0,0.021,http://www.wss.com.vn,2.5,50.3,50.3,CK,WSS.csv
+APG,HOSE,Chứng khoán APG,Dịch vụ tài chính,Financial Services,2007.0,31.0,387.0,0.017,http://www.apsi.vn,3.1,146.3,146.3,CK,APG.csv
+TIN,UPCOM,Tài chính Cổ phần Tín Việt,Dịch vụ tài chính,Financial Services,2008.0,2221.0,135.0,0.002,https://www.vietcredit.com.vn,1.9,68.8,68.8,NH,TIN.csv
+EVF,HOSE,Tài chính Điện lực,Dịch vụ tài chính,Financial Services,2008.0,487.0,57405.0,0.001,http://www.evnfc.vn,2.7,351.1,351.1,NH,EVF.csv
+VFS,UPCOM,Chứng khoán Nhất Việt,Dịch vụ tài chính,Financial Services,2008.0,44.0,0.0,0.0,http://www.vfs.com.vn,3.2,80.3,80.3,CK,VFS.csv
+HBS,HNX,Chứng khoán Hòa Bình,Dịch vụ tài chính,Financial Services,2008.0,39.0,0.0,0.001,http://www.hbse.com.vn,3.3,33.0,33.0,CK,HBS.csv
+VIG,HNX,CK TM và CN Việt Nam,Dịch vụ tài chính,Financial Services,2008.0,37.0,0.0,0.006,http://www.vics.vn,2.2,34.1,34.1,CK,VIG.csv
+BMS,UPCOM,Chứng khoán Bảo Minh,Dịch vụ tài chính,Financial Services,2008.0,35.0,1061.0,0.0,http://www.bmsc.com.vn,3.1,61.0,61.0,CK,BMS.csv
+TCI,UPCOM,Chứng khoán Thành Công,Dịch vụ tài chính,Financial Services,2008.0,19.0,5124.0,0.005,http://www.tcsc.vn,3.3,101.0,101.0,CK,TCI.csv
+FUCVREIT,HOSE,Quỹ đầu tư BĐS Techcom Việt Nam,Dịch vụ tài chính,Financial Services,2008.0,0.0,0.0,0.02,,,5.0,5.0,QU,FUCVREIT.csv
+BCG,HOSE,Bamboo Capital,Dịch vụ tài chính,Financial Services,2011.0,42.0,27151.0,0.03,http://www.bamboocap.com.vn,2.8,533.5,533.5,CT,BCG.csv
+VUA,UPCOM,Chứng khoán Stanley Brothers,Dịch vụ tài chính,Financial Services,2011.0,37.0,108.0,0.0,http://www.sbsi.vn,2.5,33.9,33.9,CK,VUA.csv
+CSI,UPCOM,Chứng khoán Kiến thiết VN,Dịch vụ tài chính,Financial Services,2011.0,30.0,422.0,0.317,http://www.vncsi.com.vn,2.4,16.8,16.8,CK,CSI.csv
+TVC,HNX,Tập đoàn Trí Việt,Dịch vụ tài chính,Financial Services,2012.0,33.0,441.0,0.002,http://tcorp.vn,3.0,118.6,118.6,CT,TVC.csv
+IBC,HOSE,Đầu tư APAX Holdings,Dịch vụ tài chính,Financial Services,2012.0,10.0,590.0,0.001,http://www.apaxholdings.com.vn,2.5,83.2,83.2,CT,IBC.csv
+FUESSV50,HOSE,Quỹ ETF SSIAM VNX50,Dịch vụ tài chính,Financial Services,2014.0,0.0,0.0,0.562,http://www.ssi.com.vn/AssetManagement.aspx,,16.1,16.1,QU,FUESSV50.csv
+E1VFVN30,HOSE,Quỹ ETF DCVFMVN30,Dịch vụ tài chính,Financial Services,2014.0,0.0,0.0,0.924,https://dragoncapital.com.vn,1.6,414.5,414.5,QU,E1VFVN30.csv
+HAC,UPCOM,Chứng khoán Hải Phòng,Dịch vụ tài chính,Financial Services,2015.0,52.0,0.0,0.006,http://www.haseco.vn,3.1,29.2,29.2,CK,HAC.csv
+FUEVN100,HOSE,Quỹ ETF VINACAPITAL VN100,Dịch vụ tài chính,Financial Services,2019.0,0.0,0.0,0.237,http://www.vinacapital.com,,17.0,17.0,QU,FUEVN100.csv
+FUESSVFL,HOSE,Quỹ ETF SSIAM VNFIN LEAD,Dịch vụ tài chính,Financial Services,2019.0,0.0,0.0,0.964,http://www.ssi.eom.vn/ssiam/san-pham-va-dich-vu-ssiam,1.4,217.0,217.0,QU,FUESSVFL.csv
+FUEIP100,HOSE,ETF IPAAM VN100,Dịch vụ tài chính,Financial Services,2019.0,0.0,0.0,0.008,https://ipaam.com.vn/vi/home,,5.7,5.7,QU,FUEIP100.csv
+FUEVFVND,HOSE,Quỹ ETF DCVFMVN DIAMOND,Dịch vụ tài chính,Financial Services,2020.0,0.0,0.0,0.98,https://dragoncapital.com.vn,2.0,705.1,705.1,QU,FUEVFVND.csv
+FUEMAV30,HOSE,Quỹ ETF MAFM VN30,Dịch vụ tài chính,Financial Services,2020.0,0.0,0.0,0.845,http://www.fundmanagement-miraeasset.com.vn,1.5,35.6,35.6,QU,FUEMAV30.csv
+FUESSV30,HOSE,Quỹ ETF SSIAM VN30,Dịch vụ tài chính,Financial Services,2020.0,0.0,0.0,0.376,http://www.ssi.com.vn/ssiam/thong-tin-chung-ssiam-vn30,,5.4,5.4,QU,FUESSV30.csv
+FUEKIV30,HOSE,KIM GROWTH VN30 ETF,Dịch vụ tài chính,Financial Services,2021.0,0.0,0.0,0.837,https://koreainvestment.com.vn/en/home,,51.5,51.5,QU,FUEKIV30.csv
+FUEDCMID,HOSE,Quỹ ETF DCVFMVNMIDCAP,Dịch vụ tài chính,Financial Services,2022.0,0.0,0.0,0.877,https://dragoncapital.com.vn,,9.4,9.4,QU,FUEDCMID.csv
+VIN,UPCOM,Kho vận ngoại thương VN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1975.0,203.0,285.0,0.002,http://www.vinatrans.com,3.0,25.5,25.5,CT,VIN.csv
+TBD,UPCOM,Thiết bị điện Đông Anh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1981.0,847.0,401.0,0.046,http://www.eemc.com.vn,2.4,32.4,32.5,CT,TBD.csv
+SGS,UPCOM,Vận tải biển Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1981.0,144.0,552.0,0.002,http://www.saigonship.com.vn,3.8,14.4,14.4,CT,SGS.csv
+TV1,UPCOM,Tư vấn XD Điện 1,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1982.0,734.0,1626.0,0.0,http://www.pecc1.com.vn,2.5,26.7,26.7,CT,TV1.csv
+TMS,HOSE,Transimex,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1983.0,2012.0,1080.0,0.437,http://www.transimex.com.vn,3.0,105.9,105.9,CT,TMS.csv
+MAC,HNX,Cung ứng và Dịch vụ Kỹ thuật Hàng Hải,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1984.0,138.0,0.0,0.011,http://www.maserco.com.vn,,15.1,15.1,CT,MAC.csv
+TV2,HOSE,Tư vấn XD Điện 2,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1985.0,753.0,986.0,0.148,http://www.pecc2.com,3.1,67.5,45.0,CT,TV2.csv
+SDG,HNX,Sadico Cần Thơ,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1988.0,853.0,144.0,0.003,http://www.sadico.com.vn,2.7,10.1,10.1,CT,SDG.csv
+TYA,HOSE,Dây và Cáp điện Taya,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1992.0,259.0,0.0,0.415,http://www.taya.com.vn,2.7,30.7,6.1,CT,TYA.csv
+GMD,HOSE,Gemadept,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1993.0,1481.0,18032.0,0.482,http://www.gemadept.com.vn,2.9,301.4,301.4,CT,GMD.csv
+PRC,HNX,Vận tải Portserco,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1993.0,56.0,125.0,0.0,http://www.portserco.com,,1.2,1.2,CT,PRC.csv
+AME,HNX,Cơ điện Alphanam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1995.0,92.0,238.0,0.022,http://www.alphanam.com.vn,2.7,65.2,65.2,CT,AME.csv
+VCM,HNX,VINACONEX MEC,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1995.0,54.0,656.0,0.08,http://www.vinaconexmec.vn,,3.0,3.0,CT,VCM.csv
+VQC,UPCOM,Giám định Vinaconmin,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1995.0,,0.0,0.04,http://www.quacontrol.com.vn,,3.6,3.6,CT,VQC.csv
+VBC,HNX,Nhựa - Bao bì Vinh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1996.0,1036.0,262.0,0.02,http://nhuabaobivinh.com,,7.5,7.5,CT,VBC.csv
+SFI,HOSE,Vận tải SAFI,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998.0,384.0,1121.0,0.091,http://www.safi.com.vn,3.5,21.0,22.8,CT,SFI.csv
+MCP,HOSE,In và Bao bì Mỹ Châu,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998.0,315.0,991.0,0.002,http://www.mychau.com.vn,3.1,15.1,15.1,CT,MCP.csv
+MHC,HOSE,CTCP MHC,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998.0,34.0,9504.0,0.022,https://mhc.vn,2.3,41.4,41.4,CT,MHC.csv
+SRF,HOSE,SEAREFICO,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,588.0,246.0,0.468,http://www.searefico.com,2.6,33.8,35.6,CT,SRF.csv
+VNL,HOSE,Logistics Vinalink,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,332.0,1317.0,0.094,http://www.vinalinklogistics.com,3.6,9.4,9.4,CT,VNL.csv
+PJT,HOSE,Vận tải thủy PETROLIMEX,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,287.0,3139.0,0.019,https://pjtaco.petrolimex.com.vn,2.7,23.0,23.0,CT,PJT.csv
+BPC,HNX,Bao bì Bỉm Sơn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,208.0,0.0,0.021,http://www.baobibimson.vn,2.2,3.8,3.8,CT,BPC.csv
+PMS,HNX,Cơ khí xăng dầu,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,202.0,0.0,0.059,http://www.pms.com.vn,3.2,7.2,7.2,CT,PMS.csv
+BBH,UPCOM,Bao bì Hoàng Thạch,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999.0,152.0,246.0,0.0,http://www.baobihoangthach.vn,,2.0,2.0,CT,BBH.csv
+PTS,HNX,Vận tải Petrolimex HP,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,282.0,666.0,0.082,http://www.ptshp.petrolimex.com.vn,,5.6,5.6,CT,PTS.csv
+HTV,HOSE,Logistics Vicem,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,235.0,0.0,0.114,http://www.vantaihatien.com.vn,2.9,13.1,13.1,CT,HTV.csv
+DVC,UPCOM,TM dịch vụ Cảng Hải Phòng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,224.0,257.0,0.0,http://www.dichvucang.com,,10.8,10.8,CT,DVC.csv
+TJC,HNX,Dịch vụ Vận tải và Thương mại,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,106.0,0.0,0.005,http://www.transco.com.vn,,8.6,8.6,CT,TJC.csv
+PSC,HNX,Vận tải Petrolimex SG,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,33.0,15.0,0.004,http://www.ptssaigon.petrolimex.com.vn,,7.2,7.2,CT,PSC.csv
+SSG,UPCOM,Vận tải Biển Hải Âu,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2000.0,26.0,0.0,0.0,http://www.seagullshipping.com.vn,,5.0,5.0,CT,SSG.csv
+VFC,UPCOM,Vận tải biển VINAFCO,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2001.0,721.0,0.0,0.447,http://www.vinafco.com.vn,3.2,33.8,34.0,CT,VFC.csv
+VNF,HNX,VINAFREIGHT,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2001.0,237.0,207.0,0.004,http://www.vinafreight.com,3.1,31.7,31.7,CT,VNF.csv
+DXP,HNX,Cảng Đoạn Xá,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2001.0,206.0,0.0,0.025,http://www.doanxaport.com.vn,2.8,27.3,27.3,CT,DXP.csv
+DOP,UPCOM,Vận tải XD Đồng Tháp,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2001.0,100.0,482.0,0.005,http://www.dopetco.com.vn,,4.7,4.7,CT,DOP.csv
+VGP,HNX,Cảng Rau Quả,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2001.0,24.0,0.0,0.013,http://www.vegeport.com,,7.8,8.2,CT,VGP.csv
+VNT,HNX,Vận tải ngoại thương,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2002.0,401.0,198.0,0.145,http://www.vinatranshn.com.vn,2.5,11.9,11.9,CT,VNT.csv
+HMH,HNX,Tập đoàn Hải Minh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2002.0,138.0,0.0,0.03,http://www.haiminh.com.vn,,12.8,13.2,CT,HMH.csv
+VSM,HNX,Container Miền Trung,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2002.0,117.0,158.0,0.004,http://www.viconshipdanang.com,,3.1,3.1,CT,VSM.csv
+SHC,UPCOM,Hàng hải Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2002.0,107.0,890.0,0.011,http://www.saigonmaritime.vn,,4.3,4.3,CT,SHC.csv
+HBD,UPCOM,Bao bì PP Bình Dương,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2002.0,10.0,262.0,0.015,http://www.haipacbd.com,2.8,1.9,2.0,CT,HBD.csv
+SVI,HOSE,Bao bì Biên Hòa,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003.0,773.0,0.0,0.949,http://www.sovi.com.vn,3.2,12.8,12.8,CT,SVI.csv
+DVP,HOSE,ĐT và PT Cảng Đình Vũ,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003.0,431.0,0.0,0.123,http://www.dinhvuport.com.vn,3.1,40.0,40.0,CT,DVP.csv
+STP,HNX,CN Thương Mại Sông Đà,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003.0,164.0,0.0,0.026,http://www.stp.com.vn,,8.0,8.0,CT,STP.csv
+SDA,HNX,XKLĐ Sông Đà,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003.0,148.0,2775.0,0.0,http://www.simco.vn,3.0,26.2,26.2,CT,SDA.csv
+VHG,UPCOM,Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003.0,2.0,3879.0,0.003,http://viettrungnam.com.vn,2.5,150.0,150.0,CT,VHG.csv
+PAC,HOSE,Pin Ắc quy Miền Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,1243.0,1404.0,0.128,http://www.pinaco.com.vn,2.7,46.5,46.5,CT,PAC.csv
+L62,HNX,LILAMA 69.2,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,1150.0,0.0,0.0,http://www.lilama69-2.com.vn,,8.3,8.3,CT,L62.csv
+VNC,HNX,VINACONTROL,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,1011.0,869.0,0.021,http://www.vinacontrol.vn,3.1,10.5,10.5,CT,VNC.csv
+TTP,UPCOM,Bao bì nhựa Tân Tiến,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,792.0,415.0,0.882,https://tapack.com,2.8,13.5,15.0,CT,TTP.csv
+INN,HNX,Bao bì và In Nông Nghiệp,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,660.0,593.0,0.048,http://www.appprintco.com,2.7,18.0,18.0,CT,INN.csv
+ILC,UPCOM,Hợp tác lao động với nước ngoài,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,380.0,524.0,0.003,http://www.inlacohp.com.vn,,6.1,6.1,CT,ILC.csv
+KIP,UPCOM,K.I.P Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,326.0,148.0,0.0,https://kipvietnam.vn/,,9.8,9.8,CT,KIP.csv
+CTB,HNX,Bơm Hải Dương,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,269.0,462.0,0.004,http://www.hpmc.com.vn,3.0,13.7,13.7,CT,CTB.csv
+TSB,HNX,Ắc quy Tia Sáng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,225.0,295.0,0.0,http://www.tiasangbattery.com,,6.7,6.7,CT,TSB.csv
+VTB,HOSE,Viettronics Tân Bình,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,153.0,0.0,0.046,http://www.vtb.com.vn,3.1,10.8,12.0,CT,VTB.csv
+TIE,UPCOM,Điện tử TIE,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,148.0,492.0,0.031,http://www.tiegroup.vn,,9.6,9.6,CT,TIE.csv
+BTG,UPCOM,Bao bì Tiền Giang,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004.0,65.0,247.0,0.0,http://www.tigipack.com.vn,,1.2,1.2,CT,BTG.csv
+REE,HOSE,Cơ Điện Lạnh REE,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,1876.0,17076.0,0.49,http://www.reecorp.com,3.2,355.4,356.4,CT,REE.csv
+TPP,HNX,Nhựa Tân Phú VN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,1814.0,482.0,0.001,http://tanphuvietnam.vn,2.4,45.0,45.0,CT,TPP.csv
+HEP,UPCOM,Môi trường và Công trình đô thị Huế,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,846.0,464.0,0.003,http://www.hepco.com.vn,,6.0,6.0,CT,HEP.csv
+NCT,HOSE,DV Hàng hóa Nội Bài,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,764.0,2237.0,0.123,http://www.noibaicargo.com.vn,2.9,26.2,26.2,CT,NCT.csv
+VTO,HOSE,VITACO,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,558.0,5038.0,0.012,http://www.vitaco.petrolimex.com.vn,2.9,79.9,79.9,CT,VTO.csv
+VIP,HOSE,Vận tải Xăng dầu VIPCO,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,491.0,8827.0,0.023,http://www.vipco.com.vn,2.6,68.5,68.5,CT,VIP.csv
+DL1,HNX,Tập đoàn Alpha 7,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,188.0,14736.0,0.032,https://www.a7group.vn,2.3,106.2,106.2,CT,DL1.csv
+TGP,UPCOM,Cáp Trường Phú,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,96.0,391.0,0.0,http://www.truongphucable.vn,,10.0,10.0,CT,TGP.csv
+VTH,HNX,Dây cáp điện Việt Thái,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,96.0,0.0,0.003,http://www.vietthaicable.com.vn,,7.9,7.9,CT,VTH.csv
+BAL,UPCOM,Bao bì Balpac,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005.0,28.0,142.0,0.001,http://www.balpac.com.vn,,2.0,2.0,CT,BAL.csv
+L10,HOSE,LILAMA 10,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,1599.0,1498.0,0.012,http://www.lilama10.com.vn,3.0,9.8,9.9,CT,L10.csv
+L61,HNX,LILAMA 69-1,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,1461.0,775.0,0.049,http://www.lilama69-1.com.vn,,7.6,7.6,CT,L61.csv
+STG,HOSE,Kho Vận Miền Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,1149.0,904.0,0.001,http://www.sotrans.com.vn,3.1,98.3,98.3,CT,STG.csv
+PVT,HOSE,Vận tải Dầu khí PVTrans,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,716.0,0.0,0.167,http://www.pvtrans.com,3.0,323.7,323.7,CT,PVT.csv
+CKD,UPCOM,Đông Anh Licogi,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,681.0,674.0,0.0,http://www.ckda.vn,2.8,31.0,31.0,CT,CKD.csv
+VSA,HNX,Đại lý Hàng hải VN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,613.0,705.0,0.041,http://www.vosa.com.vn,3.4,14.1,14.1,CT,VSA.csv
+VNA,UPCOM,Vận tải biển Vinaship,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,506.0,0.0,0.02,http://www.vinaship.com.vn,3.2,20.0,20.0,CT,VNA.csv
+L43,HNX,LILAMA 45.3,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,355.0,259.0,0.01,http://www.lilama45-3.com,,3.5,3.5,CT,L43.csv
+SFN,HNX,Dệt lưới Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,349.0,351.0,0.012,http://www.sfn.vn,,2.9,3.0,CT,SFN.csv
+PDN,HOSE,Cảng Đồng Nai,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,269.0,25.0,0.004,http://www.dongnai-port.com,3.5,18.5,18.5,CT,PDN.csv
+SDK,UPCOM,Cơ khí Luyện Kim,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,251.0,167.0,0.017,http://www.sadakim.vn,,2.6,2.6,CT,SDK.csv
+VFR,UPCOM,Vận tải Vietfracht,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,201.0,547.0,0.0,http://www.vietfracht.com.vn,,15.0,15.0,CT,VFR.csv
+WCS,HNX,Bến xe Miền Tây,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,150.0,0.0,0.282,https://www.bxmt.com.vn/en,2.6,2.5,2.5,CT,WCS.csv
+DS3,HNX,Quản lý Đường sông số 3,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,70.0,133.0,0.004,http://www.duongsong3.vn,,10.7,10.7,CT,DS3.csv
+ILS,UPCOM,TM và Dịch vụ Quốc tế,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006.0,64.0,131.0,0.0,http://www.interserco.com.vn,2.4,36.0,36.0,CT,ILS.csv
+CAV,HOSE,Dây cáp điện Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,1170.0,1369.0,0.002,http://www.cadivi-vn.com,3.1,57.5,57.6,CT,CAV.csv
+VSC,HOSE,VICONSHIP,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,1103.0,0.0,0.047,http://www.viconship.com,3.0,121.3,121.3,CT,VSC.csv
+TDP,HOSE,Công ty Thuận Đức,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,872.0,467.0,0.0,http://www.thuanducjsc.com.vn,2.3,60.2,60.2,CT,TDP.csv
+PPS,HNX,DVKT Điện lực Dầu khí,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,470.0,242.0,0.283,http://www.pvps.vn,,15.0,15.0,CT,PPS.csv
+SDV,UPCOM,Dịch vụ Sonadezi,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,451.0,258.0,0.001,http://www.sonadezi-sdv.com.vn,,5.0,5.0,CT,SDV.csv
+TV4,HNX,Tư vấn XD Điện 4,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,446.0,485.0,0.0,http://www.pecc4.vn,3.2,19.8,17.7,CT,TV4.csv
+SVG,UPCOM,Hơi kỹ nghệ Que hàn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,444.0,205.0,0.0,http://www.sovigaz.com.vn,2.8,29.4,29.4,CT,SVG.csv
+TCL,HOSE,Tan Cang Logistics,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,404.0,4368.0,0.047,http://www.tancanglogistics.com.vn,2.9,30.2,30.2,CT,TCL.csv
+PTT,UPCOM,Vận tải Dầu khí Đông Dương,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,387.0,0.0,0.0,http://www.pvtrans-ptt.com,,10.0,10.0,CT,PTT.csv
+NAG,HNX,Tập đoàn Nagakawa,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,294.0,1067.0,0.013,https://nagakawa.com.vn,,31.6,30.6,CT,NAG.csv
+PDV,UPCOM,Vận tải Phương Đông Việt,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,282.0,0.0,0.0,http://www.pvoilshipping.vn,2.8,31.1,25.1,CT,PDV.csv
+PSP,UPCOM,DV Dầu Khí Đình Vũ,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,249.0,0.0,0.0,http://www.ptscdinhvu.com.vn,2.7,40.0,22.5,CT,PSP.csv
+WTC,UPCOM,Vận tải thủy Vinacomin,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,246.0,753.0,0.002,http://www.vantaithuytkv.vn,2.9,10.0,10.0,CT,WTC.csv
+GSP,HOSE,Gas Shipping,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,218.0,350.0,0.011,http://www.gasshipping.com.vn,2.7,55.8,55.8,CT,GSP.csv
+LM7,HNX,LILAMA 7,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,207.0,431.0,0.003,https://lilama7.com.vn/,,5.0,5.0,CT,LM7.csv
+L35,HNX,Cơ khí Lilama,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,189.0,447.0,0.0,http://www.lilamaemc.com.vn,,3.3,3.3,CT,L35.csv
+IST,UPCOM,ICD Tân Cảng Sóng Thần,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,152.0,236.0,0.001,http://www.icdsongthan.com.vn,3.3,12.0,12.0,CT,IST.csv
+VLG,UPCOM,VIMC Logistics,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,123.0,0.0,0.027,http://www.vimclogistics.com.vn,,14.2,14.2,CT,VLG.csv
+IPA,HNX,Tập đoàn Đầu tư I.P.A,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,123.0,3145.0,0.005,http://www.ipa.com.vn,2.7,213.8,213.8,CT,IPA.csv
+PCT,HNX,Vận tải Khí và Hóa chất Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,61.0,1610.0,0.0,http://www.pct.com.vn,,27.6,23.0,CT,PCT.csv
+CLL,HOSE,Cảng Cát Lái,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007.0,15.0,775.0,0.07,http://catlaiport.com.vn,2.9,34.0,34.0,CT,CLL.csv
+PHP,UPCOM,Cảng Hải Phòng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,3394.0,3185.0,0.001,http://www.haiphongport.com.vn,2.8,327.0,327.0,CT,PHP.csv
+FT1,UPCOM,Phụ tùng máy số 1,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,1100.0,942.0,0.004,http://www.futu1.com.vn,,7.1,7.1,CT,FT1.csv
+AMS,UPCOM,Cơ khí Xây dựng AMECC (Xây dựng LISEMCO 2),Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,935.0,0.0,0.313,http://www.amecc.com.vn,2.9,36.6,36.6,CT,AMS.csv
+SGP,UPCOM,Cảng Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,935.0,1004.0,0.0,http://www.saigonport.vn,3.1,216.3,216.3,CT,SGP.csv
+VOS,HOSE,Vận tải Biển Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,832.0,0.0,0.012,http://www.vosco.com.vn,3.0,140.0,140.0,CT,VOS.csv
+CDN,HNX,Cảng Đà Nẵng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,717.0,647.0,0.206,http://www.danangport.com,3.3,99.0,99.0,CT,CDN.csv
+LMI,UPCOM,Lắp máy IDICO,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,684.0,155.0,0.019,http://www.lamaidico.com.vn,,5.5,5.5,CT,LMI.csv
+SZE,UPCOM,Môi trường Sonadezi,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,618.0,791.0,0.0,http://www.sonaenco.com.vn,2.8,30.0,30.0,CT,SZE.csv
+PMP,HNX,Bao bì Đạm Phú Mỹ,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,421.0,139.0,0.007,http://www.dpmp.vn,,4.2,4.2,CT,PMP.csv
+ILB,HOSE,ICD Tân Cảng Long Bình,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,333.0,1606.0,0.015,http://www.icdlongbinh.com,2.9,24.5,24.5,CT,ILB.csv
+VSE,UPCOM,DV Đường cao tốc Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,250.0,114.0,0.022,http://www.vecs.com.vn,,8.9,8.9,CT,VSE.csv
+PVP,UPCOM,Vận tải Dầu khí Thái Bình Dương,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,23.0,0.0,0.0,http://www.pacific.pvtrans.com,3.4,94.3,94.3,CT,PVP.csv
+TCO,HOSE,Vận tải Duyên Hải,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,11.0,1986.0,0.024,http://www.tasaduyenhai.com,2.8,18.7,18.7,CT,TCO.csv
+QSP,UPCOM,Tân cảng Quy Nhơn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,9.0,867.0,0.007,http://www.quynhonnewport.vn,,10.8,10.8,CT,QSP.csv
+VPA,UPCOM,Vận tải Hóa dầu VP,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,8.0,925.0,0.0,http://www.vptrans.vn,,15.1,15.1,CT,VPA.csv
+LPT,UPCOM,TM và SX Lập Phương Thành,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,0.0,1033.0,0.0,http://lapphuongthanh.vn,3.1,12.0,12.0,CT,LPT.csv
+PAP,UPCOM,Cảng Phước An,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008.0,,159.0,0.0,http://www.pap.vn,2.3,200.0,150.0,CT,PAP.csv
+VTP,UPCOM,Bưu chính Viettel,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,10060.0,6033.0,0.203,http://www.viettelpost.com.vn,2.6,113.2,103.6,CT,VTP.csv
+MQN,UPCOM,Môi trường đô thị Quảng Ngãi,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,583.0,0.0,0.0,https://moitruongdothiquangngai.com.vn,,5.1,5.1,CT,MQN.csv
+HAH,HOSE,Vận tải và Xếp dỡ Hải An,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,470.0,7839.0,0.132,http://www.haiants.vn,3.5,70.3,68.3,CT,HAH.csv
+CIA,HNX,DV Sân Bay Cam Ranh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,461.0,173.0,0.009,http://www.cias.vn,,18.7,19.7,CT,CIA.csv
+HEM,UPCOM,Chế tạo điện cơ Hà Nội,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,317.0,0.0,0.0,http://www.hem.vn,2.2,38.7,38.7,CT,HEM.csv
+TOT,HNX,Vận tải Transimex,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,234.0,232.0,0.033,http://www.transimextrans.com.vn,,5.5,5.5,CT,TOT.csv
+CCR,HNX,Cảng Cam Ranh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009.0,230.0,462.0,0.001,https://camranhport.vn/,2.7,24.5,24.5,CT,CCR.csv
+DNE,UPCOM,Môi trường Đô thị Đà Nẵng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,1272.0,940.0,0.012,http://www.moitruongdothidanang.com.vn,,5.8,5.8,CT,DNE.csv
+VEA,UPCOM,Máy động lực và Máy NN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,1052.0,1912.0,0.051,http://www.veamcorp.com,3.1,1328.8,1328.8,CT,VEA.csv
+NUE,UPCOM,Môi trường Đô thị Nha Trang,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,904.0,627.0,0.0,http://www.urenconhatrang.com.vn,,6.0,6.0,CT,NUE.csv
+MTS,UPCOM,Vật tư - TKV,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,765.0,761.0,0.0,http://www.vmts.vn,,15.0,15.0,CT,MTS.csv
+MVN,UPCOM,TCT Hàng hải Việt Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,687.0,512.0,0.0,https://vimc.co,2.5,1200.6,6.4,CT,MVN.csv
+TCW,UPCOM,Kho Vận Tân Cảng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,655.0,2420.0,0.044,http://tancangwarehousing.com.vn,3.1,20.0,20.0,CT,TCW.csv
+LLM,UPCOM,LILAMA,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,616.0,0.0,0.0,http://www.lilama.com.vn,2.6,79.7,79.7,CT,LLM.csv
+MTV,UPCOM,Công trình đô thị Vũng Tàu,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,468.0,342.0,0.0,http://www.dothivungtau.com.vn,,5.4,5.4,CT,MTV.csv
+NAU,UPCOM,Công trình Đô thị Nghệ An,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,446.0,465.0,0.0,http://www.moitruongdothinghean.com,,3.7,3.7,CT,NAU.csv
+USD,UPCOM,Công trình Đô thị Sóc Trăng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,403.0,0.0,0.0,http://www.ctdtst.vn,,5.6,5.6,CT,USD.csv
+PBP,HNX,Bao bì Dầu khí VN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,216.0,283.0,0.001,http://www.pbp.vn,,4.8,4.8,CT,PBP.csv
+PVM,UPCOM,Thiết bị dầu khí (PV MACHINO),Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,212.0,1559.0,0.0,https://pvmachino.vn,3.0,38.6,38.6,CT,PVM.csv
+SAC,UPCOM,Dịch vụ cảng Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,166.0,469.0,0.027,http://www.sasteco.vn,,4.0,4.1,CT,SAC.csv
+TUG,UPCOM,Lai dắt và VT cảng Hải Phòng,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,147.0,0.0,0.061,http://www.tugtranco.vn,,2.7,2.7,CT,TUG.csv
+VTK,UPCOM,Tư vấn thiết kế Viettel,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,97.0,627.0,0.004,http://www.vietteltuvanthietke.com.vn,,4.9,4.9,CT,VTK.csv
+ASG,HOSE,Tập đoàn ASG,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010.0,0.0,0.0,0.009,http://www.asg.net.vn,2.6,75.7,75.7,CT,ASG.csv
+SWC,UPCOM,Đường Sông Miền Nam,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2011.0,469.0,1132.0,0.002,http://www.sowatco.com.vn,3.2,67.1,67.1,CT,SWC.csv
+CAG,HNX,Cảng An Giang,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2011.0,120.0,1025.0,0.002,http://www.angiangport.com.vn,,13.8,13.8,CT,CAG.csv
+GEX,HOSE,Tập đoàn Gelex,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2012.0,10665.0,3914.0,0.097,https://gelex.vn,2.7,851.5,851.5,CT,GEX.csv
+ABR,HOSE,Đầu tư Nhãn Hiệu Việt,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2012.0,10.0,513.0,0.488,http://www.vbinvest.com.vn,3.2,20.0,20.0,CT,ABR.csv
+ACV,UPCOM,Cảng Hàng không VN,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2012.0,0.0,8633.0,0.038,https://www.vietnamairport.vn,2.7,2177.0,2177.2,CT,ACV.csv
+BRS,UPCOM,Dịch vụ Đô thị Bà Rịa,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2013.0,382.0,172.0,0.0,http://www.dothibaria.com,,4.5,4.5,CT,BRS.csv
+VMS,HNX,Phát triển Hàng Hải,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2013.0,128.0,315.0,0.0,http://vimadeco.com.vn,,9.0,9.0,CT,VMS.csv
+ITS,UPCOM,Thương mại và DV - Vinacomin,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2013.0,96.0,0.0,0.006,http://itasco.vn/vi,,26.5,26.5,CT,ITS.csv
+CAR,UPCOM,Tập đoàn Giáo dục Trí Việt,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2013.0,0.0,103.0,0.0,https://trivietgroup.edu.vn,,3.2,3.2,CT,CAR.csv
+VGR,UPCOM,Cảng xanh VIP,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2014.0,160.0,117.0,0.218,http://www.vipgreenport.com.vn,3.1,63.3,63.3,CT,VGR.csv
+SGN,HOSE,Phục vụ mặt đất Sài Gòn,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2015.0,2048.0,1063.0,0.025,http://www.sags.vn,2.5,33.5,33.6,CT,SGN.csv
+EMS,UPCOM,Chuyển phát nhanh Bưu điện,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2015.0,1861.0,879.0,0.022,http://www.ems.com.vn,2.7,19.8,19.8,CT,EMS.csv
+HNB,UPCOM,Bến xe Hà Nội,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2015.0,390.0,437.0,0.001,https://benxehanoi.vn/,,9.5,9.5,CT,HNB.csv
+MTL,UPCOM,Môi trường Đô thị Từ Liêm,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2015.0,50.0,283.0,0.001,http://www.moitruongdothituliem.com.vn,,6.0,6.0,CT,MTL.csv
+GEE,UPCOM,Thiết bị điện GELEX,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2016.0,470.0,105.0,0.0,https://gelex-electric.com,1.8,300.0,300.0,CT,GEE.csv
+GIC,HNX,ĐT Dịch vụ và PT Xanh,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2017.0,150.0,0.0,0.05,https://greenicd.com.vn/,,12.1,12.1,CT,GIC.csv
+APH,HOSE,Tập đoàn An Phát Holdings,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2017.0,0.0,0.0,0.312,http://www.anphatholdings.com,2.3,243.9,243.9,CT,APH.csv
+CFM,UPCOM,Đầu tư CFM,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2017.0,,224.0,0.001,http://www.cfminvestment.com,,2.0,2.0,CT,CFM.csv
+NET,HNX,Bột giặt Net,Hàng cá nhân & Gia dụng,Personal & Household Goods,1972.0,543.0,168.0,0.01,http://www.netcovn.com.vn,2.9,22.4,22.4,CT,NET.csv
+BVN,UPCOM,Bông Việt Nam,Hàng cá nhân & Gia dụng,Personal & Household Goods,1978.0,24.0,223.0,0.001,https://bongvietnam.com.vn/,,5.0,5.0,CT,BVN.csv
+AAT,HOSE,Tập đoàn Tiên Sơn Thanh Hóa,Hàng cá nhân & Gia dụng,Personal & Household Goods,1995.0,1200.0,2431.0,0.003,http://tiensonaus.com,2.9,63.8,63.8,CT,AAT.csv
+GLT,HNX,KT Điện Toàn Cầu,Hàng cá nhân & Gia dụng,Personal & Household Goods,1996.0,81.0,239.0,0.038,http://www.toancau.vn,,8.1,9.2,CT,GLT.csv
+BBT,UPCOM,Bông Bạch Tuyết,Hàng cá nhân & Gia dụng,Personal & Household Goods,1997.0,262.0,1539.0,0.008,http://www.bongbachtuyet.com.vn,2.2,9.8,9.8,CT,BBT.csv
+GIL,HOSE,XNK Bình Thạnh,Hàng cá nhân & Gia dụng,Personal & Household Goods,2000.0,1992.0,0.0,0.036,http://www.gilimex.com,3.2,69.0,69.0,CT,GIL.csv
+GDT,HOSE,Gỗ Đức Thành,Hàng cá nhân & Gia dụng,Personal & Household Goods,2000.0,1223.0,2148.0,0.239,http://www.goducthanh.com,2.6,19.4,19.7,CT,GDT.csv
+HNI,UPCOM,May Hữu Nghị,Hàng cá nhân & Gia dụng,Personal & Household Goods,2002.0,2661.0,0.0,0.023,http://www.hugamex.vn,2.3,23.8,11.9,CT,HNI.csv
+TNG,HNX,Đầu tư và Thương mại TNG,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,14752.0,15047.0,0.054,http://www.tng.vn,2.7,105.1,100.1,CT,TNG.csv
+GMC,HOSE,Garmex Sài Gòn,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,4118.0,0.0,0.083,http://www.garmex.vn,3.0,33.0,33.0,CT,GMC.csv
+LIX,HOSE,Bột giặt LIX,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,1098.0,174.0,0.082,http://www.lixco.com,3.0,32.4,32.4,CT,LIX.csv
+SPB,UPCOM,Sợi Phú Bài,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,754.0,143.0,0.0,http://www.phubaispinning.com,3.3,9.5,9.5,CT,SPB.csv
+CLC,HOSE,Thuốc lá Cát Lợi,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,313.0,1000.0,0.021,http://www.catloi.com.vn,3.0,26.2,26.2,CT,CLC.csv
+KSD,HNX,Đầu tư DNA,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003.0,149.0,523.0,0.255,http://www.hangermetal.com,,12.0,12.0,CT,KSD.csv
+M10,UPCOM,May10,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,6935.0,1223.0,0.0,http://www.garco10.com.vn,2.7,30.2,30.2,CT,M10.csv
+PNJ,HOSE,Vàng Phú Nhuận,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,6018.0,12192.0,0.49,http://www.pnj.com.vn,2.9,246.0,246.2,CT,PNJ.csv
+VDN,UPCOM,Vinatex Đà Nẵng,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,3022.0,0.0,0.0,http://www.vinatexdn.com.vn,,3.0,3.0,CT,VDN.csv
+RAL,HOSE,Bóng đèn Phích nước Rạng Đông,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,2075.0,0.0,0.03,http://www.rangdongvn.com,3.0,22.9,22.9,CT,RAL.csv
+NHT,HOSE,Sản xuất và Thương mại Nam Hoa,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,2057.0,413.0,0.049,http://www.namhoatoys.vn,2.8,24.0,18.5,CT,NHT.csv
+NJC,UPCOM,May Nam Định,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004.0,,0.0,0.0,http://www.nagaco.com,,3.0,3.0,CT,NJC.csv
+HDM,UPCOM,Dệt May Huế,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,4926.0,0.0,0.0,http://www.huegatex.com.vn,3.4,15.2,15.2,CT,HDM.csv
+TLG,HOSE,Tập đoàn Thiên Long,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,3502.0,1975.0,0.198,http://www.thienlonggroup.com,3.2,77.8,77.8,CT,TLG.csv
+HUG,UPCOM,May Hưng Yên,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,2074.0,861.0,0.0,http://hugaco.vn,3.1,16.3,16.3,CT,HUG.csv
+DQC,HOSE,Bóng đèn Điện Quang,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,1085.0,361.0,0.009,https://dienquang.com/,2.4,27.6,34.4,CT,DQC.csv
+GTD,UPCOM,Giầy Thượng Đình,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,603.0,133.0,0.0,http://www.thuongdinhfootwear.com.vn,1.6,9.3,9.3,CT,GTD.csv
+MGG,UPCOM,May Đức Giang,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,471.0,508.0,0.001,http://www.mayducgiang.com.vn,2.6,9.0,9.0,CT,MGG.csv
+NST,HNX,Thuốc lá Ngân Sơn,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,310.0,0.0,0.019,http://www.nganson.vn,,11.2,11.2,CT,NST.csv
+SHE,HNX,PT Năng Lượng Sơn Hà,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005.0,111.0,0.0,0.014,http://www.thaiduongnang.com.vn,,9.6,9.6,CT,SHE.csv
+TCM,HOSE,Dệt may Thành Công,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006.0,7520.0,7046.0,0.465,http://www.thanhcong.com.vn,2.5,81.9,82.0,CT,TCM.csv
+NTT,UPCOM,Dệt - May Nha Trang,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006.0,1692.0,287.0,0.0,http://www.detnhatrang.com.vn,,23.5,23.5,CT,NTT.csv
+ADS,HOSE,Dệt sợi DAMSAN,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006.0,679.0,2933.0,0.01,http://damsanjsc.vn/en/,2.6,43.8,43.8,CT,ADS.csv
+AG1,UPCOM,28.1 JSC,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006.0,632.0,196.0,0.001,http://www.agtex28-1.com,,4.9,4.9,CT,AG1.csv
+FTM,UPCOM,Phát triển Đức Quân,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006.0,279.0,6098.0,0.003,http://www.fortex.com.vn,,50.0,50.0,CT,FTM.csv
+HTG,UPCOM,Dệt may Hòa Thọ,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,9807.0,2825.0,0.0,http://www.hoatho.com.vn,3.1,30.0,30.0,CT,HTG.csv
+BDG,UPCOM,May mặc Bình Dương,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,2045.0,365.0,0.014,http://www.protradegarment.com,3.0,24.8,12.0,CT,BDG.csv
+NDT,UPCOM,Dệt may Nam Định,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,1771.0,1024.0,0.0,http://www.natexco.com.vn,,15.6,15.6,CT,NDT.csv
+EVE,HOSE,Everpia,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,1360.0,52.0,0.718,http://www.everpia.vn,3.0,42.0,42.0,CT,EVE.csv
+TVT,HOSE,May Việt Thắng,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,942.0,738.0,0.04,https://vietthang.com.vn,2.9,21.0,21.0,CT,TVT.csv
+KMR,HOSE,MIRAE,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,306.0,0.0,0.625,http://www.miraejsc.com,2.5,56.9,56.9,CT,KMR.csv
+VTJ,HNX,TM và Đầu tư VINATABA,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007.0,4.0,523.0,0.001,http://www.vinainvest.com.vn,,11.4,11.4,CT,VTJ.csv
+HSM,UPCOM,HANOSIMEX,Hàng cá nhân & Gia dụng,Personal & Household Goods,2008.0,3067.0,216.0,0.0,http://www.hanosimex.com.vn,2.7,20.5,20.5,CT,HSM.csv
+X20,HNX,May mặc X20,Hàng cá nhân & Gia dụng,Personal & Household Goods,2008.0,2294.0,2596.0,0.002,http://www.gatexco20.com.vn,,17.3,17.3,CT,X20.csv
+A32,UPCOM,Công ty 32,Hàng cá nhân & Gia dụng,Personal & Household Goods,2008.0,1098.0,488.0,0.0,http://32jsc.com,,6.8,6.8,CT,A32.csv
+TTG,UPCOM,May Thanh Trì,Hàng cá nhân & Gia dụng,Personal & Household Goods,2008.0,638.0,0.0,0.066,http://www.hapro.com.vn,,2.0,2.0,CT,TTG.csv
+PPH,UPCOM,Phong Phú Corp.,Hàng cá nhân & Gia dụng,Personal & Household Goods,2009.0,1847.0,2143.0,0.0,http://www.phongphucorp.com,3.0,74.7,74.7,CT,PPH.csv
+CET,HNX,HTC Holding JSC,Hàng cá nhân & Gia dụng,Personal & Household Goods,2009.0,26.0,693.0,0.001,https://cetholding.vn/,,6.1,6.1,CT,CET.csv
+VGT,UPCOM,VINATEX,Hàng cá nhân & Gia dụng,Personal & Household Goods,2010.0,28553.0,29201.0,0.131,http://vinatex.com.vn,2.8,500.0,500.0,CT,VGT.csv
+TDT,HNX,Đầu tư và Phát triển TDT,Hàng cá nhân & Gia dụng,Personal & Household Goods,2011.0,1740.0,255.0,0.002,http://www.tdtgroup.vn,,23.9,23.9,CT,TDT.csv
+VGG,UPCOM,May Việt Tiến,Hàng cá nhân & Gia dụng,Personal & Household Goods,2012.0,8206.0,1862.0,0.149,http://www.viettien.com.vn,2.7,44.1,44.1,CT,VGG.csv
+STK,HOSE,Sợi Thế Kỷ,Hàng cá nhân & Gia dụng,Personal & Household Goods,2012.0,998.0,1048.0,0.126,http://www.theky.vn,2.9,81.8,84.4,CT,STK.csv
+HJC,UPCOM,Công ty Cổ phần Hòa Việt,Hàng cá nhân & Gia dụng,Personal & Household Goods,2012.0,264.0,441.0,0.0,http://www.hoavietjsc.com,,12.9,12.9,CT,HJC.csv
+MSH,HOSE,May Sông Hồng,Hàng cá nhân & Gia dụng,Personal & Household Goods,2013.0,10496.0,511.0,0.053,http://www.songhong.vn,3.0,75.0,75.0,CT,MSH.csv
+TLI,UPCOM,May Quốc tế Thắng Lợi,Hàng cá nhân & Gia dụng,Personal & Household Goods,2013.0,427.0,356.0,0.0,http://www.maythangloi.com.vn,,3.0,3.0,CT,TLI.csv
+SVD,HOSE,Đầu tư &amp; Thương mại Vũ Đăng,Hàng cá nhân & Gia dụng,Personal & Household Goods,2013.0,0.0,1167.0,0.004,http://www.vudang.vn,2.6,27.6,25.8,CT,SVD.csv
+BKG,HOSE,Đầu tư BKG Việt Nam,Hàng cá nhân & Gia dụng,Personal & Household Goods,2015.0,33.0,0.0,0.001,http://www.bkgvietnam.com,2.9,68.2,62.0,CT,BKG.csv
+SGI,UPCOM,ĐT PT Sài Gòn 3 Group,Hàng cá nhân & Gia dụng,Personal & Household Goods,2018.0,0.0,490.0,0.0,https://www.saigon3group.com.vn,2.7,75.5,75.5,CT,SGI.csv
+BRC,HOSE,Cao su Bến Thành,Hóa chất,Chemicals,1975.0,204.0,462.0,0.005,http://www.berubco.com.vn,3.5,12.4,12.4,CT,BRC.csv
+TSC,HOSE,Kỹ thuật NN Cần Thơ,Hóa chất,Chemicals,1976.0,714.0,3181.0,0.002,http://www.tsccantho.com.vn,,196.9,196.9,CT,TSC.csv
+SFG,HOSE,Phân bón Miền Nam,Hóa chất,Chemicals,1976.0,681.0,765.0,0.007,http://www.phanbonmiennam.com.vn,2.4,47.9,47.9,CT,SFG.csv
+CSV,HOSE,Hóa chất Cơ bản miền Nam,Hóa chất,Chemicals,1976.0,636.0,4356.0,0.04,http://www.sochemvn.com,3.2,44.2,44.2,CT,CSV.csv
+TPC,HOSE,Nhựa Tân Đại Hưng,Hóa chất,Chemicals,1984.0,760.0,670.0,0.025,http://www.tandaihungplastic.com,2.9,22.5,24.4,CT,TPC.csv
+TNC,HOSE,Cao su Thống Nhất,Hóa chất,Chemicals,1991.0,0.0,0.0,0.006,http://trc.com.vn,2.9,19.3,19.3,CT,TNC.csv
+VFG,HOSE,Khử trùng Việt Nam,Hóa chất,Chemicals,1993.0,1216.0,687.0,0.026,http://www.vfc.com.vn,2.9,41.7,41.7,CT,VFG.csv
+DTT,HOSE,Kỹ nghệ Đô Thành,Hóa chất,Chemicals,1994.0,214.0,834.0,0.002,http://www.dothanhtech.com,3.3,8.2,8.2,CT,DTT.csv
+CPC,HNX,Thuốc sát trùng Cần Thơ,Hóa chất,Chemicals,1996.0,197.0,349.0,0.071,http://www.tstcantho.com.vn,,4.1,4.3,CT,CPC.csv
+APP,UPCOM,Phụ gia và SP Dầu mỏ,Hóa chất,Chemicals,1996.0,97.0,304.0,0.005,http://www.app.com.vn,,4.7,4.7,CT,APP.csv
+VNY,UPCOM,Thuốc thú y Trung ương I,Hóa chất,Chemicals,2000.0,107.0,205.0,0.0,http://www.vinavetco.com,,14.2,14.2,CT,VNY.csv
+DAG,HOSE,TĐ Nhựa Đông Á,Hóa chất,Chemicals,2001.0,244.0,6605.0,0.003,http://www.dag.com.vn,2.0,59.6,59.6,CT,DAG.csv
+AAA,HOSE,An Phát Bioplastics,Hóa chất,Chemicals,2002.0,2713.0,27697.0,0.025,https://anphatbioplastics.com,2.7,382.3,382.3,CT,AAA.csv
+SIV,UPCOM,Sơn Sivico,Hóa chất,Chemicals,2002.0,80.0,175.0,0.093,http://www.sivico.com.vn,,3.0,3.0,CT,SIV.csv
+DPR,HOSE,Cao su Đồng Phú,Hóa chất,Chemicals,2004.0,4157.0,3907.0,0.026,http://www.doruco.com.vn,3.5,43.0,43.0,CT,DPR.csv
+LTG,UPCOM,Tập đoàn Lộc Trời (BVTV An Giang),Hóa chất,Chemicals,2004.0,3420.0,2521.0,0.4,http://www.agpps.com.vn,2.6,80.6,80.6,CT,LTG.csv
+DGC,HOSE,Hóa chất Đức Giang,Hóa chất,Chemicals,2004.0,2170.0,944.0,0.17,http://ducgiangchem.vn,3.7,379.8,379.8,CT,DGC.csv
+DPM,HOSE,Đạm Phú Mỹ,Hóa chất,Chemicals,2004.0,1529.0,15217.0,0.18,http://www.dpm.vn,3.8,391.3,391.4,CT,DPM.csv
+PLC,HNX,Hóa dầu Petrolimex,Hóa chất,Chemicals,2004.0,760.0,5037.0,0.011,http://www.plc.com.vn,2.3,80.8,80.8,CT,PLC.csv
+HRC,HOSE,Cao su Hòa Bình,Hóa chất,Chemicals,2004.0,608.0,681.0,0.006,http://www.horuco.com.vn,2.2,30.2,30.2,CT,HRC.csv
+RDP,HOSE,Nhựa Rạng Đông,Hóa chất,Chemicals,2005.0,650.0,1196.0,0.003,https://rangdongholding.com.vn/,2.1,49.1,49.1,CT,RDP.csv
+VET,UPCOM,Thuốc thú y trung ương Navetco,Hóa chất,Chemicals,2005.0,312.0,507.0,0.001,http://www.navetco.com.vn,2.3,16.0,16.0,CT,VET.csv
+TRC,HOSE,Cao su Tây Ninh,Hóa chất,Chemicals,2006.0,1784.0,735.0,0.007,http://www.taniruco.com,2.8,29.1,30.0,CT,TRC.csv
+VPS,HOSE,Thuốc sát trùng Việt Nam,Hóa chất,Chemicals,2006.0,360.0,780.0,0.007,http://www.vipesco.com.vn,3.2,24.5,24.5,CT,VPS.csv
+HVT,HNX,Hóa chất Việt trì,Hóa chất,Chemicals,2006.0,325.0,0.0,0.02,http://vitrichem.vn/,3.2,11.0,11.0,CT,HVT.csv
+SEP,UPCOM,Thương mại Quảng Trị,Hóa chất,Chemicals,2007.0,531.0,0.0,0.0,http://www.sepon.com.vn,,8.4,8.4,CT,SEP.csv
+VNP,UPCOM,Nhựa Việt Nam,Hóa chất,Chemicals,2007.0,51.0,489.0,0.01,http://www.vinaplast.com.vn,3.0,19.4,19.4,CT,VNP.csv
+QBS,HOSE,Xuất nhập khẩu Quảng Bình,Hóa chất,Chemicals,2007.0,49.0,1736.0,0.0,http://www.quangbinhjsc.com.vn,2.7,69.3,69.3,CT,QBS.csv
+PGN,HNX,Phụ Gia Nhựa,Hóa chất,Chemicals,2007.0,41.0,607.0,0.07,https://pgn.com.vn/,,8.5,8.5,CT,PGN.csv
+PHR,HOSE,Cao su Phước Hòa,Hóa chất,Chemicals,2008.0,3126.0,2495.0,0.114,http://www.phr.vn,3.2,135.5,135.5,CT,PHR.csv
+NHH,HOSE,Nhựa Hà Nội,Hóa chất,Chemicals,2008.0,1513.0,2799.0,0.006,http://www.hanoiplastics.com.vn,2.7,72.9,72.9,CT,NHH.csv
+DDV,UPCOM,DAP - Vinachem,Hóa chất,Chemicals,2008.0,677.0,749.0,0.001,http://www.dap-vinachem.com.vn,2.8,146.1,146.1,CT,DDV.csv
+PLP,HOSE,SX và CN Nhựa Pha Lê,Hóa chất,Chemicals,2008.0,237.0,358.0,0.014,http://www.phaleminerals.com.vn,2.4,70.0,70.0,CT,PLP.csv
+PMB,HNX,Phân bón và Hóa chất Dầu khí Miền Bắc,Hóa chất,Chemicals,2008.0,68.0,880.0,0.018,http://www.pmb.vn,,12.0,12.0,CT,PMB.csv
+PSE,HNX,Phân bón và hóa chất dầu khí Đông Nam Bộ,Hóa chất,Chemicals,2008.0,65.0,761.0,0.002,http://www.pse.vn/vi,,12.5,12.5,CT,PSE.csv
+PSW,HNX,Phân bón hóa chất dầu khí Tây Nam Bộ,Hóa chất,Chemicals,2008.0,53.0,105.0,0.024,http://www.psw.vn,3.2,17.0,17.0,CT,PSW.csv
+PCE,HNX,Phân bón và Hóa chất DK Miền Trung,Hóa chất,Chemicals,2008.0,51.0,138.0,0.011,http://www.pce.vn,,10.0,10.0,CT,PCE.csv
+RTB,UPCOM,Cao su Tân Biên,Hóa chất,Chemicals,2009.0,3666.0,638.0,0.0,http://www.tabiruco.vn,3.3,87.9,87.9,CT,RTB.csv
+LAS,HNX,Hóa chất Lâm Thao,Hóa chất,Chemicals,2009.0,2000.0,7816.0,0.0,https://supelamthao.vn/,2.4,112.9,112.9,CT,LAS.csv
+HII,HOSE,An Tiến Industries,Hóa chất,Chemicals,2009.0,460.0,974.0,0.008,http://www.antienindustries.com,2.4,73.7,73.7,CT,HII.csv
+VAF,HOSE,Phân lân Văn Điển,Hóa chất,Chemicals,2009.0,362.0,0.0,0.0,https://vandienfmp.vn,3.1,37.7,37.7,CT,VAF.csv
+PVO,UPCOM,Dầu nhờn PV Oil,Hóa chất,Chemicals,2009.0,108.0,0.0,0.003,http://www.lube.pvoil.vn,,8.9,8.9,CT,PVO.csv
+DRG,UPCOM,Cao su Đắk Lắk,Hóa chất,Chemicals,2010.0,2221.0,1466.0,0.0,http://www.dakruco.com,2.0,155.8,1.7,CT,DRG.csv
+SBR,UPCOM,Cao su Sông Bé,Hóa chất,Chemicals,2010.0,1139.0,0.0,0.0,http://www.caosusongbe.vn,2.2,81.4,81.4,CT,SBR.csv
+SPC,HNX,BV Thực vật Sài Gòn,Hóa chất,Chemicals,2010.0,477.0,0.0,0.091,http://www.spchcmc.vn,3.1,10.5,10.5,CT,SPC.csv
+GVR,HOSE,Tập đoàn CN Cao su VN,Hóa chất,Chemicals,2010.0,217.0,0.0,0.005,http://www.vnrubbergroup.com,2.9,4000.0,4000.0,CT,GVR.csv
+PCH,HNX,Nhựa Picomat,Hóa chất,Chemicals,2010.0,51.0,129.0,0.0,https://picomat.vn,,20.0,20.0,CT,PCH.csv
+DOC,UPCOM,Vật tư nông nghiệp Đồng Nai,Hóa chất,Chemicals,2010.0,48.0,100.0,0.0,http://docam.vn,,10.0,10.0,CT,DOC.csv
+BRR,UPCOM,Cao su Bà Rịa,Hóa chất,Chemicals,2010.0,0.0,1383.0,0.0,http://www.baruco.com.vn,3.0,112.5,112.5,CT,BRR.csv
+BFC,HOSE,Phân bón Bình Điền,Hóa chất,Chemicals,2011.0,1234.0,1931.0,0.037,https://binhdien.com/,2.5,57.2,57.2,CT,BFC.csv
+DCM,HOSE,Đạm Cà Mau,Hóa chất,Chemicals,2011.0,918.0,21094.0,0.11,http://www.pvcfc.com.vn,3.7,529.4,529.4,CT,DCM.csv
+VTZ,HNX,Nhựa Việt Thành,Hóa chất,Chemicals,2011.0,397.0,245.0,0.001,https://vithacoplastic.com,,23.0,20.0,CT,VTZ.csv
+HCD,HOSE,SX và Thương mại HCD,Hóa chất,Chemicals,2011.0,21.0,1050.0,0.001,http://www.hcdgroup.com.vn,3.1,31.6,31.6,CT,HCD.csv
+DRI,UPCOM,Đầu tư Cao su Đắk Lắk,Hóa chất,Chemicals,2012.0,2396.0,1950.0,0.004,http://www.dri.com.vn,2.8,73.2,73.2,CT,DRI.csv
+SJF,HOSE,Đầu tư Sao Thái Dương,Hóa chất,Chemicals,2012.0,13.0,5138.0,0.006,http://www.stdgroup.vn,2.2,79.2,79.2,CT,SJF.csv
+PAT,UPCOM,Phốt pho Apatit Việt Nam,Hóa chất,Chemicals,2014.0,217.0,189.0,0.001,https://pacvietnam.vn,3.0,25.0,25.0,CT,PAT.csv
+CTG,HOSE,VietinBank,Ngân hàng,Banks,1988.0,22564.0,0.0,0.272,http://www.vietinbank.vn,2.7,4805.8,4805.8,NH,CTG.csv
+STB,HOSE,Sacombank,Ngân hàng,Banks,1991.0,18818.0,92620.0,0.228,http://www.sacombank.com.vn,2.8,1885.2,1885.2,NH,STB.csv
+MSB,HOSE,MSB Bank,Ngân hàng,Banks,1991.0,5190.0,36939.0,0.3,https://msb.com.vn/,2.9,1985.8,1527.5,NH,MSB.csv
+HDB,HOSE,HDBank,Ngân hàng,Banks,1992.0,13992.0,6015.0,0.18,http://www.hdbank.com.vn,2.7,2515.3,2530.3,NH,HDB.csv
+EIB,HOSE,Eximbank,Ngân hàng,Banks,1992.0,6136.0,0.0,0.236,http://www.eximbank.com.vn,2.8,1229.4,1235.5,NH,EIB.csv
+BVB,UPCOM,Ngân hàng Bản Việt,Ngân hàng,Banks,1992.0,1487.0,15941.0,0.001,http://www.vietcapitalbank.com.vn,2.4,367.1,367.1,NH,BVB.csv
+NAB,UPCOM,Ngân hàng Nam Á,Ngân hàng,Banks,1992.0,1000.0,0.0,0.0,http://www.namabank.com.vn,3.0,846.4,656.4,NH,NAB.csv
+BID,HOSE,BIDV,Ngân hàng,Banks,1993.0,25416.0,36773.0,0.17,http://www.bidv.com.vn,2.6,5058.5,5058.5,NH,BID.csv
+VPB,HOSE,VPBank,Ngân hàng,Banks,1993.0,25413.0,18747.0,0.176,http://www.vpbank.com.vn,2.5,6713.2,6743.4,NH,VPB.csv
+ACB,HOSE,Ngân hàng Á Châu,Ngân hàng,Banks,1993.0,11008.0,44011.0,0.3,http://www.acb.com.vn,3.2,3377.4,3377.4,NH,ACB.csv
+TCB,HOSE,Techcombank,Ngân hàng,Banks,1993.0,9757.0,1901.0,0.225,http://www.techcombank.com.vn,2.9,3517.2,3510.9,NH,TCB.csv
+ABB,UPCOM,Ngân hàng An Bình,Ngân hàng,Banks,1993.0,3614.0,5409.0,0.246,http://www.abbank.vn,2.6,940.9,940.9,NH,ABB.csv
+SGB,UPCOM,Sài Gòn Công thương,Ngân hàng,Banks,1993.0,1483.0,2777.0,0.0,http://www.saigonbank.com.vn,2.2,308.0,308.0,NH,SGB.csv
+PGB,UPCOM,PG Bank,Ngân hàng,Banks,1993.0,1442.0,10591.0,0.0,http://www.pgbank.com.vn,2.6,300.0,300.0,NH,PGB.csv
+MBB,HOSE,MBBank,Ngân hàng,Banks,1994.0,15910.0,126621.0,0.232,http://www.mbbank.com.vn,3.0,4534.0,4534.0,NH,MBB.csv
+KLB,UPCOM,Ngân hàng Kiên Long,Ngân hàng,Banks,1995.0,4782.0,2735.0,0.0,http://www.kienlongbank.com,2.7,361.5,365.3,NH,KLB.csv
+NVB,HNX,Ngân hàng Quốc Dân,Ngân hàng,Banks,1995.0,2000.0,1440.0,0.088,http://www.ncb-bank.vn,2.1,556.8,560.2,NH,NVB.csv
+VIB,HOSE,VIBBank,Ngân hàng,Banks,1996.0,5372.0,1316.0,0.205,http://www.vib.com.vn,2.9,2107.7,2107.7,NH,VIB.csv
+OCB,HOSE,Ngân hàng Phương Đông,Ngân hàng,Banks,1996.0,1879.0,0.0,0.215,https://www.ocb.com.vn/,2.8,1369.9,1369.9,NH,OCB.csv
+VAB,UPCOM,Ngân hàng Việt Á,Ngân hàng,Banks,2003.0,1673.0,1913.0,0.0,http://www.vietabank.com.vn,2.7,540.0,540.0,NH,VAB.csv
+SHB,HOSE,SHB,Ngân hàng,Banks,2006.0,7546.0,63268.0,0.052,http://www.shb.com.vn,2.9,2666.9,2667.4,NH,SHB.csv
+VCB,HOSE,Vietcombank,Ngân hàng,Banks,2008.0,17215.0,26686.0,0.236,http://www.vietcombank.com.vn,3.0,4732.5,4732.5,NH,VCB.csv
+LPB,HOSE,LienViet Post Bank,Ngân hàng,Banks,2008.0,8105.0,59906.0,0.05,http://www.lienvietpostbank.com.vn,2.9,1729.1,1503.6,NH,LPB.csv
+TPB,HOSE,Ngân hàng Tiên Phong,Ngân hàng,Banks,2008.0,4985.0,15209.0,0.3,http://www.tpb.vn,3.0,1581.8,1581.8,NH,TPB.csv
+SSB,HOSE,SeABank,Ngân hàng,Banks,2011.0,5320.0,3732.0,0.002,https://www.seabank.com.vn,2.5,2040.3,1980.9,NH,SSB.csv
+VBB,UPCOM,VietBank,Ngân hàng,Banks,2011.0,2576.0,410.0,0.0,http://www.vietbank.com.vn,2.8,477.7,477.7,NH,VBB.csv
+BAB,HNX,Ngân hàng Bắc Á,Ngân hàng,Banks,2011.0,2042.0,1678.0,0.0,http://www.baca-bank.vn,2.7,813.4,813.4,NH,BAB.csv
+AGM,HOSE,XNK An Giang,Thực phẩm và đồ uống,Food & Beverage,1976.0,207.0,333.0,0.019,http://www.angimex.com.vn,2.6,18.2,18.2,CT,AGM.csv
+PSL,UPCOM,Chăn nuôi Phú Sơn,Thực phẩm và đồ uống,Food & Beverage,1976.0,57.0,0.0,0.0,http://www.channuoiphuson.com.vn,2.6,11.8,11.8,CT,PSL.csv
+ABT,HOSE,Thủy sản Bến Tre,Thực phẩm và đồ uống,Food & Beverage,1977.0,706.0,1032.0,0.017,http://www.aquatexbentre.com,3.0,11.8,14.4,CT,ABT.csv
+ACL,HOSE,Thủy sản CL An Giang,Thực phẩm và đồ uống,Food & Beverage,1986.0,1074.0,0.0,0.032,http://www.clfish.com,2.8,50.2,50.2,CT,ACL.csv
+THP,UPCOM,Thủy sản và TMại Thuận Phước,Thực phẩm và đồ uống,Food & Beverage,1987.0,2712.0,445.0,0.0,http://www.thuanphuoc.vn,,21.6,21.6,CT,THP.csv
+IFS,UPCOM,Thực phẩm Quốc tế,Thực phẩm và đồ uống,Food & Beverage,1991.0,569.0,0.0,0.986,http://www.wonderfarmonline.com,3.0,87.1,87.1,CT,IFS.csv
+MPC,UPCOM,Thủy sản Minh Phú,Thực phẩm và đồ uống,Food & Beverage,1992.0,13492.0,0.0,0.382,http://www.minhphu.com,2.9,399.9,199.9,CT,MPC.csv
+SSN,UPCOM,Thủy sản Sài Gòn,Thực phẩm và đồ uống,Food & Beverage,1992.0,12.0,1149.0,0.0,http://www.seaprodexsg.com,2.5,39.6,39.6,CT,SSN.csv
+SLS,HNX,Mía đường Sơn La,Thực phẩm và đồ uống,Food & Beverage,1995.0,276.0,451.0,0.002,http://www.miaduongsonla.vn,3.1,9.8,9.8,CT,SLS.csv
+KTS,HNX,Đường Kon Tum,Thực phẩm và đồ uống,Food & Beverage,1995.0,172.0,272.0,0.002,http://www.ktsduongkontum.vn,,5.1,5.1,CT,KTS.csv
+LAF,HOSE,Chế biến Hàng XK Long An,Thực phẩm và đồ uống,Food & Beverage,1995.0,165.0,0.0,0.019,http://www.lafooco.vn,2.4,14.7,14.7,CT,LAF.csv
+TAR,HNX,Nông nghiệp CN cao Trung An,Thực phẩm và đồ uống,Food & Beverage,1996.0,184.0,5393.0,0.002,http://www.trunganrice.com,2.4,78.3,71.2,CT,TAR.csv
+CPA,UPCOM,Cà phê Phước An,Thực phẩm và đồ uống,Food & Beverage,1996.0,52.0,155.0,0.0,http://phuocancoffee.com.vn,,23.6,23.6,CT,CPA.csv
+ASM,HOSE,Tập đoàn Sao Mai,Thực phẩm và đồ uống,Food & Beverage,1997.0,12036.0,20862.0,0.023,http://www.saomainews.vn,2.9,336.5,336.5,CT,ASM.csv
+CAN,HNX,Đồ hộp Hạ Long,Thực phẩm và đồ uống,Food & Beverage,1998.0,1024.0,626.0,0.196,http://www.canfoco.com.vn,3.0,5.0,5.0,CT,CAN.csv
+BBC,HOSE,Bánh kẹo BIBICA,Thực phẩm và đồ uống,Food & Beverage,1999.0,816.0,0.0,0.008,http://www.bibica.com.vn,2.5,18.8,18.8,CT,BBC.csv
+BBM,UPCOM,Bia Hà Nội - Nam Định,Thực phẩm và đồ uống,Food & Beverage,1999.0,105.0,157.0,0.002,http://www.biahanoinamdinh.com,,2.0,2.0,CT,BBM.csv
+MCH,UPCOM,Hàng Tiêu Dùng MaSan,Thực phẩm và đồ uống,Food & Beverage,2000.0,4418.0,833.0,0.019,http://www.masanconsumer.com,3.0,716.5,727.5,CT,MCH.csv
+LSS,HOSE,Mía đường Lam Sơn,Thực phẩm và đồ uống,Food & Beverage,2000.0,2064.0,8120.0,0.011,http://www.lasuco.com.vn,2.5,70.0,70.0,CT,LSS.csv
+SJ1,HNX,Nông nghiệp Hùng Hậu,Thực phẩm và đồ uống,Food & Beverage,2000.0,392.0,457.0,0.002,http://www.agri.hunghau.vn,2.2,23.5,23.5,CT,SJ1.csv
+VNH,UPCOM,Đầu tư Việt Việt Nhật,Thực phẩm và đồ uống,Food & Beverage,2000.0,7.0,0.0,0.007,http://www.vietnhat.com,2.1,8.0,8.0,CT,VNH.csv
+HNM,UPCOM,HANOIMILK,Thực phẩm và đồ uống,Food & Beverage,2001.0,390.0,0.0,0.0,http://www.hanoimilk.com.vn,,20.0,20.0,CT,HNM.csv
+KDC,HOSE,Tập đoàn KIDO,Thực phẩm và đồ uống,Food & Beverage,2002.0,3857.0,0.0,0.26,http://www.kdc.vn,2.5,257.2,279.7,CT,KDC.csv
+AAM,HOSE,Thủy sản Mekong,Thực phẩm và đồ uống,Food & Beverage,2002.0,159.0,0.0,0.01,http://www.mekongfish.vn,3.3,10.5,12.3,CT,AAM.csv
+SSC,HOSE,Giống cây trồng Miền Nam,Thực phẩm và đồ uống,Food & Beverage,2002.0,125.0,769.0,0.012,http://www.ssc.com.vn,3.1,13.3,15.0,CT,SSC.csv
+VNM,HOSE,VINAMILK,Thực phẩm và đồ uống,Food & Beverage,2003.0,8082.0,0.0,0.557,http://www.vinamilk.com.vn,2.9,2090.0,2090.0,CT,VNM.csv
+FMC,HOSE,Thực phẩm Sao Ta,Thực phẩm và đồ uống,Food & Beverage,2003.0,4647.0,2767.0,0.314,http://www.fimexvn.com,2.9,65.4,65.4,CT,FMC.csv
+APF,UPCOM,Nông sản Quảng Ngãi,Thực phẩm và đồ uống,Food & Beverage,2003.0,899.0,570.0,0.0,http://www.apfco.com.vn,3.0,22.6,22.6,CT,APF.csv
+HLB,UPCOM,Bia và NGK Hạ Long,Thực phẩm và đồ uống,Food & Beverage,2003.0,503.0,168.0,0.316,https://www.biahalong.com,3.0,3.1,3.1,CT,HLB.csv
+SCD,HOSE,Giải khát Chương Dương,Thực phẩm và đồ uống,Food & Beverage,2003.0,292.0,516.0,0.069,http://www.chuongduong.com.vn,2.5,8.5,8.5,CT,SCD.csv
+IDI,HOSE,Đầu tư và PT Đa Quốc Gia,Thực phẩm và đồ uống,Food & Beverage,2003.0,250.0,578.0,0.011,http://www.idiseafood.com,2.6,227.6,227.6,CT,IDI.csv
+VDL,HNX,Thực phẩm Lâm Đồng,Thực phẩm và đồ uống,Food & Beverage,2003.0,197.0,0.0,0.007,http://www.ladofoods.vn,2.4,14.7,14.7,CT,VDL.csv
+HAD,HNX,Bia Hà Nội - Hải Dương,Thực phẩm và đồ uống,Food & Beverage,2003.0,196.0,0.0,0.094,http://www.habecohd.com.vn,,4.0,4.0,CT,HAD.csv
+BQB,UPCOM,Bia Hà Nội - Quảng Bình,Thực phẩm và đồ uống,Food & Beverage,2003.0,77.0,0.0,0.0,http://www.biaquangbinh.com,,5.8,5.8,CT,BQB.csv
+MSN,HOSE,Tập đoàn Masan,Thực phẩm và đồ uống,Food & Beverage,2004.0,34560.0,4726.0,0.298,https://www.masangroup.com,2.5,1423.7,1423.7,CT,MSN.csv
+DBC,HOSE,Tập đoàn DABACO,Thực phẩm và đồ uống,Food & Beverage,2004.0,5847.0,0.0,0.048,http://www.dabaco.com.vn,2.7,242.0,242.0,CT,DBC.csv
+NSC,HOSE,Tập đoàn Giống cây trồng Việt Nam,Thực phẩm và đồ uống,Food & Beverage,2004.0,737.0,1199.0,0.085,http://www.vinaseed.com.vn,3.0,17.6,17.6,CT,NSC.csv
+CAT,UPCOM,Thủy sản Cà Mau,Thực phẩm và đồ uống,Food & Beverage,2004.0,612.0,177.0,0.005,http://seaprimexco.com/,,9.1,9.7,CT,CAT.csv
+NCS,UPCOM,Suất ăn Hàng không Nội Bài,Thực phẩm và đồ uống,Food & Beverage,2004.0,570.0,618.0,0.017,http://www.noibaicatering.com.vn,2.2,17.9,17.9,CT,NCS.csv
+SGC,HNX,Bánh phồng tôm Sa Giang,Thực phẩm và đồ uống,Food & Beverage,2004.0,526.0,0.0,0.009,http://www.sagiang.com.vn,3.0,7.1,7.1,CT,SGC.csv
+TFC,HNX,Trang Corp.,Thực phẩm và đồ uống,Food & Beverage,2004.0,520.0,312.0,0.322,http://www.trangcorporation.com,,16.8,16.8,CT,TFC.csv
+THB,HNX,Bia Hà Nội - Thanh Hóa,Thực phẩm và đồ uống,Food & Beverage,2004.0,482.0,0.0,0.063,http://biathanhhoa.com.vn/web/,,11.4,11.4,CT,THB.csv
+MCF,HNX,Cơ khí và Lương thực Thực phẩm,Thực phẩm và đồ uống,Food & Beverage,2004.0,344.0,0.0,0.028,http://mecofood.com.vn/,,10.8,10.8,CT,MCF.csv
+VCF,HOSE,Vinacafé Biên Hòa,Thực phẩm và đồ uống,Food & Beverage,2004.0,327.0,390.0,0.007,http://www.vinacafebienhoa.com,3.0,26.6,26.6,CT,VCF.csv
+QHW,UPCOM,Nước khoáng Quảng Ninh,Thực phẩm và đồ uống,Food & Beverage,2004.0,304.0,429.0,0.006,http://www.nuockhoangquangninh.com.vn,,8.0,8.0,CT,QHW.csv
+PAN,HOSE,Tập đoàn PAN,Thực phẩm và đồ uống,Food & Beverage,2005.0,9304.0,21259.0,0.107,https://thepangroup.vn,2.8,208.9,216.4,CT,PAN.csv
+QNS,UPCOM,Đường Quảng Ngãi,Thực phẩm và đồ uống,Food & Beverage,2005.0,3515.0,4000.0,0.19,http://qns.com.vn,2.9,356.9,356.9,CT,QNS.csv
+SAF,HNX,Thực Phẩm SAFOCO,Thực phẩm và đồ uống,Food & Beverage,2005.0,639.0,338.0,0.036,http://www.safocofood.com,3.0,12.0,10.1,CT,SAF.csv
+BSQ,UPCOM,Bia Sài Gòn - Quảng Ngãi,Thực phẩm và đồ uống,Food & Beverage,2005.0,196.0,713.0,0.0,http://www.sabecoquangngai.com.vn,3.1,45.0,45.0,CT,BSQ.csv
+HAF,UPCOM,Thực phẩm Hà Nội,Thực phẩm và đồ uống,Food & Beverage,2005.0,138.0,0.0,0.0,http://www.thucphamhanoi.com.vn,2.6,14.5,14.5,CT,HAF.csv
+BTB,UPCOM,Bia Hà Nội - Thái Bình,Thực phẩm và đồ uống,Food & Beverage,2005.0,126.0,303.0,0.0,http://www.tbbeco.com.vn,,7.7,7.7,CT,BTB.csv
+IDP,UPCOM,Sữa Quốc tế,Thực phẩm và đồ uống,Food & Beverage,2005.0,,0.0,0.01,http://www.idp.vn,3.0,58.9,58.9,CT,IDP.csv
+ANV,HOSE,Thủy sản Nam Việt,Thực phẩm và đồ uống,Food & Beverage,2006.0,4634.0,0.0,0.039,http://www.navicorp.com.vn,2.9,127.1,127.5,CT,ANV.csv
+VSN,UPCOM,VN Kỹ Nghệ Súc Sản (VISSAN),Thực phẩm và đồ uống,Food & Beverage,2006.0,3980.0,1087.0,0.043,https://www.vissan.com.vn,2.7,80.9,80.9,CT,VSN.csv
+CMF,UPCOM,Thực phẩm Cholimex,Thực phẩm và đồ uống,Food & Beverage,2006.0,1534.0,133.0,0.243,http://www.cholimexfood.com.vn,3.3,8.1,8.1,CT,CMF.csv
+OCH,HNX,Khách sạn và Dịch vụ OCH,Thực phẩm và đồ uống,Food & Beverage,2006.0,1032.0,927.0,0.0,http://www.och.vn,2.5,200.0,200.0,CT,OCH.csv
+CMX,HOSE,CAMIMEX Group,Thực phẩm và đồ uống,Food & Beverage,2006.0,921.0,9602.0,0.095,http://www.camimex.com.vn,2.5,101.9,101.9,CT,CMX.csv
+CCA,UPCOM,XNK Thuỷ sản Cần Thơ,Thực phẩm và đồ uống,Food & Beverage,2006.0,704.0,400.0,0.007,http://www.caseamex.com.vn,,13.7,15.1,CT,CCA.csv
+CMN,UPCOM,Colusa -  Miliket,Thực phẩm và đồ uống,Food & Beverage,2006.0,534.0,186.0,0.001,http://www.comifood.com,,4.8,4.8,CT,CMN.csv
+CBS,UPCOM,Mía đường Cao Bằng,Thực phẩm và đồ uống,Food & Beverage,2006.0,368.0,348.0,0.0,http://www.miaduongcaobang.vn,,3.5,3.5,CT,CBS.csv
+ICF,UPCOM,Đầu tư Thương mại Thủy sản,Thực phẩm và đồ uống,Food & Beverage,2006.0,290.0,1234.0,0.026,http://www.incomfish.com,2.0,12.8,12.8,CT,ICF.csv
+SB1,UPCOM,Bia Sài Gòn - Nghệ Tĩnh,Thực phẩm và đồ uống,Food & Beverage,2006.0,261.0,1156.0,0.006,http://www.vidabeer.vn,,10.5,10.5,CT,SB1.csv
+WSB,UPCOM,Bia Sài Gòn - Miền Tây,Thực phẩm và đồ uống,Food & Beverage,2006.0,210.0,789.0,0.203,http://www.wsb-sabeco.com.vn,3.1,14.5,14.5,CT,WSB.csv
+BSL,UPCOM,Bia Sài Gòn - Sông Lam,Thực phẩm và đồ uống,Food & Beverage,2006.0,206.0,0.0,0.003,http://sasobeco.com.vn,3.5,45.0,45.0,CT,BSL.csv
+HAT,HNX,TM Bia Hà Nội,Thực phẩm và đồ uống,Food & Beverage,2006.0,124.0,0.0,0.05,http://www.biahoihanoi.com.vn,,3.1,3.1,CT,HAT.csv
+HAG,HOSE,Hoàng Anh Gia Lai,Thực phẩm và đồ uống,Food & Beverage,2006.0,117.0,54114.0,0.022,http://www.hagl.com.vn,2.3,927.4,927.5,CT,HAG.csv
+SBL,UPCOM,Bia Sài Gòn - Bạc Liêu,Thực phẩm và đồ uống,Food & Beverage,2006.0,108.0,205.0,0.001,http://www.biasaigonbaclieu.com,,12.0,12.0,CT,SBL.csv
+PCF,UPCOM,Cà phê PETEC,Thực phẩm và đồ uống,Food & Beverage,2006.0,28.0,448.0,0.001,http://www.petecof.vn,2.1,3.0,3.0,CT,PCF.csv
+SBT,HOSE,Mía đường Thành Thành Công - Biên Hòa,Thực phẩm và đồ uống,Food & Beverage,2007.0,4217.0,20235.0,0.114,http://www.ttcsugar.com.vn,2.7,650.8,629.2,CT,SBT.csv
+VHC,HOSE,Thủy sản Vĩnh Hoàn,Thực phẩm và đồ uống,Food & Beverage,2007.0,3500.0,2487.0,0.303,https://vinhhoan.com,3.0,183.4,183.4,CT,VHC.csv
+VSF,UPCOM,Vinafood 2,Thực phẩm và đồ uống,Food & Beverage,2007.0,2109.0,1411.0,0.0,http://www.vinafood2.com.vn,2.2,500.0,500.0,CT,VSF.csv
+BSH,UPCOM,Bia Sài Gòn - Hà Nội,Thực phẩm và đồ uống,Food & Beverage,2007.0,163.0,123.0,0.003,http://www.sabecohanoi.com.vn,3.1,18.0,18.0,CT,BSH.csv
+HBH,UPCOM,HABECO Hải Phòng,Thực phẩm và đồ uống,Food & Beverage,2007.0,77.0,187.0,0.02,https://habecohaiphong.com.vn/,,16.0,16.0,CT,HBH.csv
+CFV,UPCOM,Cà phê Thắng Lợi,Thực phẩm và đồ uống,Food & Beverage,2007.0,52.0,0.0,0.0,http://www.thangloicoffee.com.vn,2.6,12.7,8.1,CT,CFV.csv
+HKT,HNX,Đầu tư Ego Việt Nam,Thực phẩm và đồ uống,Food & Beverage,2007.0,36.0,284.0,0.003,http://www.egovietnam.com.vn,,6.1,6.1,CT,HKT.csv
+HAV,UPCOM,Rượu Hapro,Thực phẩm và đồ uống,Food & Beverage,2007.0,13.0,209.0,0.0,http://www.haprovodka.vn,2.8,3.3,3.3,CT,HAV.csv
+SAB,HOSE,SABECO,Thực phẩm và đồ uống,Food & Beverage,2008.0,8234.0,4201.0,0.627,https://www.sabeco.com.vn,2.7,641.3,641.3,CT,SAB.csv
+BHN,HOSE,HABECO,Thực phẩm và đồ uống,Food & Beverage,2008.0,724.0,1001.0,0.176,http://www.habeco.com.vn,2.5,231.8,231.8,CT,BHN.csv
+CQN,UPCOM,Cảng Quảng Ninh,Thực phẩm và đồ uống,Food & Beverage,2008.0,691.0,366.0,0.0,http://www.quangninhport.com.vn,2.6,75.0,75.0,CT,CQN.csv
+SMB,HOSE,Bia Sài Gòn - Miền Trung,Thực phẩm và đồ uống,Food & Beverage,2008.0,495.0,2083.0,0.141,http://www.biasaigonmt.com,2.9,29.8,29.8,CT,SMB.csv
+FCS,UPCOM,Lương thực TP Hồ Chí Minh,Thực phẩm và đồ uống,Food & Beverage,2008.0,196.0,446.0,0.0,http://www.foodcosa.vn,2.2,29.5,29.5,CT,FCS.csv
+DAT,HOSE,ĐT Du lịch và PT Thủy sản,Thực phẩm và đồ uống,Food & Beverage,2008.0,110.0,440.0,0.0,http://www.trisedco.com,2.3,62.9,62.9,CT,DAT.csv
+BLT,UPCOM,Lương Thực Bình Định,Thực phẩm và đồ uống,Food & Beverage,2008.0,59.0,201.0,0.003,http://www.bidifood.vn,,4.0,4.0,CT,BLT.csv
+KHS,HNX,Thủy sản Kiên Hùng,Thực phẩm và đồ uống,Food & Beverage,2009.0,611.0,154.0,0.005,http://www.kihuseavn.com,,12.1,12.1,CT,KHS.csv
+MLS,UPCOM,Chăn nuôi Mitraco,Thực phẩm và đồ uống,Food & Beverage,2009.0,113.0,878.0,0.017,http://www.mitraco.com.vn,,4.0,4.0,CT,MLS.csv
+PRT,UPCOM,Sản xuất - XNK Bình Dương,Thực phẩm và đồ uống,Food & Beverage,2010.0,849.0,296.0,0.0,http://www.protrade.com.vn,2.6,300.0,300.0,CT,PRT.csv
+NAF,HOSE,Nafoods Group,Thực phẩm và đồ uống,Food & Beverage,2010.0,636.0,4963.0,0.257,http://www.nafoodsgroup.com.vn,2.7,62.9,50.6,CT,NAF.csv
+CLX,UPCOM,XNK và Đầu tư Chợ Lớn (CHOLIMEX),Thực phẩm và đồ uống,Food & Beverage,2010.0,207.0,399.0,0.06,http://www.cholimex.com.vn,3.0,86.6,86.6,CT,CLX.csv
+HNG,HOSE,Nông nghiệp Quốc tế HAGL,Thực phẩm và đồ uống,Food & Beverage,2010.0,30.0,33850.0,0.018,http://www.haagrico.com.vn,1.9,1108.6,1108.6,CT,HNG.csv
+HVA,UPCOM,Đầu tư HVA,Thực phẩm và đồ uống,Food & Beverage,2010.0,30.0,391.0,0.0,http://www.hva.group,,13.7,13.7,CT,HVA.csv
+CTP,HNX,Minh Khang Capital Trading Public,Thực phẩm và đồ uống,Food & Beverage,2010.0,28.0,109.0,0.011,http://www.thuongphu.com.vn,,12.1,12.1,CT,CTP.csv
+MML,UPCOM,Masan MEATLife,Thực phẩm và đồ uống,Food & Beverage,2011.0,4469.0,739.0,0.023,http://www.masanmeatlife.com.vn,2.0,327.1,327.1,CT,MML.csv
+ANT,UPCOM,Rau quả thực phẩm An Giang,Thực phẩm và đồ uống,Food & Beverage,2011.0,598.0,296.0,0.004,http://www.antesco.com,,8.0,8.0,CT,ANT.csv
+SEA,UPCOM,SEAPRODEX,Thực phẩm và đồ uống,Food & Beverage,2011.0,76.0,310.0,0.0,http://www.seaprodex.vn,2.4,125.0,125.0,CT,SEA.csv
+DMN,UPCOM,Domenal,Thực phẩm và đồ uống,Food & Beverage,2012.0,49.0,546.0,0.0,http://www.domenal.com.vn,,12.5,12.5,CT,DMN.csv
+BNA,HNX,Đầu tư SX Bảo Ngọc,Thực phẩm và đồ uống,Food & Beverage,2012.0,10.0,0.0,0.012,https://banhbaongoc.vn,2.7,20.0,20.0,CT,BNA.csv
+HNF,UPCOM,Bánh kẹo Hữu Nghị,Thực phẩm và đồ uống,Food & Beverage,2013.0,1718.0,0.0,0.0,https://huunghi.com.vn/,3.0,30.0,30.0,CT,HNF.csv
+BCF,HNX,Thực phẩm Bích Chi,Thực phẩm và đồ uống,Food & Beverage,2013.0,915.0,191.0,0.0,http://www.bichchi.com.vn,3.0,27.8,27.8,CT,BCF.csv
+CMM,UPCOM,Camimex,Thực phẩm và đồ uống,Food & Beverage,2013.0,862.0,110.0,0.0,https://cmmseafood.com.vn,,57.0,57.0,CT,CMM.csv
+BHP,UPCOM,Bia Hà Nội - Hải Phòng,Thực phẩm và đồ uống,Food & Beverage,2013.0,239.0,363.0,0.0,http://www.biahaiphong.vn,,9.2,9.2,CT,BHP.csv
+SKV,UPCOM,NGK Yến sào Khánh Hòa,Thực phẩm và đồ uống,Food & Beverage,2014.0,1054.0,1275.0,0.02,http://www.sanestdienkhanh.com.vn,2.9,23.0,23.0,CT,SKV.csv
+VLC,UPCOM,Chăn nuôi Việt Nam,Thực phẩm và đồ uống,Food & Beverage,2014.0,70.0,254.0,0.002,http://www.vilico.vn,2.9,172.3,172.3,CT,VLC.csv
+ILA,UPCOM,Công ty ILA,Thực phẩm và đồ uống,Food & Beverage,2014.0,10.0,0.0,0.0,http://ilagroup.com.vn,,18.5,18.5,CT,ILA.csv
+MCM,UPCOM,Giống bò sữa Mộc Châu,Thực phẩm và đồ uống,Food & Beverage,2015.0,802.0,2005.0,0.014,https://www.mcmilk.com.vn/,2.9,110.0,110.0,CT,MCM.csv
+VOC,UPCOM,Dầu thực vật Việt Nam,Thực phẩm và đồ uống,Food & Beverage,2015.0,194.0,306.0,0.007,http://www.vocarimex.com.vn,2.8,121.8,121.8,CT,VOC.csv
+BSP,UPCOM,Bia Sài Gòn - Phú Thọ,Thực phẩm và đồ uống,Food & Beverage,2015.0,115.0,228.0,0.0,http://www.saigonphutho.com.vn,2.7,12.5,12.5,CT,BSP.csv
+HSL,HOSE,Thực phẩm Hồng Hà,Thực phẩm và đồ uống,Food & Beverage,2015.0,34.0,0.0,0.021,http://www.honghagroup.com.vn,3.2,35.4,35.4,CT,HSL.csv
+SKH,UPCOM,NGK Sanest Khánh Hòa,Thực phẩm và đồ uống,Food & Beverage,2016.0,994.0,0.0,0.007,http://www.sanestkhanhhoa.com.vn,3.0,33.0,16.1,CT,SKH.csv
+SKN,UPCOM,NGK Sanna Khánh Hòa,Thực phẩm và đồ uống,Food & Beverage,2016.0,186.0,233.0,0.0,http://www.sanna.com.vn,,5.0,5.0,CT,SKN.csv
+BAF,HOSE,Nông nghiệp BAF Việt Nam,Thực phẩm và đồ uống,Food & Beverage,2017.0,252.0,333.0,0.008,http://baf.vn,2.7,143.5,143.5,CT,BAF.csv
+FHS,UPCOM,Phát hành sách TP HCM - FAHASA,Truyền thông,Media,1976.0,2200.0,525.0,0.0,http://www.fahasasg.com.vn,,12.8,12.8,CT,FHS.csv
+ALT,HNX,Văn hóa Tân Bình,Truyền thông,Media,1989.0,263.0,477.0,0.032,http://www.alta.com.vn,2.8,5.7,6.2,CT,ALT.csv
+PNC,HOSE,Văn hóa Phương Nam,Truyền thông,Media,1999.0,779.0,0.0,0.008,http://www.pnc.com.vn,2.2,10.8,11.0,CT,PNC.csv
+HTP,HNX,In SGK Hòa Phát,Truyền thông,Media,2004.0,160.0,257.0,0.0,http://inhoaphat.vn,2.5,91.8,91.8,CT,HTP.csv
+EBS,HNX,Sách Giáo dục Hà Nội,Truyền thông,Media,2004.0,88.0,932.0,0.083,http://www.sachgiaoduchanoi.vn,,10.0,10.2,CT,EBS.csv
+STH,UPCOM,Phát hành sách Thái Nguyên,Truyền thông,Media,2004.0,45.0,551.0,0.0,http://www.sthc.com.vn,,19.5,19.5,CT,STH.csv
+SGD,HNX,Sách GD TP.HCM,Truyền thông,Media,2004.0,37.0,360.0,0.01,http://www.sgd.edu.vn,,4.0,4.1,CT,SGD.csv
+BST,HNX,Sách và Thiết bị Bình Thuận,Truyền thông,Media,2004.0,35.0,119.0,0.004,http://www.stbbt.com.vn,,1.1,1.1,CT,BST.csv
+LBE,HNX,Sách và Thiết bị Trường học Long An,Truyền thông,Media,2004.0,30.0,118.0,0.005,http://www.sachthietbila.com.vn,,1.1,1.1,CT,LBE.csv
+DAE,HNX,Sách Giáo dục Đà Nẵng,Truyền thông,Media,2004.0,20.0,295.0,0.008,http://www.sachgiaoduc.com,,1.5,1.5,CT,DAE.csv
+STC,HNX,Sách và Thiết bị trường học Thành phố Hồ Chí Minh,Truyền thông,Media,2005.0,280.0,574.0,0.061,http://www.stb.com.vn,,5.7,5.7,CT,STC.csv
+DST,HNX,Đầu tư Sao Thăng Long,Truyền thông,Media,2005.0,6.0,2480.0,0.001,http://www.saothanglong.vn,3.1,32.2,32.3,CT,DST.csv
+ADC,HNX,Mĩ thuật và Truyền thông,Truyền thông,Media,2006.0,354.0,208.0,0.086,http://adc.net.vn/,,4.0,4.0,CT,ADC.csv
+YEG,HOSE,Tập đoàn Yeah1,Truyền thông,Media,2006.0,76.0,310.0,0.159,https://www.yeah1group.com,2.9,31.3,31.3,CT,YEG.csv
+RGC,UPCOM,Đầu tư PV-Inconess,Truyền thông,Media,2007.0,540.0,0.0,0.0,http://www.pv-inconess.com.vn,2.5,89.1,89.1,CT,RGC.csv
+FOC,UPCOM,FPT Online,Truyền thông,Media,2007.0,321.0,110.0,0.037,http://www.fptonline.net,3.0,18.4,18.5,CT,FOC.csv
+EID,HNX,Phát triển GD Hà Nội,Truyền thông,Media,2007.0,135.0,1457.0,0.222,http://www.heid.vn,3.0,15.0,15.0,CT,EID.csv
+SED,HNX,Phát triển GD Phương Nam,Truyền thông,Media,2007.0,103.0,601.0,0.077,https://phuongnam.edu.vn,,9.3,10.0,CT,SED.csv
+DAD,HNX,Phát triển GD Đà Nẵng,Truyền thông,Media,2007.0,52.0,197.0,0.0,http://www.nxbgddn.vn/,,4.7,5.0,CT,DAD.csv
+ADG,HOSE,Clever Group,Truyền thông,Media,2008.0,166.0,761.0,0.457,https://clevergroup.vn,2.6,21.4,19.9,CT,ADG.csv
+EPH,UPCOM,Xuất bản giáo dục Hà Nội,Truyền thông,Media,2009.0,112.0,188.0,0.002,http://xbgdhn.vn/,,2.5,2.5,CT,EPH.csv
+NBE,UPCOM,Sách và Thiết bị GD Miền Bắc,Truyền thông,Media,2010.0,78.0,322.0,0.014,http://www.stbmienbac.vn,3.7,5.0,5.0,CT,NBE.csv
+SMN,HNX,Sách và thiết bị GD miền Nam,Truyền thông,Media,2010.0,78.0,259.0,0.002,http://www.sobee.vn,,4.4,4.4,CT,SMN.csv
+VNB,UPCOM,Sách Việt Nam,Truyền thông,Media,2010.0,61.0,0.0,0.011,http://www.savina.com.vn,2.4,67.9,67.9,CT,VNB.csv
+VEF,UPCOM,Triển lãm Việt Nam,Truyền thông,Media,2011.0,88.0,0.0,0.0,http://www.vefac.vn,1.9,166.6,166.6,CT,VEF.csv
+CAB,UPCOM,Truyền hình Cáp Việt Nam,Truyền thông,Media,2012.0,1540.0,1157.0,0.0,https://www.vtvcab.vn/,2.5,45.7,45.7,CT,CAB.csv
+ODE,UPCOM,Tập đoàn Truyền thông và Giải trí ODE,Truyền thông,Media,2016.0,0.0,126.0,0.0,https://ode.vn,,10.0,10.0,CT,ODE.csv
+TIS,UPCOM,Gang thép Thái Nguyên,Tài nguyên Cơ bản,Basic Resources,1959.0,3736.0,0.0,0.0,http://www.tisco.com.vn,1.8,184.0,184.0,CT,TIS.csv
+TDS,UPCOM,Thép Thủ Đức,Tài nguyên Cơ bản,Basic Resources,1960.0,364.0,511.0,0.01,http://www.thepthuduc.com.vn,,12.2,12.2,CT,TDS.csv
+VID,HOSE,Viễn Đông,Tài nguyên Cơ bản,Basic Resources,1974.0,32.0,3501.0,0.005,http://www.dautuviendong.vn,2.9,40.8,40.8,CT,VID.csv
+MVB,HNX,Mỏ Việt Bắc - TKV,Tài nguyên Cơ bản,Basic Resources,1980.0,2035.0,993.0,0.001,http://www.cmv.vn,2.9,105.0,105.0,CT,MVB.csv
+CLM,HNX,Xuất nhập khẩu Than - Vinacomin,Tài nguyên Cơ bản,Basic Resources,1982.0,173.0,155.0,0.0,http://coalimex.vn,3.1,11.0,11.0,CT,CLM.csv
+TLH,HOSE,Thép Tiến Lên,Tài nguyên Cơ bản,Basic Resources,1988.0,300.0,7761.0,0.012,http://www.tienlengroup.com.vn,2.6,102.1,102.1,CT,TLH.csv
+KSB,HOSE,Khoáng sản Bình Dương,Tài nguyên Cơ bản,Basic Resources,1993.0,329.0,6822.0,0.068,http://www.bimico.com.vn,2.7,76.3,76.6,CT,KSB.csv
+TNA,HOSE,XNK Thiên Nam,Tài nguyên Cơ bản,Basic Resources,1994.0,145.0,2298.0,0.035,http://www.thiennamgroup.vn,2.1,49.2,49.6,CT,TNA.csv
+KMT,HNX,Kim khí Miền Trung,Tài nguyên Cơ bản,Basic Resources,1994.0,85.0,308.0,0.0,http://www.cevimetal.com.vn,,9.8,9.8,CT,KMT.csv
+TKU,HNX,Công nghiệp Tung Kuang,Tài nguyên Cơ bản,Basic Resources,1995.0,400.0,59.0,0.503,http://www.tungkuang.com.vn,2.8,42.6,6.6,CT,TKU.csv
+NBC,HNX,Than Núi Béo,Tài nguyên Cơ bản,Basic Resources,1996.0,3053.0,4862.0,0.04,http://www.nuibeo.com.vn,2.4,37.0,37.0,CT,NBC.csv
+SHI,HOSE,SONHA CORP,Tài nguyên Cơ bản,Basic Resources,1998.0,1991.0,5982.0,0.001,http://www.sonha.com.vn,2.5,161.9,162.2,CT,SHI.csv
+POM,HOSE,Thép Pomina,Tài nguyên Cơ bản,Basic Resources,1999.0,2396.0,7279.0,0.079,http://www.pomina-steel.com,2.3,278.5,279.7,CT,POM.csv
+HAP,HOSE,Tập đoàn Hapaco,Tài nguyên Cơ bản,Basic Resources,1999.0,620.0,8771.0,0.025,http://www.hapaco.vn,2.7,110.9,111.1,CT,HAP.csv
+BKC,HNX,Khoáng sản Bắc Kạn,Tài nguyên Cơ bản,Basic Resources,2000.0,468.0,109.0,0.002,http://www.backanco.com,,11.7,11.7,CT,BKC.csv
+BVG,UPCOM,Group Bắc Việt,Tài nguyên Cơ bản,Basic Resources,2000.0,164.0,122.0,0.0,http://www.bacvietgroup.com,,9.8,9.8,CT,BVG.csv
+TKG,HNX,SX và T.Mại Tùng Khánh,Tài nguyên Cơ bản,Basic Resources,2000.0,0.0,152.0,0.0,http://tungkhanh.com.vn,,6.3,6.3,CT,TKG.csv
+HPG,HOSE,Hòa Phát,Tài nguyên Cơ bản,Basic Resources,2001.0,19828.0,0.0,0.19,http://www.hoaphat.com.vn,3.1,5814.8,5814.8,CT,HPG.csv
+HSG,HOSE,Tập đoàn Hoa Sen,Tài nguyên Cơ bản,Basic Resources,2001.0,7824.0,0.0,0.06,http://www.hoasengroup.vn,2.8,598.1,598.1,CT,HSG.csv
+TDN,HNX,Than Đèo Nai,Tài nguyên Cơ bản,Basic Resources,2001.0,1911.0,3101.0,0.007,http://www.deonai.com.vn,2.2,29.4,29.4,CT,TDN.csv
+SAV,HOSE,Savimex,Tài nguyên Cơ bản,Basic Resources,2001.0,1085.0,0.0,0.434,http://www.savimex.com.vn,3.0,18.0,18.4,CT,SAV.csv
+GTA,HOSE,Gỗ Thuận An,Tài nguyên Cơ bản,Basic Resources,2001.0,762.0,1546.0,0.006,http://gothuanan.vn/,2.6,9.8,10.4,CT,GTA.csv
+DTL,HOSE,Đại Thiên Lộc,Tài nguyên Cơ bản,Basic Resources,2001.0,311.0,310.0,0.0,http://daithienloc.com.vn/,2.0,60.6,61.4,CT,DTL.csv
+BMC,HOSE,Khoáng sản Bình Định,Tài nguyên Cơ bản,Basic Resources,2001.0,197.0,0.0,0.063,http://www.bimico.vn,2.8,12.4,12.4,CT,BMC.csv
+ITQ,HNX,Tập đoàn Thiên Quang,Tài nguyên Cơ bản,Basic Resources,2001.0,130.0,4015.0,0.001,http://www.inoxthienquang.com.vn,2.5,31.8,31.8,CT,ITQ.csv
+AMC,HNX,Khoáng sản Á Châu,Tài nguyên Cơ bản,Basic Resources,2001.0,113.0,102.0,0.052,http://www.amcvina.vn,,2.9,2.9,CT,AMC.csv
+BMJ,UPCOM,Khoáng sản Miền Đông AHP,Tài nguyên Cơ bản,Basic Resources,2001.0,69.0,339.0,0.001,http://www.becamexbmj.com.vn,2.8,105.0,105.0,CT,BMJ.csv
+KKC,HNX,Tập đoàn Thành Thái,Tài nguyên Cơ bản,Basic Resources,2001.0,31.0,0.0,0.043,http://www.kkcmetal.com.vn,,5.2,5.2,CT,KKC.csv
+NKG,HOSE,Thép Nam Kim,Tài nguyên Cơ bản,Basic Resources,2002.0,1730.0,0.0,0.109,http://www.namkimgroup.vn,2.9,263.3,263.3,CT,NKG.csv
+LCM,UPCOM,Khoáng sản Lào Cai,Tài nguyên Cơ bản,Basic Resources,2002.0,250.0,2233.0,0.04,http://www.khoangsanlaocai.com.vn,2.3,24.6,24.6,CT,LCM.csv
+TTF,HOSE,Gỗ Trường Thành,Tài nguyên Cơ bản,Basic Resources,2003.0,4016.0,3958.0,0.008,http://www.truongthanh.com,1.9,411.2,393.5,CT,TTF.csv
+DHC,HOSE,Đông Hải Bến Tre,Tài nguyên Cơ bản,Basic Resources,2003.0,519.0,1004.0,0.317,http://www.dohacobentre.com.vn,3.2,70.0,70.0,CT,DHC.csv
+MEL,HNX,Thép Mê Lin,Tài nguyên Cơ bản,Basic Resources,2003.0,70.0,108.0,0.0,http://melinsteel.vn/,,15.0,15.0,CT,MEL.csv
+DHM,HOSE,Khoáng sản Dương Hiếu,Tài nguyên Cơ bản,Basic Resources,2003.0,26.0,0.0,0.001,http://www.duonghieu.com.vn,2.6,31.4,31.4,CT,DHM.csv
+KHD,UPCOM,Khoáng sản Hải Dương,Tài nguyên Cơ bản,Basic Resources,2003.0,25.0,257.0,0.0,https://khoangsanhaiduong.com/,,3.3,3.3,CT,KHD.csv
+SVT,HOSE,Công nghệ SG Viễn Đông,Tài nguyên Cơ bản,Basic Resources,2003.0,9.0,1258.0,0.014,http://www.savitechco.vn,3.5,15.1,15.1,CT,SVT.csv
+PTB,HOSE,Công ty Cổ phần Phú Tài,Tài nguyên Cơ bản,Basic Resources,2004.0,5044.0,2448.0,0.167,http://www.phutai.com.vn,2.9,68.0,68.0,CT,PTB.csv
+SMC,HOSE,Đầu tư Thương mại SMC,Tài nguyên Cơ bản,Basic Resources,2004.0,986.0,0.0,0.203,http://www.smc.vn,2.6,73.6,73.7,CT,SMC.csv
+CAP,HNX,Lâm nông sản Yên Bái,Tài nguyên Cơ bản,Basic Resources,2004.0,677.0,285.0,0.0,http://www.yfatuf.com.vn,3.2,7.9,7.9,CT,CAP.csv
+NSH,HNX,Nhôm Sông Hồng,Tài nguyên Cơ bản,Basic Resources,2004.0,357.0,233.0,0.002,http://www.shalumi.com.vn,,20.7,20.7,CT,NSH.csv
+BCA,UPCOM,Công ty B.C.H,Tài nguyên Cơ bản,Basic Resources,2004.0,0.0,114.0,0.0,https://bch.com.vn,2.1,19.0,19.0,CT,BCA.csv
+TMG,UPCOM,Kim loại màu Thái Nguyên - Vimico,Tài nguyên Cơ bản,Basic Resources,2005.0,1125.0,271.0,0.0,http://www.kimloaimau.com.vn,3.1,18.0,18.0,CT,TMG.csv
+HMC,HOSE,Kim khí TP.HCM,Tài nguyên Cơ bản,Basic Resources,2005.0,184.0,0.0,0.009,https://metalhcm.com.vn,2.7,27.3,27.3,CT,HMC.csv
+MIC,UPCOM,Khoáng sản Quảng Nam,Tài nguyên Cơ bản,Basic Resources,2005.0,149.0,0.0,0.007,http://www.minco.com.vn,,5.5,5.5,CT,MIC.csv
+SHN,HNX,Đầu tư Tổng hợp Hà Nội,Tài nguyên Cơ bản,Basic Resources,2005.0,54.0,2617.0,0.0,http://www.shn.com.vn,2.1,129.6,129.6,CT,SHN.csv
+HLC,HNX,Than Hà Lầm,Tài nguyên Cơ bản,Basic Resources,2006.0,3157.0,3964.0,0.074,https://halamcoal.com.vn,2.6,25.4,25.4,CT,HLC.csv
+ACG,HOSE,Gỗ An Cường,Tài nguyên Cơ bản,Basic Resources,2006.0,2959.0,477.0,0.386,https://www.ancuong.com,2.5,135.8,135.8,CT,ACG.csv
+THT,HNX,Than Hà Tu,Tài nguyên Cơ bản,Basic Resources,2006.0,1862.0,0.0,0.043,http://www.hatucoal.vn,2.9,24.6,24.6,CT,THT.csv
+CBI,UPCOM,Gang thép Cao Bằng,Tài nguyên Cơ bản,Basic Resources,2006.0,832.0,284.0,0.0,https://gtcb.com.vn/,2.5,43.0,43.0,CT,CBI.csv
+TNT,HOSE,Tập đoàn TNT,Tài nguyên Cơ bản,Basic Resources,2006.0,15.0,1660.0,0.001,http://tainguyen.vn,2.7,51.0,51.0,CT,TNT.csv
+KSQ,HNX,CNC Capital Việt Nam,Tài nguyên Cơ bản,Basic Resources,2006.0,12.0,1331.0,0.005,http://www.cnccapital.com.vn,,30.0,30.0,CT,KSQ.csv
+SQC,UPCOM,Khoáng sản SG-Quy Nhơn,Tài nguyên Cơ bản,Basic Resources,2006.0,1.0,0.0,0.069,http://sqcmining.vn,2.1,107.3,110.0,CT,SQC.csv
+DLG,HOSE,Đức Long Gia Lai,Tài nguyên Cơ bản,Basic Resources,2007.0,5750.0,3572.0,0.018,http://www.duclonggroup.com,2.1,299.3,299.3,CT,DLG.csv
+TC6,HNX,Than Cọc Sáu,Tài nguyên Cơ bản,Basic Resources,2007.0,2270.0,0.0,0.012,http://www.cocsau.com,2.4,32.5,32.5,CT,TC6.csv
+TMB,HNX,Than Miền Bắc - Vinacomin,Tài nguyên Cơ bản,Basic Resources,2007.0,665.0,652.0,0.002,http://www.thanmienbac.vn,3.5,15.0,15.0,CT,TMB.csv
+VGS,HNX,Ống thép Việt Đức,Tài nguyên Cơ bản,Basic Resources,2007.0,472.0,2268.0,0.004,http://www.vgpipe.com.vn,2.7,48.4,48.4,CT,VGS.csv
+VCA,HOSE,Thép VICASA - VNSTEEL,Tài nguyên Cơ bản,Basic Resources,2007.0,396.0,732.0,0.085,http://www.vicasasteel.com,3.1,15.2,15.2,CT,VCA.csv
+MHL,HNX,Minh Hữu Liên,Tài nguyên Cơ bản,Basic Resources,2007.0,244.0,155.0,0.004,http://www.minghuulien.com,,5.3,5.4,CT,MHL.csv
+TNS,UPCOM,Thép tấm lá Thống Nhất,Tài nguyên Cơ bản,Basic Resources,2007.0,0.0,2043.0,0.001,http://www.tnsteel.vn,,20.0,20.0,CT,TNS.csv
+TVD,HNX,Than Vàng Danh,Tài nguyên Cơ bản,Basic Resources,2008.0,5527.0,0.0,0.032,http://www.vangdanhcoal.com.vn,3.0,45.0,45.0,CT,TVD.csv
+MDC,HNX,Than Mông Dương,Tài nguyên Cơ bản,Basic Resources,2008.0,3325.0,2020.0,0.183,http://mongduongcoal.vn,2.3,21.4,21.4,CT,MDC.csv
+GVT,UPCOM,Giấy Việt Trì,Tài nguyên Cơ bản,Basic Resources,2008.0,468.0,574.0,0.0,http://www.giayviettri.com.vn,3.0,11.6,11.6,CT,GVT.csv
+VPG,HOSE,Đầu tư TMại XNK Việt Phát,Tài nguyên Cơ bản,Basic Resources,2008.0,108.0,3927.0,0.005,http://www.vietphatjsc.com.vn,2.9,80.2,80.2,CT,VPG.csv
+KVC,HNX,XNK Inox Kim Vĩ,Tài nguyên Cơ bản,Basic Resources,2008.0,16.0,4822.0,0.008,http://www.kimvico.com.vn,,49.5,49.5,CT,KVC.csv
+DFC,UPCOM,Xích líp Đông Anh,Tài nguyên Cơ bản,Basic Resources,2009.0,1364.0,740.0,0.0,http://www.xichlipda.vn,,6.0,6.0,CT,DFC.csv
+SHA,HOSE,Sơn Hà Sài Gòn,Tài nguyên Cơ bản,Basic Resources,2009.0,297.0,0.0,0.009,http://www.sonhasg.com.vn,2.2,33.4,33.4,CT,SHA.csv
+TNI,HOSE,Tập đoàn Thành Nam,Tài nguyên Cơ bản,Basic Resources,2009.0,108.0,1329.0,0.003,http://www.thanhnamgroup.com.vn,2.7,52.5,52.5,CT,TNI.csv
+NHV,UPCOM,Đầu tư NHV,Tài nguyên Cơ bản,Basic Resources,2009.0,13.0,148.0,0.0,http://www.nhv.com.vn,,5.5,5.5,CT,NHV.csv
+SPI,HNX,Đá Spilít,Tài nguyên Cơ bản,Basic Resources,2009.0,10.0,102.0,0.012,http://www.spigroup.vn,,16.8,16.8,CT,SPI.csv
+KSV,UPCOM,Khoáng sản TKV,Tài nguyên Cơ bản,Basic Resources,2010.0,4831.0,1149.0,0.0,http://vimico.vn,2.7,200.0,200.0,CT,KSV.csv
+MSR,UPCOM,Masan High-Tech Materials,Tài nguyên Cơ bản,Basic Resources,2010.0,2059.0,5435.0,0.101,http://www.masangroup.com/masanresources,2.2,1099.2,1099.2,CT,MSR.csv
+VIF,HNX,Lâm nghiệp Việt Nam,Tài nguyên Cơ bản,Basic Resources,2010.0,754.0,879.0,0.0,http://www.vinafor.com.vn,2.7,350.0,350.0,CT,VIF.csv
+MGC,UPCOM,Địa chất mỏ - TKV,Tài nguyên Cơ bản,Basic Resources,2010.0,728.0,987.0,0.0,http://www.minegeology.vn,,10.8,10.8,CT,MGC.csv
+PAS,UPCOM,Quốc tế Phương Anh,Tài nguyên Cơ bản,Basic Resources,2010.0,49.0,0.0,0.011,http://www.phuonganhgroup.com.vn,2.9,28.0,28.0,CT,PAS.csv
+MDF,UPCOM,Gỗ MDF VRG - Quảng Trị,Tài nguyên Cơ bản,Basic Resources,2011.0,410.0,215.0,0.0,http://www.mdfquangtri.vn,2.5,55.1,55.1,CT,MDF.csv
+TVN,UPCOM,Thép Việt Nam,Tài nguyên Cơ bản,Basic Resources,2012.0,144.0,9651.0,0.001,http://www.vnsteel.vn,2.2,678.0,678.0,CT,TVN.csv
+HHP,HOSE,Giấy Hoàng Hà Hải Phòng,Tài nguyên Cơ bản,Basic Resources,2012.0,121.0,567.0,0.026,http://www.hhppaper.com,3.1,30.1,30.1,CT,HHP.csv
+LMC,UPCOM,Khoáng sản LATCA,Tài nguyên Cơ bản,Basic Resources,2012.0,51.0,131.0,0.0,http://khoangsanlatca.com.vn/,,1.5,1.5,CT,LMC.csv
+KCB,UPCOM,Khoáng Sản Luyện Kim Cao Bằng,Tài nguyên Cơ bản,Basic Resources,2013.0,173.0,1081.0,0.0,http://cmamc.com.vn/,,8.0,8.0,CT,KCB.csv
+HSV,UPCOM,Gang Thép Hà Nội,Tài nguyên Cơ bản,Basic Resources,2013.0,0.0,109.0,0.003,https://gangthephanoi.com,2.5,15.7,15.7,CT,HSV.csv
+MTA,UPCOM,Khoáng sản và TM Hà Tĩnh,Tài nguyên Cơ bản,Basic Resources,2015.0,950.0,450.0,0.0,http://www.mitraco.com.vn,2.2,110.1,110.1,CT,MTA.csv
+FRC,UPCOM,Lâm đặc sản xuất khẩu Quảng Nam,Tài nguyên Cơ bản,Basic Resources,2015.0,579.0,246.0,0.0,http://www.forexco.com.vn,,3.0,3.0,CT,FRC.csv
+YBM,HOSE,Khoáng sản CN Yên Bái,Tài nguyên Cơ bản,Basic Resources,2015.0,175.0,0.0,0.002,http://www.ybm.com.vn,2.9,14.3,14.3,CT,YBM.csv
+CST,UPCOM,Than Cao Sơn - TKV,Tài nguyên Cơ bản,Basic Resources,2020.0,3473.0,5157.0,0.036,http://thancaoson.vn,2.6,42.8,42.8,CT,CST.csv
+PIA,HNX,Tin học Viễn thông Petrolimex,Viễn thông,Telecommunications,2003.0,121.0,225.0,0.122,http://www.piacom.com.vn,,3.9,3.9,CT,PIA.csv
+FOX,UPCOM,FPT Telecom,Viễn thông,Telecommunications,2005.0,9412.0,564.0,0.0,http://www.fpt.vn,2.8,328.3,328.3,CT,FOX.csv
+ABC,UPCOM,Truyền thông VMG,Viễn thông,Telecommunications,2006.0,180.0,663.0,0.009,https://vmgmedia.vn/home/index,2.6,20.4,20.4,CT,ABC.csv
+VGI,UPCOM,Đầu tư Quốc tế Viettel,Viễn thông,Telecommunications,2007.0,5128.0,8169.0,0.001,http://www.viettelglobal.vn,2.7,3043.8,3043.8,CT,VGI.csv
+MFS,UPCOM,Mobifone Service,Viễn thông,Telecommunications,2008.0,2010.0,1698.0,0.066,http://www.mobifoneservice.com.vn,,7.1,7.1,CT,MFS.csv
+TTN,UPCOM,Công nghệ và Truyền thông VN,Viễn thông,Telecommunications,2008.0,328.0,2493.0,0.004,http://www.vntt.com.vn,3.4,36.7,36.7,CT,TTN.csv
+ICI,UPCOM,Đầu tư và XD Công nghiệp,Xây dựng và Vật liệu,Construction & Materials,1968.0,358.0,0.0,0.001,http://www.ici.com.vn,,4.0,4.0,CT,ICI.csv
+ADP,UPCOM,Sơn Á Đông,Xây dựng và Vật liệu,Construction & Materials,1970.0,170.0,0.0,0.008,http://www.adongpaint.com.vn,2.5,23.0,23.0,CT,ADP.csv
+VSI,HOSE,Đầu tư và Xây dựng Cấp thoát nước,Xây dựng và Vật liệu,Construction & Materials,1975.0,180.0,394.0,0.007,http://www.waseco.com.vn,3.3,13.2,13.2,CT,VSI.csv
+LHC,HNX,XD Thủy lợi Lâm Đồng,Xây dựng và Vật liệu,Construction & Materials,1976.0,776.0,448.0,0.181,http://www.lhc.com.vn,3.2,14.4,14.4,CT,LHC.csv
+CMD,UPCOM,VLXD và Nội thất TP.HCM,Xây dựng và Vật liệu,Construction & Materials,1976.0,62.0,292.0,0.001,http://www.cmid.com.vn,,10.5,15.0,CT,CMD.csv
+LM8,HOSE,LILAMA 18,Xây dựng và Vật liệu,Construction & Materials,1977.0,2818.0,1127.0,0.018,http://www.lilama18.com.vn,2.8,9.4,9.4,CT,LM8.csv
+HU3,HOSE,Xây dựng HUD3,Xây dựng và Vật liệu,Construction & Materials,1978.0,95.0,374.0,0.047,http://www.hud3.com.vn,2.7,10.0,10.0,CT,HU3.csv
+TL4,UPCOM,XD Thủy lợi 4,Xây dựng và Vật liệu,Construction & Materials,1979.0,210.0,0.0,0.0,http://www.thuyloi4.com.vn,,14.7,16.0,CT,TL4.csv
+ACE,UPCOM,Bê tông An Giang,Xây dựng và Vật liệu,Construction & Materials,1982.0,373.0,230.0,0.024,http://www.aceco.com.vn,,3.1,3.1,CT,ACE.csv
+L14,HNX,Licogi 14,Xây dựng và Vật liệu,Construction & Materials,1982.0,110.0,3979.0,0.001,http://www.licogi14.vn,3.1,30.9,30.9,CT,L14.csv
+PXS,UPCOM,Lắp máy Dầu khí,Xây dựng và Vật liệu,Construction & Materials,1983.0,938.0,2950.0,0.106,http://www.pvc-ms.vn,2.2,60.0,60.0,CT,PXS.csv
+MDG,HOSE,Xây dựng Miền Đông,Xây dựng và Vật liệu,Construction & Materials,1986.0,76.0,0.0,0.0,http://miendong.com.vn/,3.3,10.3,10.9,CT,MDG.csv
+VNE,HOSE,Xây dựng điện Việt Nam,Xây dựng và Vật liệu,Construction & Materials,1988.0,177.0,0.0,0.059,http://www.vneco.vn,2.0,81.9,90.4,CT,VNE.csv
+VE3,HNX,Xây dựng điện VNECO 3,Xây dựng và Vật liệu,Construction & Materials,1988.0,85.0,0.0,0.002,http://www.vneco3.com.vn,,1.3,1.3,CT,VE3.csv
+HU1,HOSE,Xây dựng HUD1,Xây dựng và Vật liệu,Construction & Materials,1989.0,172.0,495.0,0.035,http://www.hud1.vn,2.3,10.0,10.0,CT,HU1.csv
+HVX,HOSE,Xi măng Vicem Hải Vân,Xây dựng và Vật liệu,Construction & Materials,1990.0,505.0,917.0,0.008,http://www.haivancement.vn,2.0,41.5,38.5,CT,HVX.csv
+NTP,HNX,Nhựa Tiền Phong,Xây dựng và Vật liệu,Construction & Materials,1993.0,1358.0,2452.0,0.178,http://www.nhuatienphong.vn/,2.9,129.6,129.6,CT,NTP.csv
+C32,HOSE,CIC39,Xây dựng và Vật liệu,Construction & Materials,1993.0,228.0,3378.0,0.044,http://www.cic39.vn,3.2,15.0,15.0,CT,C32.csv
+CSC,HNX,Tập đoàn COTANA,Xây dựng và Vật liệu,Construction & Materials,1993.0,89.0,2086.0,0.0,http://www.cotanagroup.vn,2.9,25.6,25.6,CT,CSC.csv
+TCR,HOSE,Gốm sứ TAICERA,Xây dựng và Vật liệu,Construction & Materials,1994.0,1075.0,3342.0,0.461,http://www.taicera.com,2.2,45.4,10.4,CT,TCR.csv
+CLH,HNX,Xi măng La Hiên,Xây dựng và Vật liệu,Construction & Materials,1994.0,548.0,543.0,0.027,http://www.ximanglahien.com.vn,3.3,12.0,12.0,CT,CLH.csv
+UDC,HOSE,Xây dựng và Phát triển đô thị Bà Rịa - Vũng Tàu,Xây dựng và Vật liệu,Construction & Materials,1995.0,232.0,1201.0,0.124,http://www.udec.com.vn,2.1,34.7,35.0,CT,UDC.csv
+HAN,UPCOM,Xây dựng Hà Nội,Xây dựng và Vật liệu,Construction & Materials,1996.0,724.0,463.0,0.0,http://www.hancorp.com.vn,2.4,141.0,141.0,CT,HAN.csv
+V12,HNX,VINACONEX 12,Xây dựng và Vật liệu,Construction & Materials,1996.0,244.0,520.0,0.0,http://www.vinaconex12.com.vn,,5.8,5.8,CT,V12.csv
+TKC,HNX,Địa ốc Tân Kỷ,Xây dựng và Vật liệu,Construction & Materials,1999.0,128.0,722.0,0.0,http://www.tanky.com.vn,,15.0,15.7,CT,TKC.csv
+HBC,HOSE,Tập đoàn Xây dựng Hòa Bình,Xây dựng và Vật liệu,Construction & Materials,2000.0,5040.0,19799.0,0.162,https://hbcg.vn,2.0,274.1,267.8,CT,HBC.csv
+CX8,HNX,Constrexim số 8,Xây dựng và Vật liệu,Construction & Materials,2000.0,287.0,123.0,0.003,http://www.constrexim8.com.vn,,2.2,2.1,CT,CX8.csv
+VC6,HNX,Visicons,Xây dựng và Vật liệu,Construction & Materials,2000.0,261.0,0.0,0.101,http://www.visicons.vn,,8.8,8.8,CT,VC6.csv
+HTI,HOSE,PT Hạ tầng IDICO,Xây dựng và Vật liệu,Construction & Materials,2000.0,210.0,828.0,0.223,http://www.idico-idi.com.vn,3.1,24.9,24.9,CT,HTI.csv
+SDN,HNX,Sơn Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2000.0,190.0,295.0,0.229,http://www.dongnaipaint.com.vn,,1.5,1.5,CT,SDN.csv
+DHA,HOSE,Hóa An,Xây dựng và Vật liệu,Construction & Materials,2000.0,119.0,2027.0,0.147,http://www.hoaan.com.vn,3.0,14.7,15.1,CT,DHA.csv
+UIC,HOSE,Phát triển Nhà và Đô thị IDICO,Xây dựng và Vật liệu,Construction & Materials,2000.0,99.0,572.0,0.128,http://www.idico-udico.com.vn/welcome/vn,3.0,8.0,8.0,CT,UIC.csv
+LGC,HOSE,Đầu tư Cầu đường CII,Xây dựng và Vật liệu,Construction & Materials,2000.0,98.0,287.0,0.45,http://www.ciibr.com.vn,2.7,192.9,192.9,CT,LGC.csv
+VIT,HNX,Viglacera Tiên Sơn,Xây dựng và Vật liệu,Construction & Materials,2001.0,695.0,685.0,0.003,http://www.viglaceratienson.com,2.4,50.0,50.0,CT,VIT.csv
+PHC,HOSE,Phuc Hung Holdings,Xây dựng và Vật liệu,Construction & Materials,2001.0,483.0,6867.0,0.013,http://www.phuchung.com.vn,2.2,50.7,50.6,CT,PHC.csv
+LCG,HOSE,LIZEN,Xây dựng và Vật liệu,Construction & Materials,2001.0,451.0,37697.0,0.024,http://lizen.vn/vi,2.8,189.6,191.6,CT,LCG.csv
+HCC,HNX,Bê tông Hòa Cầm,Xây dựng và Vật liệu,Construction & Materials,2001.0,181.0,520.0,0.216,http://www.betonghoacam.com.vn,,6.5,6.5,CT,HCC.csv
+DTD,HNX,Đầu tư Phát triển Thành Đạt,Xây dựng và Vật liệu,Construction & Materials,2001.0,120.0,0.0,0.001,http://www.thanhdathanam.vn,3.0,42.4,36.3,CT,DTD.csv
+CII,HOSE,Hạ tầng Kỹ thuật TP.HCM,Xây dựng và Vật liệu,Construction & Materials,2001.0,118.0,39257.0,0.074,http://www.cii.com.vn,2.4,252.2,284.0,CT,CII.csv
+VC7,HNX,BGI Group,Xây dựng và Vật liệu,Construction & Materials,2001.0,107.0,0.0,0.0,http://www.bgi.vn,1.9,48.0,48.0,CT,VC7.csv
+BTN,UPCOM,Gạch Tuy Nen Bình Định,Xây dựng và Vật liệu,Construction & Materials,2001.0,104.0,153.0,0.0,http://www.tuynenbinhdinh.com.vn,2.1,4.4,4.5,CT,BTN.csv
+HAS,HOSE,Hacisco,Xây dựng và Vật liệu,Construction & Materials,2001.0,89.0,1529.0,0.167,https://has.vn/,2.8,7.8,8.0,CT,HAS.csv
+NAV,HOSE,Tấm lợp và gỗ Nam Việt,Xây dựng và Vật liệu,Construction & Materials,2001.0,24.0,0.0,0.01,http://www.navifico.vn,3.1,8.0,8.0,CT,NAV.csv
+PCC,UPCOM,Xây lắp 1- Petrolimex,Xây dựng và Vật liệu,Construction & Materials,2002.0,583.0,310.0,0.0,http://www.pcc1.petrolimex.com.vn,,11.5,11.5,CT,PCC.csv
+VMC,HNX,VIMECO,Xây dựng và Vật liệu,Construction & Materials,2002.0,548.0,0.0,0.005,http://www.vimeco.com,2.3,21.6,21.6,CT,VMC.csv
+DPG,HOSE,Tập đoàn Đạt Phương,Xây dựng và Vật liệu,Construction & Materials,2002.0,517.0,5613.0,0.011,http://www.datphuong.com.vn,2.8,63.0,63.0,CT,DPG.csv
+SCC,UPCOM,Thương mại Đầu tư SHB,Xây dựng và Vật liệu,Construction & Materials,2002.0,453.0,530.0,0.005,http://www.ximangsongda.vn,,4.8,4.9,CT,SCC.csv
+PEN,HNX,Xây lắp III Petrolimex,Xây dựng và Vật liệu,Construction & Materials,2002.0,306.0,0.0,0.0,http://www.penjico.petrolimex.com.vn,,5.0,5.0,CT,PEN.csv
+HC3,UPCOM,Xây dựng số 3 Hải Phòng,Xây dựng và Vật liệu,Construction & Materials,2002.0,162.0,333.0,0.002,http://www.haco3.com.vn,3.0,20.7,20.7,CT,HC3.csv
+BCE,HOSE,XD và GT Bình Dương,Xây dựng và Vật liệu,Construction & Materials,2002.0,135.0,1927.0,0.014,http://www.becamexbce.com.vn,2.5,35.0,35.0,CT,BCE.csv
+XMC,UPCOM,Bê tông Xuân Mai,Xây dựng và Vật liệu,Construction & Materials,2003.0,3340.0,1035.0,0.0,http://www.xmcc.com.vn,2.2,67.4,67.4,CT,XMC.csv
+BMP,HOSE,Nhựa Bình Minh,Xây dựng và Vật liệu,Construction & Materials,2003.0,1203.0,0.0,0.857,http://www.binhminhplastic.com,3.1,81.9,81.9,CT,BMP.csv
+LBM,HOSE,Khoáng sản Lâm Đồng,Xây dựng và Vật liệu,Construction & Materials,2003.0,751.0,885.0,0.133,http://lbm-vn.vn,3.5,20.0,20.0,CT,LBM.csv
+THG,HOSE,XD Tiền Giang,Xây dựng và Vật liệu,Construction & Materials,2003.0,677.0,1351.0,0.007,http://www.ticco.com.vn,2.8,20.0,20.0,CT,THG.csv
+GMX,HNX,Gạch ngói Mỹ Xuân,Xây dựng và Vật liệu,Construction & Materials,2003.0,365.0,809.0,0.057,http://www.myxuan-vt.com.vn,,9.0,9.0,CT,GMX.csv
+YBC,UPCOM,Xi măng và Khoáng sản Yên Bái,Xây dựng và Vật liệu,Construction & Materials,2003.0,331.0,254.0,0.0,http://ybcmjsc.com.vn,,11.8,11.8,CT,YBC.csv
+TTC,HNX,Gạch men Thanh Thanh,Xây dựng và Vật liệu,Construction & Materials,2003.0,321.0,0.0,0.091,http://www.thanhthanhceramic.com,,5.9,6.0,CT,TTC.csv
+VC2,HNX,Đầu tư và Xây dựng VINA2,Xây dựng và Vật liệu,Construction & Materials,2003.0,295.0,0.0,0.001,http://www.vina2.com.vn,2.5,47.2,47.2,CT,VC2.csv
+SCJ,UPCOM,Xi măng Sài Sơn,Xây dựng và Vật liệu,Construction & Materials,2003.0,275.0,0.0,0.003,http://www.ximangsaison.com,2.1,37.8,37.8,CT,SCJ.csv
+CNT,UPCOM,Tập đoàn CNT,Xây dựng và Vật liệu,Construction & Materials,2003.0,210.0,0.0,0.002,http://www.cnt.com.vn,3.0,39.9,40.0,CT,CNT.csv
+C69,HNX,Xây dựng1369,Xây dựng và Vật liệu,Construction & Materials,2003.0,165.0,3639.0,0.0,https://cpxd1369.com.vn,2.5,60.0,60.0,CT,C69.csv
+VE8,HNX,Xây dựng Điện Vneco 8,Xây dựng và Vật liệu,Construction & Materials,2003.0,96.0,0.0,0.008,http://www.vneco8.com.vn,,1.8,1.8,CT,VE8.csv
+KTT,HNX,Tập đoàn Đầu tư KTT,Xây dựng và Vật liệu,Construction & Materials,2003.0,68.0,276.0,0.0,http://www.dienthientruong.com.vn,,3.0,3.0,CT,KTT.csv
+SC5,HOSE,Xây dựng Số 5,Xây dựng và Vật liệu,Construction & Materials,2003.0,65.0,1323.0,0.041,http://www.sc5.vn,2.4,15.0,15.0,CT,SC5.csv
+SJM,UPCOM,Sông Đà 19,Xây dựng và Vật liệu,Construction & Materials,2003.0,46.0,686.0,0.0,http://www.songda19.com.vn,,5.0,5.0,CT,SJM.csv
+MCO,HNX,BDC Việt Nam,Xây dựng và Vật liệu,Construction & Materials,2003.0,30.0,864.0,0.019,http://www.mcovietnam.com.vn,,4.1,4.1,CT,MCO.csv
+S99,HNX,Sông Đà 9.09 (SCI),Xây dựng và Vật liệu,Construction & Materials,2003.0,22.0,8125.0,0.003,http://www.sci.pro.vn,2.7,85.5,52.4,CT,S99.csv
+CID,UPCOM,Xây dựng và Phát triển Cơ sở Hạ tầng,Xây dựng và Vật liệu,Construction & Materials,2003.0,10.0,0.0,0.004,http://www.cinde.com.vn,,0.9,1.1,CT,CID.csv
+CTD,HOSE,Xây dựng Coteccons,Xây dựng và Vật liệu,Construction & Materials,2004.0,2720.0,3260.0,0.487,http://www.coteccons.vn,2.3,73.9,79.3,CT,CTD.csv
+DNP,HNX,Nhựa Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2004.0,2100.0,0.0,0.002,http://www.dnpcorp.vn,2.4,118.9,118.9,CT,DNP.csv
+SJE,HNX,Sông Đà 11,Xây dựng và Vật liệu,Construction & Materials,2004.0,1419.0,0.0,0.004,http://www.songda11.com.vn,2.6,22.0,22.0,CT,SJE.csv
+FCN,HOSE,FECON CORP,Xây dựng và Vật liệu,Construction & Materials,2004.0,1392.0,23990.0,0.324,http://www.fecon.com.vn,2.3,157.4,157.4,CT,FCN.csv
+SD5,HNX,Sông Đà 5,Xây dựng và Vật liệu,Construction & Materials,2004.0,933.0,2404.0,0.073,http://www.songda5.com.vn,2.5,26.0,26.0,CT,SD5.csv
+DTC,HNX,Viglacera Đông Triều,Xây dựng và Vật liệu,Construction & Materials,2004.0,753.0,286.0,0.017,http://viglaceradtc.com.vn,,10.0,10.0,CT,DTC.csv
+CCM,UPCOM,Xi măng Cần Thơ,Xây dựng và Vật liệu,Construction & Materials,2004.0,378.0,0.0,0.0,http://www.ximangcantho.vn,3.1,6.2,6.2,CT,CCM.csv
+S55,HNX,Sông Đà 505,Xây dựng và Vật liệu,Construction & Materials,2004.0,322.0,0.0,0.005,http://www.songda505.com.vn,3.1,10.0,10.0,CT,S55.csv
+BTD,UPCOM,Bê tông ly tâm Thủ Đức,Xây dựng và Vật liệu,Construction & Materials,2004.0,296.0,132.0,0.003,http://www.betongthuduc.com,,6.4,6.4,CT,BTD.csv
+HPP,UPCOM,Sơn Hải Phòng,Xây dựng và Vật liệu,Construction & Materials,2004.0,274.0,581.0,0.195,http://www.sonhaiphong.com.vn,2.4,8.0,8.0,CT,HPP.csv
+DID,UPCOM,DIC - Đồng Tiến,Xây dựng và Vật liệu,Construction & Materials,2004.0,205.0,0.0,0.003,http://www.dicdongtien.vn,,15.6,15.6,CT,DID.csv
+C92,UPCOM,Xây dựng và Đầu tư 492,Xây dựng và Vật liệu,Construction & Materials,2004.0,180.0,723.0,0.037,http://www.c92.com.vn,,5.3,5.3,CT,C92.csv
+VCP,UPCOM,Xây dựng và Năng lượng VCP,Xây dựng và Vật liệu,Construction & Materials,2004.0,138.0,829.0,0.0,http://www.vinaconexpc.com.vn,2.7,83.8,83.8,CT,VCP.csv
+QTC,HNX,GTVT Quảng Nam,Xây dựng và Vật liệu,Construction & Materials,2004.0,96.0,0.0,0.182,http://www.cotracoqna.vn,,2.7,2.7,CT,QTC.csv
+VHH,UPCOM,Kinh doanh nhà Thành Đạt,Xây dựng và Vật liệu,Construction & Materials,2004.0,75.0,0.0,0.0,http://www.thanhdathouse.com.vn,,7.5,7.5,CT,VHH.csv
+S72,UPCOM,Sông Đà 7.02,Xây dựng và Vật liệu,Construction & Materials,2004.0,60.0,490.0,0.0,http://www.songda702.com.vn,,12.0,12.0,CT,S72.csv
+BAX,HNX,Công ty Thống Nhất,Xây dựng và Vật liệu,Construction & Materials,2004.0,44.0,398.0,0.172,http://www.bauxeo.com.vn,3.4,8.2,8.2,CT,BAX.csv
+VE1,HNX,VNECO 1,Xây dựng và Vật liệu,Construction & Materials,2004.0,38.0,0.0,0.254,http://www.vneco1.com.vn,,5.9,6.0,CT,VE1.csv
+SD7,UPCOM,Sông Đà 7,Xây dựng và Vật liệu,Construction & Materials,2004.0,37.0,0.0,0.007,http://www.songda7.com.vn,3.1,10.6,10.6,CT,SD7.csv
+NHA,HOSE,PT Nhà và Đô thị Nam HN,Xây dựng và Vật liệu,Construction & Materials,2004.0,29.0,0.0,0.005,http://www.namhanoi.com.vn,2.0,42.2,42.2,CT,NHA.csv
+PTC,HOSE,Đầu tư ICAPITAL,Xây dựng và Vật liệu,Construction & Materials,2004.0,26.0,884.0,0.01,http://www.ptic.vn,2.0,32.2,32.3,CT,PTC.csv
+SDD,UPCOM,Xây lắp Sông Đà,Xây dựng và Vật liệu,Construction & Materials,2004.0,15.0,6666.0,0.003,http://songdaic.vn,,16.0,16.0,CT,SDD.csv
+VE9,UPCOM,VNECO 9,Xây dựng và Vật liệu,Construction & Materials,2004.0,6.0,0.0,0.0,http://www.vneco9.com,,12.0,12.5,CT,VE9.csv
+PC1,HOSE,Tập đoàn PC1,Xây dựng và Vật liệu,Construction & Materials,2005.0,1524.0,686.0,0.057,http://pc1group.vn,2.6,270.4,235.2,CT,PC1.csv
+BTS,HNX,Xi măng Bút Sơn,Xây dựng và Vật liệu,Construction & Materials,2005.0,1228.0,0.0,0.002,http://www.vicembutson.com.vn,2.4,123.6,123.6,CT,BTS.csv
+SDT,HNX,Sông Đà 10,Xây dựng và Vật liệu,Construction & Materials,2005.0,881.0,1618.0,0.013,http://www.songda10.com.vn,2.3,42.7,42.7,CT,SDT.csv
+SD6,HNX,Sông Đà 6,Xây dựng và Vật liệu,Construction & Materials,2005.0,869.0,2479.0,0.016,http://www.songda6.com.vn,2.0,34.8,34.8,CT,SD6.csv
+SD3,UPCOM,Sông Đà 3,Xây dựng và Vật liệu,Construction & Materials,2005.0,751.0,0.0,0.001,http://www.songda3.vn,,16.0,16.0,CT,SD3.csv
+VCS,HNX,VICOSTONE,Xây dựng và Vật liệu,Construction & Materials,2005.0,682.0,4400.0,0.03,http://www.vicostone.com,3.0,160.0,160.0,CT,VCS.csv
+VLB,UPCOM,VLXD Biên Hòa,Xây dựng và Vật liệu,Construction & Materials,2005.0,675.0,1005.0,0.0,http://www.bbcc.com.vn,3.0,46.8,47.0,CT,VLB.csv
+QNC,UPCOM,Xi măng Quảng Ninh,Xây dựng và Vật liệu,Construction & Materials,2005.0,669.0,1647.0,0.154,http://www.qncc.vn,2.9,59.9,60.0,CT,QNC.csv
+C47,HOSE,Xây dựng 47,Xây dựng và Vật liệu,Construction & Materials,2005.0,655.0,1702.0,0.001,http://www.xaydung47.vn,2.6,32.5,27.5,CT,C47.csv
+RCC,UPCOM,Công trình Đường sắt,Xây dựng và Vật liệu,Construction & Materials,2005.0,585.0,896.0,0.0,http://www.congtrinhduongsat.vn,2.4,42.0,15.5,CT,RCC.csv
+SD9,HNX,Sông Đà 9,Xây dựng và Vật liệu,Construction & Materials,2005.0,440.0,5983.0,0.019,http://www.songda9.com,2.5,34.2,34.2,CT,SD9.csv
+VTA,UPCOM,Gạch men VITALY,Xây dựng và Vật liệu,Construction & Materials,2005.0,374.0,0.0,0.002,http://www.vitaly.com.vn,,8.0,8.0,CT,VTA.csv
+DC4,HOSE,Xây dựng DIC Holdings,Xây dựng và Vật liệu,Construction & Materials,2005.0,312.0,603.0,0.001,http://www.diccons.vn,2.3,52.5,52.5,CT,DC4.csv
+VC9,HNX,Xây dựng số 9,Xây dựng và Vật liệu,Construction & Materials,2005.0,217.0,834.0,0.026,http://www.vinaconex-9.com.vn,,11.7,12.0,CT,VC9.csv
+DND,UPCOM,XD và Vật liệu Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2005.0,141.0,283.0,0.0,http://www.vatlieudongnai.vn,2.9,8.8,8.8,CT,DND.csv
+L12,UPCOM,LICOGI 12,Xây dựng và Vật liệu,Construction & Materials,2005.0,120.0,0.0,0.001,http://www.licogi12.com,,6.7,7.0,CT,L12.csv
+LIG,HNX,Licogi 13,Xây dựng và Vật liệu,Construction & Materials,2005.0,113.0,0.0,0.0,http://www.licogi13.com.vn,2.7,94.2,95.1,CT,LIG.csv
+DSG,UPCOM,Kính Đáp Cầu,Xây dựng và Vật liệu,Construction & Materials,2005.0,101.0,620.0,0.002,http://www.kinhdapcau.vn,,30.0,30.0,CT,DSG.csv
+DC2,HNX,DIC Số 2,Xây dựng và Vật liệu,Construction & Materials,2005.0,77.0,754.0,0.024,https://dic2.vn/,,7.2,7.2,CT,DC2.csv
+CIG,HOSE,Xây dựng COMA 18,Xây dựng và Vật liệu,Construction & Materials,2005.0,59.0,308.0,0.0,http://www.coma18.vn,2.2,31.5,31.5,CT,CIG.csv
+TXM,HNX,Thạch cao Xi măng,Xây dựng và Vật liệu,Construction & Materials,2005.0,58.0,1116.0,0.008,http://www.thachcaoximang.com.vn,,7.0,7.0,CT,TXM.csv
+DGT,UPCOM,Công trình GT Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2005.0,52.0,0.0,0.0,http://www.dgtc.vn,2.4,79.0,79.0,CT,DGT.csv
+SVN,HNX,Tập đoàn Vexilla Việt Nam,Xây dựng và Vật liệu,Construction & Materials,2005.0,10.0,687.0,0.079,http://www.solavina.vn,,21.0,21.0,CT,SVN.csv
+VCG,HOSE,VINACONEX,Xây dựng và Vật liệu,Construction & Materials,2006.0,6845.0,7864.0,0.032,http://www.vinaconex.com.vn,2.3,485.9,485.9,CT,VCG.csv
+HMS,UPCOM,XD Bảo tàng Hồ Chí Minh,Xây dựng và Vật liệu,Construction & Materials,2006.0,2943.0,462.0,0.001,http://www.hcmcc.com.vn,2.6,8.8,8.0,CT,HMS.csv
+VHL,HNX,Viglacera Hạ Long,Xây dựng và Vật liệu,Construction & Materials,2006.0,2116.0,470.0,0.025,http://www.viglacerahalong.vn,2.3,25.0,25.0,CT,VHL.csv
+BCC,HNX,Xi măng Bỉm Sơn,Xây dựng và Vật liệu,Construction & Materials,2006.0,1356.0,0.0,0.011,http://ximangbimson.com.vn/,2.4,123.2,123.2,CT,BCC.csv
+CVT,HOSE,CMC JSC,Xây dựng và Vật liệu,Construction & Materials,2006.0,1125.0,1284.0,0.005,https://cmctiles.vn,2.6,36.7,36.7,CT,CVT.csv
+SD2,UPCOM,Sông Đà 2,Xây dựng và Vật liệu,Construction & Materials,2006.0,884.0,0.0,0.06,http://www.songda2.com.vn,,14.4,14.4,CT,SD2.csv
+GND,UPCOM,Gạch ngói Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2006.0,518.0,290.0,0.005,http://www.tuildonai.com.vn,3.3,9.0,9.0,CT,GND.csv
+L18,HNX,LICOGI - 18,Xây dựng và Vật liệu,Construction & Materials,2006.0,500.0,3503.0,0.0,http://www.licogi18.com.vn,2.4,38.1,38.1,CT,L18.csv
+GMH,HOSE,Minh Hưng Quảng Trị,Xây dựng và Vật liệu,Construction & Materials,2006.0,405.0,173.0,0.0,http://minhhungqt.vn,3.5,16.5,16.5,CT,GMH.csv
+G36,UPCOM,Tổng Công ty 36,Xây dựng và Vật liệu,Construction & Materials,2006.0,343.0,13172.0,0.0,http://36corp.com/,2.0,101.8,101.8,CT,G36.csv
+VTV,HNX,Năng lượng và Môi trường VICEM,Xây dựng và Vật liệu,Construction & Materials,2006.0,256.0,0.0,0.005,http://www.vtvxm.vn,2.4,31.2,31.2,CT,VTV.csv
+DXV,HOSE,Vật liệu Xây dựng Đà Nẵng,Xây dựng và Vật liệu,Construction & Materials,2006.0,250.0,578.0,0.006,http://coxiva.com.vn/,2.5,9.9,9.9,CT,DXV.csv
+DIH,HNX,PT Xây dựng Hội An,Xây dựng và Vật liệu,Construction & Materials,2006.0,235.0,0.0,0.001,http://www.dichoian.com,1.9,5.9,6.0,CT,DIH.csv
+HDA,HNX,Hãng sơn Đông Á,Xây dựng và Vật liệu,Construction & Materials,2006.0,186.0,562.0,0.009,http://hangsondonga.com.vn,3.1,23.0,23.0,CT,HDA.csv
+LAI,UPCOM,XD Long An IDICO,Xây dựng và Vật liệu,Construction & Materials,2006.0,130.0,113.0,0.0,http://www.idico-linco.com.vn,,8.6,8.6,CT,LAI.csv
+PCM,UPCOM,VLXD Bưu điện,Xây dựng và Vật liệu,Construction & Materials,2006.0,116.0,0.0,0.0,http://www.pcm.vn,,3.9,4.0,CT,PCM.csv
+CIP,UPCOM,XL và SX công nghiệp,Xây dựng và Vật liệu,Construction & Materials,2006.0,63.0,617.0,0.0,http://www.cipc.com.vn,,4.5,4.5,CT,CIP.csv
+NNC,HOSE,Đá Núi Nhỏ,Xây dựng và Vật liệu,Construction & Materials,2006.0,58.0,0.0,0.075,http://www.nuinho.vn,2.2,21.9,21.9,CT,NNC.csv
+NED,UPCOM,Phát triển Điện Tây Bắc,Xây dựng và Vật liệu,Construction & Materials,2006.0,49.0,8666.0,0.001,https://ned.vn,2.8,40.5,40.5,CT,NED.csv
+CGV,UPCOM,Vinaceglass JSC,Xây dựng và Vật liệu,Construction & Materials,2006.0,42.0,0.0,0.002,http://www.vinaceglass.com,,9.5,9.5,CT,CGV.csv
+ICG,HNX,Xây dựng Sông Hồng,Xây dựng và Vật liệu,Construction & Materials,2006.0,29.0,1998.0,0.077,http://www.incomex.com.vn,,17.6,20.0,CT,ICG.csv
+DVG,HNX,Tập đoàn Sơn Đại Việt,Xây dựng và Vật liệu,Construction & Materials,2006.0,23.0,0.0,0.001,http://www.davipaint.com,2.6,28.0,28.0,CT,DVG.csv
+HT1,HOSE,VICEM Hà Tiên,Xây dựng và Vật liệu,Construction & Materials,2007.0,2373.0,15835.0,0.02,https://www.hatien1.com.vn,2.4,381.6,381.6,CT,HT1.csv
+SD4,HNX,Sông Đà 4,Xây dựng và Vật liệu,Construction & Materials,2007.0,1523.0,1182.0,0.02,http://www.songda4.vn,,10.3,10.3,CT,SD4.csv
+HUT,HNX,HUD - Tasco,Xây dựng và Vật liệu,Construction & Materials,2007.0,941.0,357.0,0.008,http://www.tasco.com.vn,2.2,348.6,348.6,CT,HUT.csv
+CTI,HOSE,Cường Thuận IDICO,Xây dựng và Vật liệu,Construction & Materials,2007.0,481.0,993.0,0.006,http://www.cuongthuan.vn,2.2,54.8,63.0,CT,CTI.csv
+TV3,HNX,Tư vấn XD điện 3,Xây dựng và Vật liệu,Construction & Materials,2007.0,467.0,0.0,0.002,http://www.pecc3.com.vn,,9.5,8.3,CT,TV3.csv
+VCC,HNX,Vinaconex 25,Xây dựng và Vật liệu,Construction & Materials,2007.0,465.0,478.0,0.0,http://www.vinaconex25.com.vn,1.7,12.0,12.0,CT,VCC.csv
+FCM,HOSE,Khoáng sản FECON,Xây dựng và Vật liệu,Construction & Materials,2007.0,423.0,3204.0,0.031,http://www.feconmining.com.vn,2.5,45.1,45.1,CT,FCM.csv
+CQT,UPCOM,Xi măng Quán Triều VVMI,Xây dựng và Vật liệu,Construction & Materials,2007.0,349.0,626.0,0.0,http://ximangquantrieu.com/,,25.0,25.0,CT,CQT.csv
+CMS,HNX,CMH Group,Xây dựng và Vật liệu,Construction & Materials,2007.0,326.0,0.0,0.0,http://www.cmvietnam.vn,3.0,25.5,25.5,CT,CMS.csv
+L45,UPCOM,Lilama 45.1,Xây dựng và Vật liệu,Construction & Materials,2007.0,211.0,369.0,0.001,http://www.lilama45-1.com,,4.8,4.8,CT,L45.csv
+SCL,UPCOM,Sông Đà Cao Cường,Xây dựng và Vật liệu,Construction & Materials,2007.0,144.0,900.0,0.0,http://www.songdacaocuong.vn,2.9,17.3,17.3,CT,SCL.csv
+HID,HOSE,Halcom Vietnam,Xây dựng và Vật liệu,Construction & Materials,2007.0,120.0,5848.0,0.007,http://www.halcom.vn,2.6,76.8,76.8,CT,HID.csv
+ICC,UPCOM,Xây dựng công nghiệp,Xây dựng và Vật liệu,Construction & Materials,2007.0,120.0,223.0,0.08,http://www.xdcn.com.vn,,3.8,3.8,CT,ICC.csv
+TMX,HNX,Thương mại Xi măng,Xây dựng và Vật liệu,Construction & Materials,2007.0,97.0,411.0,0.072,http://www.tmx.com.vn,,6.0,6.0,CT,TMX.csv
+TCD,HOSE,ĐT Phát triển CN và Vận tải,Xây dựng và Vật liệu,Construction & Materials,2007.0,88.0,4023.0,0.005,http://www.tracodi.com.vn,2.8,244.4,244.4,CT,TCD.csv
+PSB,UPCOM,Sao Mai Bến Đình,Xây dựng và Vật liệu,Construction & Materials,2007.0,80.0,0.0,0.0,http://www.pvsb.com.vn,2.5,50.0,50.0,CT,PSB.csv
+H11,UPCOM,Xây dựng HUD101,Xây dựng và Vật liệu,Construction & Materials,2007.0,38.0,175.0,0.002,http://www.hud101.vn,,1.1,1.1,CT,H11.csv
+PFL,UPCOM,Dầu khí Đông Đô,Xây dựng và Vật liệu,Construction & Materials,2007.0,32.0,1646.0,0.002,http://daukhidongdo.vn,2.3,50.0,50.0,CT,PFL.csv
+UDJ,UPCOM,Becamex UDJ,Xây dựng và Vật liệu,Construction & Materials,2007.0,16.0,676.0,0.047,http://www.becamexudj.com.vn,4.0,16.5,16.5,CT,UDJ.csv
+HEJ,UPCOM,Tư vấn Xây dựng Thủy Lợi VN,Xây dựng và Vật liệu,Construction & Materials,2008.0,274.0,0.0,0.0,http://www.hec.com.vn,,4.4,4.4,CT,HEJ.csv
+ACC,HOSE,Đầu tư và XD Bình Dương ACC,Xây dựng và Vật liệu,Construction & Materials,2008.0,253.0,2386.0,0.083,http://www.becamexacc.com.vn,2.7,105.0,105.0,CT,ACC.csv
+TTA,HOSE,XD và PT Trường Thành,Xây dựng và Vật liệu,Construction & Materials,2008.0,138.0,8256.0,0.003,http://www.truongthanhgroup.com.vn,2.7,157.5,157.5,CT,TTA.csv
+CDR,UPCOM,Xây dựng Cao su Đồng Nai,Xây dựng và Vật liệu,Construction & Materials,2008.0,91.0,186.0,0.0,http://www.dorucon.com.vn,,2.1,2.1,CT,CDR.csv
+CDC,HOSE,Chương Dương Corp,Xây dựng và Vật liệu,Construction & Materials,2008.0,90.0,963.0,0.004,https://chuongduongcorp.vn,2.7,22.0,22.0,CT,CDC.csv
+NDX,HNX,Phát triển Nhà Đà Nẵng,Xây dựng và Vật liệu,Construction & Materials,2008.0,87.0,107.0,0.064,http://www.ndx.com.vn,,9.6,10.0,CT,NDX.csv
+SIG,UPCOM,Đầu tư và Thương mại Sông Đà,Xây dựng và Vật liệu,Construction & Materials,2008.0,60.0,113.0,0.0,http://www.sodic.com.vn,2.5,10.0,10.0,CT,SIG.csv
+EIC,UPCOM,EVN Quốc Tế,Xây dựng và Vật liệu,Construction & Materials,2008.0,30.0,1764.0,0.0,http://www.evni.vn,3.1,36.7,36.7,CT,EIC.csv
+ALV,UPCOM,Xây dựng ALVICO,Xây dựng và Vật liệu,Construction & Materials,2008.0,15.0,115.0,0.003,http://www.alvico.vn,,5.7,5.7,CT,ALV.csv
+HOM,HNX,Xi măng VICEM Hoàng Mai,Xây dựng và Vật liệu,Construction & Materials,2009.0,833.0,4010.0,0.01,http://www.ximanghoangmai.vn,2.4,72.0,74.8,CT,HOM.csv
+PXT,UPCOM,Xây lắp Đường ống Dầu khí,Xây dựng và Vật liệu,Construction & Materials,2009.0,433.0,501.0,0.022,http://www.pvc-pt.vn,,20.0,20.0,CT,PXT.csv
+VC1,HNX,Xây dựng số 1,Xây dựng và Vật liệu,Construction & Materials,2009.0,121.0,0.0,0.026,http://www.vinaconex1.com.vn,,12.0,12.0,CT,VC1.csv
+DFF,UPCOM,Tập đoàn Đua Fat,Xây dựng và Vật liệu,Construction & Materials,2009.0,120.0,307.0,0.0,https://duafat.com.vn,1.8,80.0,80.0,CT,DFF.csv
+PXI,UPCOM,XL CN và dân dụng Dầu khí,Xây dựng và Vật liệu,Construction & Materials,2009.0,60.0,3099.0,0.002,http://www.pvc-ic.com.vn,,30.0,30.0,CT,PXI.csv
+MCG,HOSE,Năng lượng và Bất động sản MCG,Xây dựng và Vật liệu,Construction & Materials,2009.0,43.0,4853.0,0.002,http://www.mecojsc.vn,2.0,52.1,57.5,CT,MCG.csv
+MBG,HNX,Tập đoàn MBG,Xây dựng và Vật liệu,Construction & Materials,2009.0,31.0,9038.0,0.012,http://www.maxxbau.com,3.1,120.2,112.4,CT,MBG.csv
+MST,HNX,Đầu tư MST,Xây dựng và Vật liệu,Construction & Materials,2009.0,21.0,4201.0,0.001,http://www.mmst.vn,2.6,68.1,68.1,CT,MST.csv
+EVG,HOSE,Tập đoàn Everland,Xây dựng và Vật liệu,Construction & Materials,2009.0,20.0,1398.0,0.001,http://www.everland.vn,2.6,215.2,215.2,CT,EVG.csv
+KPF,HOSE,Đầu tư Tài sản KOJI,Xây dựng và Vật liệu,Construction & Materials,2009.0,5.0,846.0,0.031,http://www.kpf.com.vn,2.5,60.9,60.9,CT,KPF.csv
+CTR,HOSE,Công trình Viettel,Xây dựng và Vật liệu,Construction & Materials,2010.0,9536.0,9288.0,0.098,http://www.congtrinhviettel.com.vn,2.8,114.4,114.4,CT,CTR.csv
+VGC,HOSE,Tổng Công ty Viglacera,Xây dựng và Vật liệu,Construction & Materials,2010.0,7629.0,4286.0,0.057,http://www.viglacera.com.vn,3.1,448.4,448.4,CT,VGC.csv
+SJG,UPCOM,Tổng Công ty Sông Đà,Xây dựng và Vật liệu,Construction & Materials,2010.0,4206.0,275.0,0.0,http://www.songda.vn,2.6,449.5,449.5,CT,SJG.csv
+CC1,UPCOM,TCT Xây dựng số 1,Xây dựng và Vật liệu,Construction & Materials,2010.0,1931.0,804.0,0.0,http://www.cc1jsc.com.vn,2.5,328.6,328.9,CT,CC1.csv
+HHV,HOSE,Đầu tư Hạ tầng Giao thông Đèo Cả,Xây dựng và Vật liệu,Construction & Materials,2010.0,987.0,366.0,0.021,https://hhv.com.vn,2.2,534.8,267.4,CT,HHV.csv
+SCI,HNX,SCI E&amp;C,Xây dựng và Vật liệu,Construction & Materials,2010.0,539.0,335.0,0.011,http://www.sci-enc.com,3.0,25.4,25.4,CT,SCI.csv
+BDT,UPCOM,VLXD Đồng Tháp,Xây dựng và Vật liệu,Construction & Materials,2010.0,513.0,446.0,0.005,http://www.dongthapbmc.vn,3.0,38.6,38.6,CT,BDT.csv
+GTS,UPCOM,Công trình Giao thông Sài Gòn,Xây dựng và Vật liệu,Construction & Materials,2010.0,505.0,638.0,0.002,http://www.giaothongsaigon.com.vn,2.7,28.5,28.5,CT,GTS.csv
+MVC,UPCOM,Vật liệu và XD Bình Dương,Xây dựng và Vật liệu,Construction & Materials,2010.0,429.0,280.0,0.0,http://www.vlxdbd.com.vn,2.3,100.0,100.0,CT,MVC.csv
+LIC,UPCOM,LICOGI,Xây dựng và Vật liệu,Construction & Materials,2010.0,255.0,319.0,0.0,http://www.licogi.com.vn,2.2,90.0,90.0,CT,LIC.csv
+PDB,HNX,DIN Capital,Xây dựng và Vật liệu,Construction & Materials,2010.0,191.0,720.0,0.001,http://www.dufago.com.vn,,8.9,8.9,CT,PDB.csv
+GKM,HNX,Khang Minh Group,Xây dựng và Vật liệu,Construction & Materials,2010.0,137.0,281.0,0.0,https://khangminhgroup.com/,2.7,23.8,23.8,CT,GKM.csv
+BMN,UPCOM,Công ty 715,Xây dựng và Vật liệu,Construction & Materials,2010.0,134.0,167.0,0.0,http://www.congty715.com.vn,,2.8,2.8,CT,BMN.csv
+HVH,HOSE,Đầu tư và Công nghệ HVC,Xây dựng và Vật liệu,Construction & Materials,2010.0,102.0,0.0,0.006,http://www.hvcgroup.net,3.1,36.9,36.9,CT,HVH.csv
+CRC,HOSE,Create Capital Việt Nam,Xây dựng và Vật liệu,Construction & Materials,2010.0,80.0,3531.0,0.003,http://www.createcapital.vn,2.9,30.0,30.0,CT,CRC.csv
+LG9,UPCOM,Cơ giới và XL số 9 (Licogi 9),Xây dựng và Vật liệu,Construction & Materials,2010.0,68.0,240.0,0.0,http://www.licogi9.com.vn,2.3,5.0,5.0,CT,LG9.csv
+FIC,UPCOM,VLXD số 1,Xây dựng và Vật liệu,Construction & Materials,2010.0,67.0,163.0,0.0,http://www.fico.com.vn,2.1,127.0,127.0,CT,FIC.csv
+TTL,HNX,TCT Thăng Long,Xây dựng và Vật liệu,Construction & Materials,2010.0,64.0,334.0,0.0,http://www.tlg.com.vn,2.3,41.9,41.9,CT,TTL.csv
+SNZ,UPCOM,SONADEZI,Xây dựng và Vật liệu,Construction & Materials,2010.0,49.0,512.0,0.0,http://www.sonadezi.com.vn,3.1,376.5,376.5,CT,SNZ.csv
+KDM,HNX,TCT Khu dân mới,Xây dựng và Vật liệu,Construction & Materials,2010.0,0.0,131.0,0.0,https://kdmgroup.vn/,,7.1,7.1,CT,KDM.csv
+HUB,HOSE,Xây lắp Huế,Xây dựng và Vật liệu,Construction & Materials,2011.0,1622.0,998.0,0.021,http://www.xaylaphue.com.vn,3.0,22.9,19.1,CT,HUB.csv
+CI5,UPCOM,Đầu tư Xây dựng số 5,Xây dựng và Vật liệu,Construction & Materials,2011.0,134.0,133.0,0.0,http://www.cic5.com.vn,,2.7,2.7,CT,CI5.csv
+HMR,HNX,Đá Hoàng Mai,Xây dựng và Vật liệu,Construction & Materials,2011.0,72.0,143.0,0.0,https://rcchoangmai.vn,,5.6,5.6,CT,HMR.csv
+E29,UPCOM,Đầu tư XD và Kỹ thuật 29,Xây dựng và Vật liệu,Construction & Materials,2012.0,562.0,179.0,0.0,http://www.congty29.vn,,5.0,5.0,CT,E29.csv
+VCX,UPCOM,Xi măng Yên Bình,Xây dựng và Vật liệu,Construction & Materials,2012.0,348.0,668.0,0.001,http://www.ximangyenbinh.com,,26.5,26.5,CT,VCX.csv
+HU4,UPCOM,Đầu tư và Xây dựng HUD4,Xây dựng và Vật liệu,Construction & Materials,2012.0,77.0,1308.0,0.021,http://www.hud4.vn,2.4,15.0,15.0,CT,HU4.csv
+TGG,HOSE,Louis Capital,Xây dựng và Vật liệu,Construction & Materials,2012.0,5.0,0.0,0.001,https://louiscapital.vn,2.9,27.3,27.3,CT,TGG.csv
+TA9,HNX,Xây lắp Thành An 96,Xây dựng và Vật liệu,Construction & Materials,2013.0,3082.0,1021.0,0.165,http://www.thanhan96.vn,,12.4,12.4,CT,TA9.csv
+TDF,UPCOM,Xây dựng Trung Đô,Xây dựng và Vật liệu,Construction & Materials,2013.0,705.0,530.0,0.0,http://www.trungdo.vn,2.8,30.0,30.0,CT,TDF.csv
+DCR,UPCOM,Gạch men COSEVCO,Xây dựng và Vật liệu,Construction & Materials,2013.0,324.0,170.0,0.0,http://www.dacera.com.vn,,6.5,6.5,CT,DCR.csv
+TS3,UPCOM,Trường Sơn 532,Xây dựng và Vật liệu,Construction & Materials,2013.0,142.0,0.0,0.0,,,3.9,3.9,CT,TS3.csv
+DC1,UPCOM,Phát triển Xây dựng số 1 (DIC1),Xây dựng và Vật liệu,Construction & Materials,2013.0,126.0,0.0,0.022,https://dic1.vn/,,4.1,4.1,CT,DC1.csv
+ICN,UPCOM,XD Dầu Khí IDICO,Xây dựng và Vật liệu,Construction & Materials,2013.0,110.0,123.0,0.004,https://www.idico.com.vn,2.8,12.0,12.0,CT,ICN.csv
+VW3,UPCOM,VIWASEEN.3,Xây dựng và Vật liệu,Construction & Materials,2013.0,,0.0,0.006,http://www.viwaseen3.com.vn,,2.0,2.0,CT,VW3.csv
+BOT,UPCOM,BOT Cầu Thái Hà,Xây dựng và Vật liệu,Construction & Materials,2014.0,15.0,0.0,0.001,http://www.botcauthaiha.com.vn,2.2,59.2,59.2,CT,BOT.csv
+CNN,UPCOM,Xây dựng Coninco,Xây dựng và Vật liệu,Construction & Materials,2015.0,1019.0,185.0,0.0,http://www.coninco.com.vn,,8.8,8.8,CT,CNN.csv
+C4G,UPCOM,Tập Đoàn Cienco4,Xây dựng và Vật liệu,Construction & Materials,2015.0,864.0,1276.0,0.001,http://www.cienco4.vn,2.4,224.7,224.7,CT,C4G.csv
+XMD,UPCOM,Xuân Mai - Đạo Tú,Xây dựng và Vật liệu,Construction & Materials,2015.0,255.0,488.0,0.0,http://www.betongdaotu.com.vn,,4.0,4.0,CT,XMD.csv
+E12,UPCOM,XD Điện VNECO 12,Xây dựng và Vật liệu,Construction & Materials,2015.0,70.0,106.0,0.0,http://www.vneco12.com.vn,,1.2,1.2,CT,E12.csv
+NXT,UPCOM,SX và Cung ứng VLXD Kon Tum,Xây dựng và Vật liệu,Construction & Materials,2015.0,50.0,152.0,0.001,http://www.kovalixa.net,,6.6,6.6,CT,NXT.csv
+QNT,UPCOM,Tư vấn và Đầu tư Phát triển Quảng Nam,Xây dựng và Vật liệu,Construction & Materials,2017.0,19.0,0.0,0.0,,,3.2,0.1,CT,QNT.csv
+SCG,HNX,Xây dựng SCG,Xây dựng và Vật liệu,Construction & Materials,2019.0,667.0,0.0,0.0,https://scgr.vn,2.1,85.0,85.0,CT,SCG.csv
+TED,UPCOM,Thiết kế GTVT,Xây dựng và Vật liệu,Construction & Materials,,484.0,227.0,0.346,https://tedi.vn/,,12.5,12.5,CT,TED.csv
+DNM,HNX,Y tế Danameco,Y tế,Health Care,1976.0,693.0,394.0,0.036,http://www.danameco.com,2.8,5.3,5.3,CT,DNM.csv
+DBM,UPCOM,BAMEPHARM,Y tế,Health Care,1976.0,156.0,254.0,0.23,http://www.bamepharm.com.vn,,1.9,1.9,CT,DBM.csv
+AGP,UPCOM,Dược phẩm AGIMEXPHARM,Y tế,Health Care,1981.0,364.0,627.0,0.0,http://www.agimexpharm.com,3.1,18.0,18.0,CT,AGP.csv
+LDP,HNX,Dược Lâm Đồng - Ladophar,Y tế,Health Care,1982.0,215.0,339.0,0.002,https://ladophar.com/,3.3,12.7,12.7,CT,LDP.csv
+DDN,UPCOM,Dược - TB Y tế Đà Nẵng,Y tế,Health Care,1984.0,229.0,1226.0,0.0,http://www.dapharco.com.vn,,15.3,15.3,CT,DDN.csv
+SPM,HOSE,S.P.M CORP,Y tế,Health Care,1988.0,196.0,203.0,0.019,http://www.spm.com.vn,2.7,13.8,14.0,CT,SPM.csv
+PBC,UPCOM,Dược Phẩm TW 1- Pharbaco,Y tế,Health Care,1993.0,586.0,738.0,0.0,http://www.pharbaco.com.vn,2.3,113.3,113.3,CT,PBC.csv
+DPP,UPCOM,Dược Đồng Nai,Y tế,Health Care,1996.0,90.0,141.0,0.001,http://www.donaipharm.com.vn,,3.0,3.0,CT,DPP.csv
+PMC,HNX,Pharmedic,Y tế,Health Care,1997.0,526.0,1740.0,0.059,http://www.pharmedic.com.vn,3.1,9.3,9.3,CT,PMC.csv
+TRA,HOSE,Traphaco,Y tế,Health Care,1999.0,1434.0,0.0,0.459,http://www.traphaco.com.vn,2.9,41.5,41.5,CT,TRA.csv
+PPP,HNX,PP.Pharco,Y tế,Health Care,2000.0,232.0,0.0,0.025,https://duocphongphu.com.vn/,,8.8,8.8,CT,PPP.csv
+IMP,HOSE,IMEXPHARM,Y tế,Health Care,2001.0,1246.0,2503.0,0.498,http://www.imexpharm.com,2.6,66.7,66.7,CT,IMP.csv
+JVC,HOSE,Đầu tư và Phát triển Y tế Việt Nhật,Y tế,Health Care,2001.0,180.0,3510.0,0.013,http://www.ytevietnhat.com.vn,2.2,112.5,112.5,CT,JVC.csv
+OPC,HOSE,Dược phẩm OPC,Y tế,Health Care,2002.0,1029.0,981.0,0.008,http://www.opcpharma.com,2.9,64.1,64.1,CT,OPC.csv
+MKP,UPCOM,Dược phẩm Mekophar,Y tế,Health Care,2002.0,717.0,1250.0,0.156,http://www.mekophar.com,2.4,25.3,25.5,CT,MKP.csv
+TTD,UPCOM,Bệnh viện Tim Tâm Đức,Y tế,Health Care,2002.0,589.0,206.0,0.01,http://www.tamduchearthospital.com,2.7,15.6,15.6,CT,TTD.csv
+AMV,HNX,Dược-TB Y tế Việt Mỹ,Y tế,Health Care,2002.0,13.0,341.0,0.008,http://amvibiotech.com,3.1,131.1,131.1,CT,AMV.csv
+DHD,UPCOM,Dược Vật Tư Y Tế Hải Dương,Y tế,Health Care,2003.0,797.0,409.0,0.001,http://www.hdpharma.vn,2.4,15.0,15.0,CT,DHD.csv
+TVP,UPCOM,Dược phẩm TV.Pharm,Y tế,Health Care,2003.0,713.0,234.0,0.001,http://www.tvpharm.com.vn,3.2,29.5,11.1,CT,TVP.csv
+VDP,HOSE,Dược phẩm VIDIPHA,Y tế,Health Care,2003.0,426.0,506.0,0.004,http://www.vidipha.com.vn,3.3,16.8,16.8,CT,VDP.csv
+DP3,HNX,Dược Phẩm TW3,Y tế,Health Care,2003.0,303.0,306.0,0.009,http://www.duocphamtw3.com,3.5,8.6,8.6,CT,DP3.csv
+APC,HOSE,Chiếu xạ An Phú,Y tế,Health Care,2003.0,215.0,1467.0,0.152,http://www.apic.com.vn,2.5,19.9,20.1,CT,APC.csv
+MKV,HNX,Dược Thú Y Cai Lậy,Y tế,Health Care,2003.0,107.0,103.0,0.03,http://www.mekovet.com.vn,,5.0,5.0,CT,MKV.csv
+DHG,HOSE,Dược Hậu Giang,Y tế,Health Care,2004.0,2678.0,3660.0,0.542,http://www.dhgpharma.com.vn,3.0,130.7,130.7,CT,DHG.csv
+DMC,HOSE,Dược phẩm DOMESCO,Y tế,Health Care,2004.0,1109.0,0.0,0.551,http://www.domesco.com,2.7,34.7,34.7,CT,DMC.csv
+DCL,HOSE,Dược phẩm Cửu Long,Y tế,Health Care,2004.0,959.0,2216.0,0.013,http://dcl.com.vn,2.5,73.0,73.0,CT,DCL.csv
+HDP,UPCOM,Dược Hà Tĩnh,Y tế,Health Care,2004.0,611.0,670.0,0.002,http://hadiphar.vn/,,9.5,9.5,CT,HDP.csv
+DBT,HOSE,Dược phẩm Bến Tre,Y tế,Health Care,2004.0,556.0,2153.0,0.028,http://www.bepharco.com,2.6,14.2,14.2,CT,DBT.csv
+MED,HNX,Dược Mediplantex,Y tế,Health Care,2004.0,531.0,0.0,0.0,http://www.mediplantex.com,2.3,12.4,12.4,CT,MED.csv
+DPH,UPCOM,Dược phẩm Hải Phòng,Y tế,Health Care,2005.0,336.0,0.0,0.001,https://haipharco.vn,3.2,3.0,3.0,CT,DPH.csv
+BCP,UPCOM,Dược Enlie,Y tế,Health Care,2005.0,291.0,510.0,0.003,http://www.becamexpharma.vn,,6.0,6.0,CT,BCP.csv
+VMD,HOSE,Y Dược phẩm Vimedimex,Y tế,Health Care,2006.0,1087.0,364.0,0.014,http://www.vietpharm.com.vn,2.6,15.4,15.4,CT,VMD.csv
+DTG,UPCOM,Dược phẩm Tipharco,Y tế,Health Care,2006.0,346.0,312.0,0.001,http://www.tipharco.com.vn,,6.3,6.3,CT,DTG.csv
+CNC,UPCOM,Công nghệ cao Traphaco,Y tế,Health Care,2006.0,322.0,526.0,0.002,http://www.traphacocnc.com.vn,3.0,11.4,11.4,CT,CNC.csv
+MTP,UPCOM,Dược Medipharco,Y tế,Health Care,2006.0,206.0,0.0,0.001,http://www.medipharco.com.vn,,7.5,7.5,CT,MTP.csv
+DAN,UPCOM,Dược Danapha,Y tế,Health Care,2007.0,386.0,189.0,0.0,http://www.danapha.com,3.2,20.9,21.1,CT,DAN.csv
+CVN,HNX,Vinam Group,Y tế,Health Care,2007.0,56.0,2593.0,0.0,http://vinamgroup.com.vn/,,29.7,29.7,CT,CVN.csv
+DTP,UPCOM,Dược phẩm CPC1 Hà Nội,Y tế,Health Care,2009.0,944.0,109.0,0.0,http://www.cpc1hn.com.vn,3.2,16.2,16.2,CT,DTP.csv
+DBD,HOSE,Dược - TB Y tế Bình Định,Y tế,Health Care,2010.0,1191.0,1841.0,0.075,http://www.bidiphar.com,2.8,74.8,74.9,CT,DBD.csv
+CDP,UPCOM,Dược phẩm TW Codupha,Y tế,Health Care,2010.0,465.0,903.0,0.0,http://www.codupha.com.vn,,18.2,18.3,CT,CDP.csv
+DP1,UPCOM,Dược phẩm Trung ương CPC1,Y tế,Health Care,2010.0,331.0,402.0,0.0,http://www.cpc1.com.vn,2.3,21.0,21.0,CT,DP1.csv
+DVN,UPCOM,Tổng Công ty Dược Việt Nam,Y tế,Health Care,2011.0,1033.0,283.0,0.0,http://www.vinapharm.com.vn,2.3,237.0,237.0,CT,DVN.csv
+DVM,HNX,Dược liệu Việt Nam,Y tế,Health Care,2011.0,144.0,221.0,0.0,https://duoclieuvietnam.com.vn,,35.7,35.7,CT,DVM.csv
+BIO,UPCOM,Vắc xin và Sinh phẩm Nha Trang,Y tế,Health Care,2011.0,59.0,547.0,0.001,https://biopharco2.com.vn/,3.1,8.6,8.6,CT,BIO.csv
+TNH,HOSE,Bệnh viện Quốc tế Thái Nguyên,Y tế,Health Care,2012.0,748.0,3731.0,0.381,http://www.benhvienquoctethainguyen.com,2.6,51.9,51.9,CT,TNH.csv
+VHE,HNX,Dược liệu và Thực phẩm VN,Y tế,Health Care,2016.0,50.0,902.0,0.0,http://www.vinaherbfoods.com,,33.1,33.1,CT,VHE.csv
+VKC,HNX,VKC Holdings,Ô tô và phụ tùng,Automobiles & Parts,1993.0,77.0,128.0,0.035,https://vkcholdings.vn,,19.3,20.0,CT,VKC.csv
+HTL,HOSE,Ô tô Trường Long,Ô tô và phụ tùng,Automobiles & Parts,1998.0,334.0,131.0,0.461,http://www.truonglong.com,3.6,12.0,12.0,CT,HTL.csv
+HAX,HOSE,Ô tô Hàng Xanh,Ô tô và phụ tùng,Automobiles & Parts,2000.0,718.0,2696.0,0.161,http://www.haxaco.com.vn,3.1,56.9,56.9,CT,HAX.csv
+SVC,HOSE,SAVICO,Ô tô và phụ tùng,Automobiles & Parts,2004.0,4824.0,952.0,0.019,http://www.savico.com.vn,3.0,33.3,33.3,CT,SVC.csv
+CMC,HNX,Đầu tư CMC,Ô tô và phụ tùng,Automobiles & Parts,2004.0,17.0,414.0,0.011,http://www.cmci.com.vn,,4.6,4.6,CT,CMC.csv
+DRC,HOSE,Cao su Đà Nẵng,Ô tô và phụ tùng,Automobiles & Parts,2005.0,1734.0,14480.0,0.078,https://drc.com.vn/,2.8,118.8,118.8,CT,DRC.csv
+CSM,HOSE,Cao su Miền Nam,Ô tô và phụ tùng,Automobiles & Parts,2006.0,2144.0,5415.0,0.007,http://www.casumina.com,2.0,103.6,103.6,CT,CSM.csv
+SRC,HOSE,Cao su Sao Vàng,Ô tô và phụ tùng,Automobiles & Parts,2006.0,842.0,2601.0,0.001,http://www.src.com.vn,2.7,28.1,28.1,CT,SRC.csv
+TMT,HOSE,Ô tô TMT,Ô tô và phụ tùng,Automobiles & Parts,2006.0,678.0,1204.0,0.03,http://www.tmt-vietnam.com.vn,2.6,36.9,37.3,CT,TMT.csv
+HHS,HOSE,Đầu tư DV Hoàng Huy,Ô tô và phụ tùng,Automobiles & Parts,2008.0,34.0,22018.0,0.018,http://www.hoanghuyhhs.vn,2.7,321.4,321.4,CT,HHS.csv
+CTF,HOSE,City Auto,Ô tô và phụ tùng,Automobiles & Parts,2009.0,316.0,491.0,0.001,http://www.cityford.com.vn,2.4,76.0,76.0,CT,CTF.csv
+VVS,UPCOM,Đầu tư Phát triển Máy Việt Nam,Ô tô và phụ tùng,Automobiles & Parts,2010.0,352.0,105.0,0.0,https://vimid.vn,,20.5,20.5,CT,VVS.csv
+SMA,HOSE,Thiết bị Phụ tùng Sài Gòn,"Điện, nước & xăng dầu khí đốt",Utilities,1974.0,21.0,337.0,0.001,http://www.saigonmachinco.vn,3.4,20.4,20.4,CT,SMA.csv
+DNW,UPCOM,Cấp nước Đồng Nai,"Điện, nước & xăng dầu khí đốt",Utilities,1985.0,936.0,909.0,0.001,http://www.dowaco.vn,3.2,120.0,120.0,CT,DNW.csv
+GAS,HOSE,PV Gas,"Điện, nước & xăng dầu khí đốt",Utilities,1990.0,3800.0,10295.0,0.03,http://www.pvgas.com.vn,2.8,1914.0,1914.0,CT,GAS.csv
+TDW,HOSE,Cấp nước Thủ Đức,"Điện, nước & xăng dầu khí đốt",Utilities,1991.0,412.0,0.0,0.027,http://www.capnuocthuduc.vn,3.3,8.5,8.5,CT,TDW.csv
+GDW,HNX,Cấp nước Gia Định,"Điện, nước & xăng dầu khí đốt",Utilities,1991.0,322.0,297.0,0.056,http://www.capnuocgiadinh.vn,2.8,9.5,9.5,CT,GDW.csv
+BTW,HNX,Cấp nước Bến Thành,"Điện, nước & xăng dầu khí đốt",Utilities,1991.0,234.0,309.0,0.214,http://capnuocbenthanh.com/,3.1,9.4,9.4,CT,BTW.csv
+NNT,UPCOM,Cấp nước Ninh Thuận,"Điện, nước & xăng dầu khí đốt",Utilities,1992.0,271.0,146.0,0.003,http://www.capnuocninhthuan.com,2.6,9.5,9.5,CT,NNT.csv
+CMW,UPCOM,Cấp nước Cà Mau,"Điện, nước & xăng dầu khí đốt",Utilities,1992.0,244.0,524.0,0.0,http://www.ctncamau.com.vn,2.8,15.5,15.5,CT,CMW.csv
+TMP,HOSE,Thủy điện Thác Mơ,"Điện, nước & xăng dầu khí đốt",Utilities,1994.0,160.0,966.0,0.006,http://www.tmhpp.com.vn,3.4,70.0,70.0,CT,TMP.csv
+NS2,UPCOM,Nước sạch số 2 Hà Nội,"Điện, nước & xăng dầu khí đốt",Utilities,1996.0,516.0,468.0,0.0,http://www.hawater.com.vn,2.6,56.8,56.8,CT,NS2.csv
+HDW,UPCOM,Nước sạch Hải Dương,"Điện, nước & xăng dầu khí đốt",Utilities,1998.0,919.0,916.0,0.001,http://hdwaco.com.vn/,3.4,31.9,31.9,CT,HDW.csv
+PJC,HNX,TM và Vận tải Petrolimex HN,"Điện, nước & xăng dầu khí đốt",Utilities,1999.0,483.0,801.0,0.004,http://www.petajicohanoi.com.vn,,7.3,7.3,CT,PJC.csv
+TMC,HNX,XNK Thủ Đức,"Điện, nước & xăng dầu khí đốt",Utilities,2000.0,270.0,0.0,0.017,http://www.timexcothuduc.com.vn,,12.4,12.4,CT,TMC.csv
+SFC,HOSE,Nhiên liệu Sài Gòn,"Điện, nước & xăng dầu khí đốt",Utilities,2000.0,231.0,0.0,0.008,http://www.sfc.com.vn,3.2,11.2,11.3,CT,SFC.csv
+HTC,HNX,Thương mại Hóc Môn,"Điện, nước & xăng dầu khí đốt",Utilities,2001.0,541.0,180.0,0.014,http://www.hotraco.com.vn,2.6,16.5,16.5,CT,HTC.csv
+QTP,UPCOM,Nhiệt điện Quảng Ninh,"Điện, nước & xăng dầu khí đốt",Utilities,2002.0,853.0,9249.0,0.01,http://www.quangninhtpc.com.vn,3.0,450.0,450.0,CT,QTP.csv
+CCI,HOSE,CIDICO,"Điện, nước & xăng dầu khí đốt",Utilities,2002.0,93.0,411.0,0.024,http://www.cidico.com.vn,3.2,17.5,17.7,CT,CCI.csv
+GHC,UPCOM,Thủy điện Gia Lai,"Điện, nước & xăng dầu khí đốt",Utilities,2002.0,72.0,3994.0,0.002,https://ghc.vn,3.2,47.7,47.7,CT,GHC.csv
+HJS,HNX,Thủy điện Nậm Mu,"Điện, nước & xăng dầu khí đốt",Utilities,2003.0,125.0,418.0,0.002,http://www.thuydiennammu.com.vn,3.1,21.0,21.0,CT,HJS.csv
+SEB,HNX,Điện miền Trung,"Điện, nước & xăng dầu khí đốt",Utilities,2003.0,86.0,0.0,0.0,http://www.mientrungpid.com.vn,2.9,32.0,32.0,CT,SEB.csv
+GSM,UPCOM,Thủy điện Hương Sơn,"Điện, nước & xăng dầu khí đốt",Utilities,2003.0,66.0,0.0,0.0,http://www.thuydienhuongson.vn,3.2,28.6,28.6,CT,GSM.csv
+DRL,HOSE,Thủy điện - Điện lực 3,"Điện, nước & xăng dầu khí đốt",Utilities,2003.0,34.0,1852.0,0.032,http://www.pc3hp.com.vn,3.2,9.5,9.5,CT,DRL.csv
+ASP,HOSE,Dầu khí An Pha,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,1520.0,4360.0,0.49,http://www.anphapetrol.com,2.2,37.3,37.3,CT,ASP.csv
+PGC,HOSE,Gas Petrolimex,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,1058.0,0.0,0.051,http://www.pgas.petrolimex.com.vn,2.5,60.3,60.3,CT,PGC.csv
+CTW,UPCOM,Cấp thoát nước Cần Thơ,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,456.0,232.0,0.0,http://www.ctn-cantho.com.vn,3.1,28.0,28.0,CT,CTW.csv
+SJD,HOSE,Thủy điện Cần Đơn,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,281.0,0.0,0.149,http://www.candon.com.vn,3.3,69.0,69.0,CT,SJD.csv
+VSH,HOSE,Thủy điện Vĩnh Sơn - Sông Hinh,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,215.0,3653.0,0.116,http://www.vshpc.evn.com.vn,3.1,236.2,236.2,CT,VSH.csv
+SII,HOSE,Hạ tầng Nước Sài Gòn,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,159.0,167.0,0.489,http://www.saigonwater.com.vn,2.2,64.5,64.5,CT,SII.csv
+CHP,HOSE,Thủy điện Miền Trung,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,135.0,3896.0,0.039,http://www.chp.vn,3.1,146.9,146.9,CT,CHP.csv
+BMF,UPCOM,VLXD và Chất đốt Đồng Nai,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,131.0,103.0,0.0,https://chatdotdongnai.com/,,4.2,4.2,CT,BMF.csv
+SHP,HOSE,Thủy điện Miền Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,120.0,3173.0,0.052,http://www.shp.com.vn,3.3,101.2,101.2,CT,SHP.csv
+ND2,UPCOM,Đầu tư và PT điện Miền Bắc 2,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,87.0,0.0,0.352,http://www.nedi2.com.vn,2.9,50.0,50.0,CT,ND2.csv
+LKW,UPCOM,Cấp nước Long Khánh,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,65.0,201.0,0.021,http://www.capnuoclongkhanh.com.vn,,2.5,2.5,CT,LKW.csv
+TDB,UPCOM,Thủy điện Định Bình,"Điện, nước & xăng dầu khí đốt",Utilities,2004.0,24.0,818.0,0.001,http://www.thuydiendinhbinh.vn,2.8,8.2,8.2,CT,TDB.csv
+KHP,HOSE,Điện lực Khánh Hòa,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,1034.0,7667.0,0.02,https://pckhanhhoa.cpc.vn,2.4,58.9,60.4,CT,KHP.csv
+HWS,UPCOM,Cấp nước Thừa Thiên Huế,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,518.0,577.0,0.001,http://huewaco.com.vn,2.9,87.4,87.6,CT,HWS.csv
+NBW,HNX,Cấp nước Nhà Bè,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,387.0,325.0,0.043,http://www.capnuocnhabe.vn,,10.9,10.9,CT,NBW.csv
+DNH,UPCOM,Thủy điện Đa Nhim-Hàm Thuận-Đa Mi,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,260.0,114.0,0.0,https://www.dhd.com.vn,3.3,422.4,422.4,CT,DNH.csv
+TBC,HOSE,Thủy điện Thác Bà,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,158.0,1230.0,0.008,http://www.thacba.com.vn,3.3,63.5,63.5,CT,TBC.csv
+QPH,UPCOM,Thủy điện Quế Phong,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,30.0,0.0,0.002,http://www.thuydienquephong.com.vn,3.2,18.6,18.6,CT,QPH.csv
+TDG,HOSE,Đầu tư TDG Global,"Điện, nước & xăng dầu khí đốt",Utilities,2005.0,27.0,2765.0,0.003,http://www.thaiduongpetrol.vn,2.4,16.8,16.8,CT,TDG.csv
+PGS,HNX,Khí Miền Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,1209.0,443.0,0.015,http://www.southerngas.com.vn,2.7,50.0,50.0,CT,PGS.csv
+BWE,HOSE,Nước - Môi trường Bình Dương,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,1061.0,3997.0,0.178,http://www.biwase.com.vn,2.9,192.9,192.9,CT,BWE.csv
+PPC,HOSE,Nhiệt điện Phả Lại,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,803.0,9020.0,0.131,http://ppc.evn.vn,2.3,320.6,326.2,CT,PPC.csv
+DWS,UPCOM,Cấp nước Đồng Tháp,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,718.0,580.0,0.0,http://www.dowasen.com,3.0,25.9,25.9,CT,DWS.csv
+NBT,UPCOM,Cấp thoát nước Bến Tre,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,279.0,357.0,0.005,http://www.capnuocbentre.vn,3.6,29.4,29.4,CT,NBT.csv
+VMG,UPCOM,Vimexco Gas,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,80.0,1541.0,0.007,http://www.vimexcogas.com.vn,,9.6,9.6,CT,VMG.csv
+SP2,UPCOM,Thủy điện Sử Pán 2,"Điện, nước & xăng dầu khí đốt",Utilities,2006.0,36.0,415.0,0.003,http://supan2.net,3.2,20.6,15.2,CT,SP2.csv
+POW,HOSE,Điện lực Dầu khí Việt Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,2125.0,44043.0,0.039,https://pvpower.vn,2.7,2341.9,2341.9,CT,POW.csv
+HPW,UPCOM,Cấp nước Hải Phòng,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,1114.0,1245.0,0.001,http://www.capnuochaiphong.com.vn,2.9,74.2,74.2,CT,HPW.csv
+PVG,HNX,Kinh doanh LPG Việt Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,535.0,3929.0,0.025,http://www.pvgaslpg.vn,2.6,36.5,36.5,CT,PVG.csv
+CLW,HOSE,Cấp nước Chợ Lớn,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,455.0,446.0,0.049,http://www.capnuoccholon.com.vn,3.0,13.0,13.0,CT,CLW.csv
+BWS,UPCOM,Cấp Nước Bà Rịa Vũng Tàu,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,424.0,739.0,0.008,http://www.bwaco.com.vn,2.9,90.0,90.0,CT,BWS.csv
+CNG,HOSE,CNG Việt Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,271.0,0.0,0.06,https://www.cngvietnam.com/,2.9,27.0,27.0,CT,CNG.csv
+PGD,HOSE,PV GAS D,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,267.0,1689.0,0.465,http://www.pvgasd.com.vn,2.9,90.0,90.0,CT,PGD.csv
+BTP,HOSE,Nhiệt điện Bà Rịa,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,261.0,1048.0,0.094,http://www.btp.com.vn,3.1,60.5,60.5,CT,BTP.csv
+POV,UPCOM,PV Oil Vũng Áng,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,177.0,0.0,0.0,http://www.pvoilvungang.com,,12.5,12.5,CT,POV.csv
+NT2,HOSE,Điện lực Nhơn Trạch 2,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,176.0,4264.0,0.154,https://www.pvpnt2.vn,3.3,287.9,287.9,CT,NT2.csv
+SBH,UPCOM,Thủy điện Sông Ba Hạ,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,131.0,199.0,0.0,http://www.sbh.evn.vn,3.2,124.2,124.2,CT,SBH.csv
+HNA,UPCOM,Thủy điện Hủa Na,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,117.0,2957.0,0.0,http://huana.com.vn/,3.0,235.2,235.2,CT,HNA.csv
+SBA,HOSE,Sông Ba JSC,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,95.0,6162.0,0.004,http://www.songba.vn,3.4,60.3,60.5,CT,SBA.csv
+HTE,UPCOM,Kinh doanh điện lực TP HCM,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,61.0,7204.0,0.0,https://tradincorp.vn,,21.6,23.6,CT,HTE.csv
+S4A,HOSE,Thủy điện Sê San 4A,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,59.0,1071.0,0.001,http://www.sesan4a.com.vn,3.0,42.2,42.2,CT,S4A.csv
+MTG,UPCOM,MTGAS,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,36.0,1042.0,0.018,http://www.mtgas.com.vn,,6.3,6.3,CT,MTG.csv
+PMG,HOSE,ĐT và SX Petro Miền Trung,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,28.0,578.0,0.252,http://www.petrocenter.com.vn,2.4,46.3,46.3,CT,PMG.csv
+HPD,UPCOM,Thủy điện Đăk Đoa,"Điện, nước & xăng dầu khí đốt",Utilities,2007.0,24.0,0.0,0.025,http://www.thuydiendakdoa.vn,,8.3,8.3,CT,HPD.csv
+NTW,UPCOM,Cấp nước Nhơn Trạch,"Điện, nước & xăng dầu khí đốt",Utilities,2008.0,87.0,231.0,0.15,http://www.ntw.com.vn,2.6,10.0,10.0,CT,NTW.csv
+ISH,UPCOM,Thủy điện Srok Phu Miêng,"Điện, nước & xăng dầu khí đốt",Utilities,2008.0,69.0,0.0,0.0,http://www.idico-shp.com.vn/,3.4,45.0,45.0,CT,ISH.csv
+PIC,HNX,Đầu tư Điện lực 3,"Điện, nước & xăng dầu khí đốt",Utilities,2008.0,57.0,5290.0,0.0,https://pc3invest.cpc.vn,3.1,33.3,33.3,CT,PIC.csv
+BHA,UPCOM,Thủy điện Bắc Hà,"Điện, nước & xăng dầu khí đốt",Utilities,2008.0,52.0,238.0,0.0,http://www.thuydienbachalaocai.com.vn,2.8,66.0,66.0,CT,BHA.csv
+DTK,HNX,Vinacomin Power,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,1969.0,969.0,0.0,http://www.vinacominpower.vn/,2.5,682.8,682.8,CT,DTK.csv
+TNW,UPCOM,Nước sạch Thái Nguyên,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,477.0,374.0,0.0,http://www.nuocsachthainguyen.vn,,16.0,16.0,CT,TNW.csv
+NBP,HNX,Nhiệt điện Ninh Bình,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,409.0,1421.0,0.012,http://www.nbtpc.com.vn,,12.9,12.9,CT,NBP.csv
+PPY,HNX,Xăng dầu dầu khí Phú Yên,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,282.0,282.0,0.0,http://www.pvoilphuyen.com.vn,,9.3,8.7,CT,PPY.csv
+VCW,UPCOM,Đầu tư Nước sạch Sông Đà,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,153.0,115.0,0.002,http://www.viwasupco.com.vn,2.8,75.0,75.0,CT,VCW.csv
+BSA,UPCOM,Thủy điện Buôn Đôn,"Điện, nước & xăng dầu khí đốt",Utilities,2009.0,60.0,405.0,0.0,http://www.thuydienbuondon.vn,3.1,65.5,63.0,CT,BSA.csv
+GEG,HOSE,Điện Gia Lai,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,665.0,1956.0,0.352,http://www.geccom.vn,2.6,321.9,321.9,CT,GEG.csv
+TLP,UPCOM,Thương mại XNK Thanh Lễ,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,572.0,592.0,0.0,http://www.thalexim.vn,2.5,236.6,236.6,CT,TLP.csv
+PEG,UPCOM,TM Kỹ thuật và Đầu tư (PETEC),"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,464.0,743.0,0.0,http://www.petec.com.vn,2.3,248.9,231.9,CT,PEG.csv
+CHS,UPCOM,Chiếu sáng TPHCM,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,395.0,457.0,0.025,http://www.chieusang.com,2.9,28.4,28.4,CT,CHS.csv
+BDW,UPCOM,Cấp thoát nước Bình Định,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,367.0,391.0,0.0,http://binhdinhwaco.com.vn/,,12.4,12.4,CT,BDW.csv
+THW,UPCOM,Cấp nước Tân Hòa,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,338.0,178.0,0.002,http://www.capnuoctanhoa.com.vn,,5.0,5.0,CT,THW.csv
+PND,UPCOM,Xăng dầu Dầu khí Nam Định,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,199.0,0.0,0.0,http://www.pvoilnamdinh.com.vn,,6.7,6.7,CT,PND.csv
+TVW,UPCOM,Cấp thoát nước Trà Vinh,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,198.0,183.0,0.0,http://www.trawaco.com.vn,,14.6,14.6,CT,TVW.csv
+DDG,HNX,Đầu tư CN XNK Đông Dương,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,150.0,379.0,0.0,http://www.dongduongcorp.com.vn,2.4,59.8,57.0,CT,DDG.csv
+PCG,HNX,Đầu tư PT Gas Đô thị,"Điện, nước & xăng dầu khí đốt",Utilities,2010.0,67.0,1174.0,0.475,http://www.pvgascity.com.vn,,18.9,18.9,CT,PCG.csv
+DNA,UPCOM,Điện nước An Giang,"Điện, nước & xăng dầu khí đốt",Utilities,2011.0,1412.0,596.0,0.0,http://www.diennuocag.com.vn,2.9,56.3,56.3,CT,DNA.csv
+PJS,UPCOM,Cấp nước Phú Hòa Tân,"Điện, nước & xăng dầu khí đốt",Utilities,2011.0,232.0,261.0,0.068,http://www.phuwaco.com.vn,,9.0,9.0,CT,PJS.csv
+PGV,HOSE,Tổng Công ty Phát điện 3,"Điện, nước & xăng dầu khí đốt",Utilities,2012.0,2478.0,2009.0,0.0,http://www.genco3.com,2.6,1123.5,1123.5,CT,PGV.csv
+PSH,HOSE,TMại ĐT Dầu khí Nam Sông Hậu,"Điện, nước & xăng dầu khí đốt",Utilities,2012.0,280.0,5222.0,0.0,http://www.nshpetro.vn,2.0,126.2,126.2,CT,PSH.csv
+AVC,UPCOM,Thủy điện A Vương,"Điện, nước & xăng dầu khí đốt",Utilities,2012.0,154.0,146.0,0.0,http://avuong.com,3.3,75.1,75.1,CT,AVC.csv
+TDM,HOSE,Nước Thủ Dầu Một,"Điện, nước & xăng dầu khí đốt",Utilities,2013.0,22.0,352.0,0.073,http://www.tdmwater.vn,3.0,100.0,100.0,CT,TDM.csv
+HND,UPCOM,Nhiệt điện Hải Phòng,"Điện, nước & xăng dầu khí đốt",Utilities,2015.0,872.0,542.0,0.0,http://www.ndhp.com.vn,2.8,500.0,500.0,CT,HND.csv
+VAV,UPCOM,VIWACO,"Điện, nước & xăng dầu khí đốt",Utilities,2015.0,216.0,100.0,0.022,https://viwaco.vn,2.8,32.0,32.0,CT,VAV.csv
+VPD,HOSE,Phát triển Điện lực Việt Nam,"Điện, nước & xăng dầu khí đốt",Utilities,2015.0,128.0,6862.0,0.001,http://www.vnpd.com.vn,3.0,106.6,106.6,CT,VPD.csv
+NTH,HNX,Thủy điện Nước Trong,"Điện, nước & xăng dầu khí đốt",Utilities,2015.0,29.0,148.0,0.0,http://www.thuydiennuoctrong.com.vn,,10.8,10.8,CT,NTH.csv
+PPT,UPCOM,Petro Times,"Điện, nước & xăng dầu khí đốt",Utilities,2015.0,0.0,307.0,0.0,https://petrotimesgroup.com,,15.0,8.0,CT,PPT.csv
+TOW,UPCOM,Cấp nước Trà Nóc - Ô Môn,"Điện, nước & xăng dầu khí đốt",Utilities,2017.0,81.0,213.0,0.101,https://tranoc-omonwaco.com.vn/,,8.0,8.0,CT,TOW.csv
